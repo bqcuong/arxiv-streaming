@@ -21,7 +21,7 @@ def sort_papers(papers):
         output[key] = papers[key]
     return output    
 
-def get_daily_papers(topic,query="slam", max_results=2):
+def get_daily_papers(topic,query, max_results=2):
     """
     @param topic: str
     @param query: str
@@ -186,11 +186,12 @@ if __name__ == "__main__":
     data_collector_web= []
     
     keywords = dict()
-    keywords["SLAM"]                = "SLAM"
-    keywords["SFM"]                 = "SFM"+"OR"+"\"Structure from Motion\""
-    keywords["Visual Localization"] = "\"Camera Localization\"OR\"Visual Localization\"OR\"Camera Re-localisation\"OR\"Loop Closure Detection\"OR\"visual place recognition\"OR\"image retrieval\""
-    keywords["Keypoint Detection"]  = "\"Keypoint Detection\"OR\"Feature Descriptor\""
-    keywords["Image Matching"]      = "\"Image Matching\"OR\"Keypoint Matching\""
+    keywords["vulnerability+repair"] = "\"vulnerability\"AND\"repair\""
+    keywords["vulnerability+fix"] = "\"vulnerability\"AND\"fix\""
+    keywords["vulnerability+patch"] = "\"vulnerability\"AND\"patch\""
+    keywords["security+repair"] = "\"security\"AND\"repair\""
+    keywords["security+fix"] = "\"security\"AND\"fix\""
+    keywords["security+patch"] = "\"security\"AND\"patch\""
 
     for topic,keyword in keywords.items():
  
@@ -204,7 +205,7 @@ if __name__ == "__main__":
         print("\n")
 
     # 1. update README.md file
-    json_file = "cv-arxiv-daily.json"
+    json_file = "daily-papers.json"
     md_file   = "README.md"
     # update json data
     update_json_file(json_file,data_collector)
@@ -212,17 +213,9 @@ if __name__ == "__main__":
     json_to_md(json_file,md_file)
 
     # 2. update docs/index.md file
-    json_file = "./docs/cv-arxiv-daily-web.json"
+    json_file = "./docs/daily-papers-web.json"
     md_file   = "./docs/index.md"
     # update json data
     update_json_file(json_file,data_collector)
     # json data to markdown
     json_to_md(json_file, md_file, to_web = True)
-
-    # 3. Update docs/wechat.md file
-    json_file = "./docs/cv-arxiv-daily-wechat.json"
-    md_file   = "./docs/wechat.md"
-    # update json data
-    update_json_file(json_file, data_collector_web)
-    # json data to markdown
-    json_to_md(json_file, md_file, to_web=False, use_title= False)
