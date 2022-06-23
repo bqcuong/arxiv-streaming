@@ -186,12 +186,12 @@ if __name__ == "__main__":
     data_collector_web= []
     
     keywords = dict()
-    keywords["vulnerability+repair"] = "ti:vulnerability+AND+ti:repair"
-    keywords["vulnerability+fix"] = "ti:vulnerability+AND+ti:fix"
-    keywords["vulnerability+patch"] = "ti:vulnerabilityti:+AND+ti:patch"
-    keywords["security+repair"] = "ti:security+AND+ti:repair"
-    keywords["security+fix"] = "ti:security+AND+ti:fix"
-    keywords["security+patch"] = "ti:security+AND+ti:patch"
+    keywords["vulnerability+repair"] = "\"ti:vulnerability\"AND\"ti:repair\""
+    keywords["vulnerability+fix"] = "\"ti:vulnerability\"AND\"ti:fix\""
+    keywords["vulnerability+patch"] = "\"ti:vulnerabilityti:\"AND\"ti:patch\""
+    keywords["security+repair"] = "\"ti:security\"AND\"ti:repair\""
+    keywords["security+fix"] = "\"ti:security\"AND\"ti:fix\""
+    keywords["security+patch"] = "\"ti:security\"AND\"ti:patch\""
 
     for topic,keyword in keywords.items():
  
