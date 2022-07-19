@@ -82,6 +82,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-07-18**|**A Certifiable Security Patch for Object Tracking in Self-Driving Systems via Historical Deviation Modeling**|Xudong Pan et.al.|[2207.08556v1](http://arxiv.org/abs/2207.08556v1)|null|
 |**2022-02-18**|**Why, How and Where of Delays in Software Security Patch Management: An Empirical Investigation in the Healthcare Sector**|Nesara Dissanayake et.al.|[2202.09016v1](http://arxiv.org/abs/2202.09016v1)|null|
 |**2021-10-18**|**A ground-truth dataset of real security patches**|Sofia Reis et.al.|[2110.09635v1](http://arxiv.org/abs/2110.09635v1)|null|
 |**2021-08-07**|**PatchRNN: A Deep Learning-Based System for Security Patch Identification**|Xinda Wang et.al.|[2108.03358v1](http://arxiv.org/abs/2108.03358v1)|null|
