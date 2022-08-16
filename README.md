@@ -1,4 +1,4 @@
-## Updated on 2022.08.15
+## Updated on 2022.08.16
 
 ## vulnerability+repair
 
@@ -64,7 +64,7 @@
 |---|---|---|---|---|
 |**2006-10-02**|**Secure Classical Bit Commitment using Fixed Capacity Communication Channels**|Adrian Kent et.al.|[quant-ph/9906103v7](http://arxiv.org/abs/quant-ph/9906103v7)|null|
 |**2022-05-17**|**On the Use of Refactoring in Security Vulnerability Fixes: An Exploratory Study on Maven Libraries**|Ayano Ikegami et.al.|[2205.08116v1](http://arxiv.org/abs/2205.08116v1)|null|
-|**2022-04-04**|**Can OpenAI Codex and Other Large Language Models Help Us Fix Security Bugs?**|Hammond Pearce et.al.|[2112.02125v2](http://arxiv.org/abs/2112.02125v2)|null|
+|**2022-08-15**|**Examining Zero-Shot Vulnerability Repair with Large Language Models**|Hammond Pearce et.al.|[2112.02125v3](http://arxiv.org/abs/2112.02125v3)|null|
 |**2021-05-07**|**Detecting Security Fixes in Open-Source Repositories using Static Code Analyzers**|Therese Fehrer et.al.|[2105.03346v1](http://arxiv.org/abs/2105.03346v1)|**[link](https://github.com/dardin88/fse_2021)**|
 |**2021-02-13**|**BPFContain: Fixing the Soft Underbelly of Container Security**|William Findlay et.al.|[2102.06972v1](http://arxiv.org/abs/2102.06972v1)|**[link](https://github.com/willfindlay/bpfcontain-rs)**|
 |**2020-12-15**|**A Quantitative Study of Security Bug Fixes of GitHub Repositories**|Daito Nakano et.al.|[2012.08053v1](http://arxiv.org/abs/2012.08053v1)|null|
