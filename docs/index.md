@@ -10,6 +10,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2022-04-28**|**Example-Based Vulnerability Detection and Repair in Java Code**|Ying Zhang et.al.|[2203.09009v2](http://arxiv.org/abs/2203.09009v2)|**[link](https://github.com/NiSE-Virginia-Tech/ying-ICPC-2022)**|
 |**2022-02-07**|**Enabling Automatic Repair of Source Code Vulnerabilities Using Data-Driven Methods**|Anastasiia Grishina et.al.|[2202.03055v1](http://arxiv.org/abs/2202.03055v1)|null|
+|**2022-08-15**|**Examining Zero-Shot Vulnerability Repair with Large Language Models**|Hammond Pearce et.al.|[2112.02125v3](http://arxiv.org/abs/2112.02125v3)|null|
 |**2022-01-04**|**Neural Transfer Learning for Repairing Security Vulnerabilities in C Code**|Zimin Chen et.al.|[2104.08308v3](http://arxiv.org/abs/2104.08308v3)|**[link](https://github.com/SteveKommrusch/VRepair)**|
 |**2021-02-13**|**Data-Driven Vulnerability Detection and Repair in Java Code**|Ying Zhang et.al.|[2102.06994v1](http://arxiv.org/abs/2102.06994v1)|null|
 |**2022-04-05**|**Repairing DoS Vulnerability of Real-World Regexes**|Nariyoshi Chida et.al.|[2010.12450v3](http://arxiv.org/abs/2010.12450v3)|**[link](https://github.com/nariyoshichida/sp2022)**|
