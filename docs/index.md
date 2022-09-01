@@ -39,7 +39,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2021-12-04**|**TRACER: Finding Patches for Open Source Software Vulnerabilities**|Congying Xu et.al.|[2112.02240v1](http://arxiv.org/abs/2112.02240v1)|null|
-|**2022-07-04**|**Elysium: Context-Aware Bytecode-Level Patching to Automatically Heal Vulnerable Smart Contracts**|Christof Ferreira Torres et.al.|[2108.10071v3](http://arxiv.org/abs/2108.10071v3)|null|
+|**2022-07-04**|**Elysium: Context-Aware Bytecode-Level Patching to Automatically Heal Vulnerable Smart Contracts**|Christof Ferreira Torres et.al.|[2108.10071v3](http://arxiv.org/abs/2108.10071v3)|**[link](https://github.com/christoftorres/elysium)**|
 |**2021-04-22**|**Patch Shortcuts: Interpretable Proxy Models Efficiently Find Black-Box Vulnerabilities**|Julia Rosenzweig et.al.|[2104.11691v1](http://arxiv.org/abs/2104.11691v1)|null|
 |**2019-05-22**|**Hey Google, What Exactly Do Your Security Patches Tell Us? A Large-Scale Empirical Study on Android Patched Vulnerabilities**|Sadegh Farhang et.al.|[1905.09352v1](http://arxiv.org/abs/1905.09352v1)|null|
 |**2018-12-11**|**Code-less Patching for Heap Vulnerabilities Using Targeted Calling Context Encoding**|Qiang Zeng et.al.|[1812.04191v1](http://arxiv.org/abs/1812.04191v1)|null|
