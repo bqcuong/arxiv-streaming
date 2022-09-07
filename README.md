@@ -83,6 +83,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-09-04**|**An Empirical Study of Automation in Software Security Patch Management**|Nesara Dissanayake et.al.|[2209.01518v1](http://arxiv.org/abs/2209.01518v1)|null|
 |**2022-07-19**|**Enhancing Security Patch Identification by Capturing Structures in Commits**|Bozhi Wu et.al.|[2207.09022v1](http://arxiv.org/abs/2207.09022v1)|null|
 |**2022-07-18**|**A Certifiable Security Patch for Object Tracking in Self-Driving Systems via Historical Deviation Modeling**|Xudong Pan et.al.|[2207.08556v1](http://arxiv.org/abs/2207.08556v1)|null|
 |**2022-09-04**|**Why, How and Where of Delays in Software Security Patch Management: An Empirical Investigation in the Healthcare Sector**|Nesara Dissanayake et.al.|[2202.09016v2](http://arxiv.org/abs/2202.09016v2)|null|
