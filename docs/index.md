@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2022.10.26
+## Updated on 2022.10.27
 
 ## vulnerability+repair
 
