@@ -22,6 +22,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-12-20**|**AutoMESC: Automatic Framework for Mining and Classifying Ethereum Smart Contract Vulnerabilities and Their Fixes**|Majd Soud et.al.|[2212.10660v1](http://arxiv.org/abs/2212.10660v1)|null|
 |**2022-09-07**|**VulCurator: A Vulnerability-Fixing Commit Detector**|Truong Giang Nguyen et.al.|[2209.03260v1](http://arxiv.org/abs/2209.03260v1)|**[link](https://github.com/ntgiang71096/vfdetector)**|
 |**2022-05-17**|**On the Use of Refactoring in Security Vulnerability Fixes: An Exploratory Study on Maven Libraries**|Ayano Ikegami et.al.|[2205.08116v1](http://arxiv.org/abs/2205.08116v1)|null|
 |**2021-07-19**|**CVEfixes: Automated Collection of Vulnerabilities and Their Fixes from Open-Source Software**|Guru Prasad Bhandari et.al.|[2107.08760v1](http://arxiv.org/abs/2107.08760v1)|**[link](https://github.com/secureIT-project/CVEfixes)**|
