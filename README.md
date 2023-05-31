@@ -19,6 +19,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-05-29**|**How Effective Are Neural Networks for Fixing Security Vulnerabilities**|Yi Wu et.al.|[2305.18607v1](http://arxiv.org/abs/2305.18607v1)|null|
 |**2023-05-23**|**Multi-Granularity Detector for Vulnerability Fixes**|Truong Giang Nguyen et.al.|[2305.13884v1](http://arxiv.org/abs/2305.13884v1)|**[link](https://github.com/soarsmu/midas)**|
 |**2022-12-20**|**AutoMESC: Automatic Framework for Mining and Classifying Ethereum Smart Contract Vulnerabilities and Their Fixes**|Majd Soud et.al.|[2212.10660v1](http://arxiv.org/abs/2212.10660v1)|null|
 |**2022-09-07**|**VulCurator: A Vulnerability-Fixing Commit Detector**|Truong Giang Nguyen et.al.|[2209.03260v1](http://arxiv.org/abs/2209.03260v1)|**[link](https://github.com/ntgiang71096/vfdetector)**|
@@ -69,6 +70,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2006-10-02**|**Secure Classical Bit Commitment using Fixed Capacity Communication Channels**|Adrian Kent et.al.|[quant-ph/9906103v7](http://arxiv.org/abs/quant-ph/9906103v7)|null|
+|**2023-05-29**|**How Effective Are Neural Networks for Fixing Security Vulnerabilities**|Yi Wu et.al.|[2305.18607v1](http://arxiv.org/abs/2305.18607v1)|null|
 |**2023-02-02**|**Fixing Hardware Security Bugs with Large Language Models**|Baleegh Ahmad et.al.|[2302.01215v1](http://arxiv.org/abs/2302.01215v1)|null|
 |**2022-05-17**|**On the Use of Refactoring in Security Vulnerability Fixes: An Exploratory Study on Maven Libraries**|Ayano Ikegami et.al.|[2205.08116v1](http://arxiv.org/abs/2205.08116v1)|null|
 |**2022-08-15**|**Examining Zero-Shot Vulnerability Repair with Large Language Models**|Hammond Pearce et.al.|[2112.02125v3](http://arxiv.org/abs/2112.02125v3)|null|
