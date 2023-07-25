@@ -1,4 +1,4 @@
-## Updated on 2023.07.24
+## Updated on 2023.07.25
 
 ## vulnerability+repair
 
@@ -19,7 +19,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-07-18**|**CONTRACTFIX: A Framework for Automatically Fixing Vulnerabilities in Smart Contracts**|Pengcheng Fang et.al.|[2307.08912v1](http://arxiv.org/abs/2307.08912v1)|null|
+|**2023-07-22**|**CONTRACTFIX: A Framework for Automatically Fixing Vulnerabilities in Smart Contracts**|Pengcheng et.al.|[2307.08912v2](http://arxiv.org/abs/2307.08912v2)|null|
 |**2023-05-29**|**How Effective Are Neural Networks for Fixing Security Vulnerabilities**|Yi Wu et.al.|[2305.18607v1](http://arxiv.org/abs/2305.18607v1)|null|
 |**2023-05-23**|**Multi-Granularity Detector for Vulnerability Fixes**|Truong Giang Nguyen et.al.|[2305.13884v1](http://arxiv.org/abs/2305.13884v1)|**[link](https://github.com/soarsmu/midas)**|
 |**2022-12-20**|**AutoMESC: Automatic Framework for Mining and Classifying Ethereum Smart Contract Vulnerabilities and Their Fixes**|Majd Soud et.al.|[2212.10660v1](http://arxiv.org/abs/2212.10660v1)|null|
