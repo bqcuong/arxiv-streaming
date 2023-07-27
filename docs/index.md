@@ -23,6 +23,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-25**|**On the unreasonable vulnerability of transformers for image restoration -- and an easy fix**|Shashank Agnihotri et.al.|[2307.13856v1](http://arxiv.org/abs/2307.13856v1)|null|
 |**2023-07-22**|**CONTRACTFIX: A Framework for Automatically Fixing Vulnerabilities in Smart Contracts**|Pengcheng et.al.|[2307.08912v2](http://arxiv.org/abs/2307.08912v2)|null|
 |**2023-05-29**|**How Effective Are Neural Networks for Fixing Security Vulnerabilities**|Yi Wu et.al.|[2305.18607v1](http://arxiv.org/abs/2305.18607v1)|null|
 |**2023-05-23**|**Multi-Granularity Detector for Vulnerability Fixes**|Truong Giang Nguyen et.al.|[2305.13884v1](http://arxiv.org/abs/2305.13884v1)|**[link](https://github.com/soarsmu/midas)**|
