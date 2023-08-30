@@ -95,6 +95,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-29**|**Multilevel Semantic Embedding of Software Patches: A Fine-to-Coarse Grained Approach Towards Security Patch Detection**|Xunzhu Tang et.al.|[2308.15233v1](http://arxiv.org/abs/2308.15233v1)|null|
 |**2023-08-09**|**Enhancing Mobile Privacy and Security: A Face Skin Patch-Based Anti-Spoofing Approach**|Qiushi Guo et.al.|[2308.04798v1](http://arxiv.org/abs/2308.04798v1)|null|
 |**2023-02-04**|**Detecting Security Patches via Behavioral Data in Code Repositories**|Nitzan Farhi et.al.|[2302.02112v1](http://arxiv.org/abs/2302.02112v1)|**[link](https://github.com/nitzanfarhi/SecurityPatchDetection)**|
 |**2022-09-16**|**On the acceptance by code reviewers of candidate security patches suggested by Automated Program Repair tools**|Aurora Papotti et.al.|[2209.07211v2](http://arxiv.org/abs/2209.07211v2)|null|
