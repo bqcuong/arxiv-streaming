@@ -4,6 +4,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-05**|**Empirical Review of Smart Contract and DeFi Security: Vulnerability Detection and Automated Repair**|Peng Qian et.al.|[2309.02391v1](http://arxiv.org/abs/2309.02391v1)|null|
 |**2023-08-25**|**Pre-trained Model-based Automated Software Vulnerability Repair: How Far are We?**|Quanjun Zhang et.al.|[2308.12533v2](http://arxiv.org/abs/2308.12533v2)|**[link](https://github.com/isenglab/llm4vulfix)**|
 |**2023-05-26**|**AIBugHunter: A Practical Tool for Predicting, Classifying and Repairing Software Vulnerabilities**|Michael Fu et.al.|[2305.16615v1](http://arxiv.org/abs/2305.16615v1)|**[link](https://github.com/awsm-research/aibughunter)**|
 |**2022-04-28**|**Example-Based Vulnerability Detection and Repair in Java Code**|Ying Zhang et.al.|[2203.09009v2](http://arxiv.org/abs/2203.09009v2)|**[link](https://github.com/NiSE-Virginia-Tech/ying-ICPC-2022)**|
@@ -20,6 +21,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-05**|**VFFINDER: A Graph-based Approach for Automated Silent Vulnerability-Fix Identification**|Son Nguyen et.al.|[2309.01971v1](http://arxiv.org/abs/2309.01971v1)|null|
 |**2023-08-20**|**Can Large Language Models Find And Fix Vulnerable Software?**|David Noever et.al.|[2308.10345v1](http://arxiv.org/abs/2308.10345v1)|null|
 |**2023-07-25**|**On the unreasonable vulnerability of transformers for image restoration -- and an easy fix**|Shashank Agnihotri et.al.|[2307.13856v1](http://arxiv.org/abs/2307.13856v1)|null|
 |**2023-07-22**|**CONTRACTFIX: A Framework for Automatically Fixing Vulnerabilities in Smart Contracts**|Pengcheng et.al.|[2307.08912v2](http://arxiv.org/abs/2307.08912v2)|null|
@@ -56,6 +58,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-05**|**Empirical Review of Smart Contract and DeFi Security: Vulnerability Detection and Automated Repair**|Peng Qian et.al.|[2309.02391v1](http://arxiv.org/abs/2309.02391v1)|null|
 |**2022-09-16**|**On the acceptance by code reviewers of candidate security patches suggested by Automated Program Repair tools**|Aurora Papotti et.al.|[2209.07211v2](http://arxiv.org/abs/2209.07211v2)|null|
 |**2022-01-04**|**Neural Transfer Learning for Repairing Security Vulnerabilities in C Code**|Zimin Chen et.al.|[2104.08308v3](http://arxiv.org/abs/2104.08308v3)|**[link](https://github.com/SteveKommrusch/VRepair)**|
 |**2018-05-08**|**On Secure Exact-repair Regenerating Codes with a Single Pareto Optimal Point**|Fangwei Ye et.al.|[1805.02989v1](http://arxiv.org/abs/1805.02989v1)|null|
