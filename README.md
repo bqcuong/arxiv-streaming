@@ -21,6 +21,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-15**|**Silent Vulnerability-fixing Commit Identification Based on Graph Neural Networks**|Hieu Dinh Vo et.al.|[2309.08225v1](http://arxiv.org/abs/2309.08225v1)|null|
+|**2023-09-15**|**REEF: A Framework for Collecting Real-World Vulnerabilities and Fixes**|Chaozheng Wang et.al.|[2309.08115v1](http://arxiv.org/abs/2309.08115v1)|null|
 |**2023-09-05**|**VFFINDER: A Graph-based Approach for Automated Silent Vulnerability-Fix Identification**|Son Nguyen et.al.|[2309.01971v1](http://arxiv.org/abs/2309.01971v1)|null|
 |**2023-08-20**|**Can Large Language Models Find And Fix Vulnerable Software?**|David Noever et.al.|[2308.10345v1](http://arxiv.org/abs/2308.10345v1)|null|
 |**2023-07-25**|**On the unreasonable vulnerability of transformers for image restoration -- and an easy fix**|Shashank Agnihotri et.al.|[2307.13856v1](http://arxiv.org/abs/2307.13856v1)|null|
