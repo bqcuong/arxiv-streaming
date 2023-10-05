@@ -47,6 +47,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-04**|**Identifying Vulnerability Patches by Comprehending Code Commits with Comprehensive Change Contexts**|Tianyu Chen et.al.|[2310.02530v1](http://arxiv.org/abs/2310.02530v1)|null|
 |**2023-09-30**|**Tracking Patches for Open Source Software Vulnerabilities**|Congying Xu et.al.|[2112.02240v2](http://arxiv.org/abs/2112.02240v2)|null|
 |**2022-07-04**|**Elysium: Context-Aware Bytecode-Level Patching to Automatically Heal Vulnerable Smart Contracts**|Christof Ferreira Torres et.al.|[2108.10071v3](http://arxiv.org/abs/2108.10071v3)|**[link](https://github.com/christoftorres/elysium)**|
 |**2021-04-22**|**Patch Shortcuts: Interpretable Proxy Models Efficiently Find Black-Box Vulnerabilities**|Julia Rosenzweig et.al.|[2104.11691v1](http://arxiv.org/abs/2104.11691v1)|null|
