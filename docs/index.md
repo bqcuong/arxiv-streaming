@@ -8,6 +8,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-15**|**ChatGPT for Vulnerability Detection, Classification, and Repair: How Far Are We?**|Michael Fu et.al.|[2310.09810v1](http://arxiv.org/abs/2310.09810v1)|null|
 |**2023-09-06**|**Empirical Review of Smart Contract and DeFi Security: Vulnerability Detection and Automated Repair**|Peng Qian et.al.|[2309.02391v2](http://arxiv.org/abs/2309.02391v2)|null|
 |**2023-08-25**|**Pre-trained Model-based Automated Software Vulnerability Repair: How Far are We?**|Quanjun Zhang et.al.|[2308.12533v2](http://arxiv.org/abs/2308.12533v2)|**[link](https://github.com/isenglab/llm4vulfix)**|
 |**2023-05-26**|**AIBugHunter: A Practical Tool for Predicting, Classifying and Repairing Software Vulnerabilities**|Michael Fu et.al.|[2305.16615v1](http://arxiv.org/abs/2305.16615v1)|**[link](https://github.com/awsm-research/aibughunter)**|
