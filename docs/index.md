@@ -108,7 +108,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-12-02**|**Just-in-Time Security Patch Detection -- LLM At the Rescue for Data Augmentation**|Xunzhu Tang et.al.|[2312.01241v1](http://arxiv.org/abs/2312.01241v1)|null|
-|**2023-11-13**|**Can LLMs Patch Security Issues?**|Kamel Alrashedy et.al.|[2312.00024v1](http://arxiv.org/abs/2312.00024v1)|null|
+|**2023-11-13**|**Can LLMs Patch Security Issues?**|Kamel Alrashedy et.al.|[2312.00024v1](http://arxiv.org/abs/2312.00024v1)|**[link](https://github.com/kamel773/llm-code-refine)**|
 |**2023-11-02**|**VFCFinder: Seamlessly Pairing Security Advisories and Patches**|Trevor Dunlap et.al.|[2311.01532v1](http://arxiv.org/abs/2311.01532v1)|null|
 |**2023-08-29**|**Multilevel Semantic Embedding of Software Patches: A Fine-to-Coarse Grained Approach Towards Security Patch Detection**|Xunzhu Tang et.al.|[2308.15233v1](http://arxiv.org/abs/2308.15233v1)|null|
 |**2023-08-09**|**Enhancing Mobile Privacy and Security: A Face Skin Patch-Based Anti-Spoofing Approach**|Qiushi Guo et.al.|[2308.04798v1](http://arxiv.org/abs/2308.04798v1)|null|
