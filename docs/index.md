@@ -8,6 +8,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-13**|**Code Security Vulnerability Repair Using Reinforcement Learning with Large Language Models**|Nafis Tanveer Islam et.al.|[2401.07031v1](http://arxiv.org/abs/2401.07031v1)|null|
 |**2024-01-08**|**Enhanced Automated Code Vulnerability Repair using Large Language Models**|David de-Fitero-Dominguez et.al.|[2401.03741v1](http://arxiv.org/abs/2401.03741v1)|null|
 |**2024-01-07**|**LLM-Powered Code Vulnerability Repair with Reinforcement Learning and Semantic Reward**|Nafis Tanveer Islam et.al.|[2401.03374v1](http://arxiv.org/abs/2401.03374v1)|null|
 |**2023-10-15**|**ChatGPT for Vulnerability Detection, Classification, and Repair: How Far Are We?**|Michael Fu et.al.|[2310.09810v1](http://arxiv.org/abs/2310.09810v1)|**[link](https://github.com/awsm-research/chatgpt4vul)**|
@@ -68,6 +69,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-13**|**Code Security Vulnerability Repair Using Reinforcement Learning with Large Language Models**|Nafis Tanveer Islam et.al.|[2401.07031v1](http://arxiv.org/abs/2401.07031v1)|null|
 |**2023-09-06**|**Empirical Review of Smart Contract and DeFi Security: Vulnerability Detection and Automated Repair**|Peng Qian et.al.|[2309.02391v2](http://arxiv.org/abs/2309.02391v2)|null|
 |**2022-09-16**|**On the acceptance by code reviewers of candidate security patches suggested by Automated Program Repair tools**|Aurora Papotti et.al.|[2209.07211v2](http://arxiv.org/abs/2209.07211v2)|null|
 |**2022-01-04**|**Neural Transfer Learning for Repairing Security Vulnerabilities in C Code**|Zimin Chen et.al.|[2104.08308v3](http://arxiv.org/abs/2104.08308v3)|**[link](https://github.com/SteveKommrusch/VRepair)**|
