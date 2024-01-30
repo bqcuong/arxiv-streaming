@@ -30,10 +30,6 @@ def get_daily_papers(topic,query, max_results=2):
 
     # output 
     content = dict() 
-    content_to_web = dict()
-
-    # content
-    output = dict()
     
     search_engine = arxiv.Search(
         query = query,
@@ -77,25 +73,15 @@ def get_daily_papers(topic,query, max_results=2):
                 cnt += 1
                 repo_url = r["official"]["url"]
                 content[paper_key] = f"|**{update_time}**|**{paper_title}**|{paper_first_author} et.al.|[{paper_id}]({paper_url})|**[link]({repo_url})**|\n"
-                content_to_web[paper_key] = f"- {update_time}, **{paper_title}**, {paper_first_author} et.al., Paper: [{paper_url}]({paper_url}), Code: **[{repo_url}]({repo_url})**"
 
             else:
                 content[paper_key] = f"|**{update_time}**|**{paper_title}**|{paper_first_author} et.al.|[{paper_id}]({paper_url})|null|\n"
-                content_to_web[paper_key] = f"- {update_time}, **{paper_title}**, {paper_first_author} et.al., Paper: [{paper_url}]({paper_url})"
-
-            # TODO: select useful comments
-            comments = None
-            if comments != None:
-                content_to_web[paper_key] = content_to_web[paper_key] + f", {comments}\n"
-            else:
-                content_to_web[paper_key] = content_to_web[paper_key] + f"\n"
 
         except Exception as e:
             print(f"exception: {e} with id: {paper_key}")
 
     data = {topic:content}
-    data_web = {topic:content_to_web}
-    return data,data_web 
+    return data 
 
 def update_json_file(filename,data_all):
     with open(filename,"r") as f:
@@ -120,7 +106,7 @@ def update_json_file(filename,data_all):
     with open(filename,"w") as f:
         json.dump(json_data,f)
     
-def json_to_md(filename,md_filename,to_web = False, use_title = True):
+def json_to_md(filename,md_filename, use_title = True):
     """
     @param filename: str
     @param md_filename: str
@@ -144,10 +130,6 @@ def json_to_md(filename,md_filename,to_web = False, use_title = True):
 
     # write data into README.md
     with open(md_filename,"a+") as f:
-
-        if (use_title == True) and (to_web == True):
-            f.write("---\n" + "layout: default\n" + "---\n\n")
-
         if use_title == True:
             f.write("## Updated on " + DateNow + "\n\n")
         else:
@@ -161,11 +143,7 @@ def json_to_md(filename,md_filename,to_web = False, use_title = True):
             f.write(f"## {keyword}\n\n")
 
             if use_title == True :
-                if to_web == False:
-                    f.write("|Publish Date|Title|Authors|PDF|Code|\n" + "|---|---|---|---|---|\n")
-                else:
-                    f.write("| Publish Date | Title | Authors | PDF | Code |\n")
-                    f.write("|:---------|:-----------------------|:---------|:------|:------|\n")
+                f.write("|Publish Date|Title|Authors|PDF|Code|\n" + "|---|---|---|---|---|\n")
 
             # sort papers by date
             day_content = sort_papers(day_content)
@@ -183,7 +161,6 @@ def json_to_md(filename,md_filename,to_web = False, use_title = True):
 if __name__ == "__main__":
 
     data_collector = []
-    data_collector_web= []
     
     keywords = dict()
     keywords["vulnerability+repair"] = "ti:vulnerability AND ti:repair"
@@ -198,9 +175,8 @@ if __name__ == "__main__":
         # topic = keyword.replace("","")
         print("Keyword: " + topic)
 
-        data,data_web = get_daily_papers(topic, query = keyword, max_results = 20)
+        data = get_daily_papers(topic, query = keyword, max_results = 20)
         data_collector.append(data)
-        data_collector_web.append(data_web)
 
         print("\n")
 
@@ -211,11 +187,3 @@ if __name__ == "__main__":
     update_json_file(json_file,data_collector)
     # json data to markdown
     json_to_md(json_file,md_file)
-
-    # 2. update docs/index.md file
-    json_file = "./docs/daily-papers-web.json"
-    md_file   = "./docs/index.md"
-    # update json data
-    update_json_file(json_file,data_collector)
-    # json data to markdown
-    json_to_md(json_file, md_file, to_web = True)

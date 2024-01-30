@@ -3,6 +3,7 @@ CMakeLists_modified.txt
 
 
 build/
+venv/
 
 lib/
 bin/

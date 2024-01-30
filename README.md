@@ -4,6 +4,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-27**|**Large Language Model as Synthesizer: Fusing Diverse Inputs for Better Automatic Vulnerability Repair**|Xin Zhou et.al.|[2401.15459v1](http://arxiv.org/abs/2401.15459v1)|null|
 |**2024-01-24**|**A Repository-Level Dataset For Detecting, Classifying and Repairing Software Vulnerabilities**|Xinchen Wang et.al.|[2401.13169v1](http://arxiv.org/abs/2401.13169v1)|null|
 |**2024-01-13**|**Code Security Vulnerability Repair Using Reinforcement Learning with Large Language Models**|Nafis Tanveer Islam et.al.|[2401.07031v1](http://arxiv.org/abs/2401.07031v1)|null|
 |**2024-01-08**|**Enhanced Automated Code Vulnerability Repair using Large Language Models**|David de-Fitero-Dominguez et.al.|[2401.03741v1](http://arxiv.org/abs/2401.03741v1)|null|
