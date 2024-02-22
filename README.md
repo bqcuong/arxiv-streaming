@@ -27,6 +27,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-19**|**DeepCode AI Fix: Fixing Security Vulnerabilities with Large Language Models**|Berkay Berabi et.al.|[2402.13291v1](http://arxiv.org/abs/2402.13291v1)|null|
 |**2023-09-15**|**Silent Vulnerability-fixing Commit Identification Based on Graph Neural Networks**|Hieu Dinh Vo et.al.|[2309.08225v1](http://arxiv.org/abs/2309.08225v1)|null|
 |**2023-09-15**|**REEF: A Framework for Collecting Real-World Vulnerabilities and Fixes**|Chaozheng Wang et.al.|[2309.08115v1](http://arxiv.org/abs/2309.08115v1)|**[link](https://github.com/ase-reef/reef-data)**|
 |**2023-09-05**|**VFFINDER: A Graph-based Approach for Automated Silent Vulnerability-Fix Identification**|Son Nguyen et.al.|[2309.01971v1](http://arxiv.org/abs/2309.01971v1)|null|
@@ -87,6 +88,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2006-10-02**|**Secure Classical Bit Commitment using Fixed Capacity Communication Channels**|Adrian Kent et.al.|[quant-ph/9906103v7](http://arxiv.org/abs/quant-ph/9906103v7)|null|
+|**2024-02-19**|**DeepCode AI Fix: Fixing Security Vulnerabilities with Large Language Models**|Berkay Berabi et.al.|[2402.13291v1](http://arxiv.org/abs/2402.13291v1)|null|
 |**2023-09-18**|**Securing Fixed Neural Network Steganography**|Zicong Luo et.al.|[2309.09700v1](http://arxiv.org/abs/2309.09700v1)|null|
 |**2023-05-29**|**How Effective Are Neural Networks for Fixing Security Vulnerabilities**|Yi Wu et.al.|[2305.18607v1](http://arxiv.org/abs/2305.18607v1)|**[link](https://github.com/lin-tan/llm-vul)**|
 |**2023-02-02**|**Fixing Hardware Security Bugs with Large Language Models**|Baleegh Ahmad et.al.|[2302.01215v1](http://arxiv.org/abs/2302.01215v1)|null|
