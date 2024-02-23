@@ -8,7 +8,7 @@
 |**2024-02-08**|**ReposVul: A Repository-Level High-Quality Vulnerability Dataset**|Xinchen Wang et.al.|[2401.13169v2](http://arxiv.org/abs/2401.13169v2)|null|
 |**2024-01-30**|**Code Security Vulnerability Repair Using Reinforcement Learning with Large Language Models**|Nafis Tanveer Islam et.al.|[2401.07031v2](http://arxiv.org/abs/2401.07031v2)|null|
 |**2024-01-08**|**Enhanced Automated Code Vulnerability Repair using Large Language Models**|David de-Fitero-Dominguez et.al.|[2401.03741v1](http://arxiv.org/abs/2401.03741v1)|null|
-|**2024-01-07**|**LLM-Powered Code Vulnerability Repair with Reinforcement Learning and Semantic Reward**|Nafis Tanveer Islam et.al.|[2401.03374v1](http://arxiv.org/abs/2401.03374v1)|null|
+|**2024-02-22**|**LLM-Powered Code Vulnerability Repair with Reinforcement Learning and Semantic Reward**|Nafis Tanveer Islam et.al.|[2401.03374v2](http://arxiv.org/abs/2401.03374v2)|null|
 |**2023-10-15**|**ChatGPT for Vulnerability Detection, Classification, and Repair: How Far Are We?**|Michael Fu et.al.|[2310.09810v1](http://arxiv.org/abs/2310.09810v1)|**[link](https://github.com/awsm-research/chatgpt4vul)**|
 |**2023-09-06**|**Empirical Review of Smart Contract and DeFi Security: Vulnerability Detection and Automated Repair**|Peng Qian et.al.|[2309.02391v2](http://arxiv.org/abs/2309.02391v2)|null|
 |**2023-08-25**|**Pre-trained Model-based Automated Software Vulnerability Repair: How Far are We?**|Quanjun Zhang et.al.|[2308.12533v2](http://arxiv.org/abs/2308.12533v2)|**[link](https://github.com/isenglab/llm4vulfix)**|
