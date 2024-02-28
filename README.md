@@ -27,6 +27,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-27**|**Chain-of-Thought Prompting of Large Language Models for Discovering and Fixing Software Vulnerabilities**|Yu Nong et.al.|[2402.17230v1](http://arxiv.org/abs/2402.17230v1)|null|
 |**2024-02-23**|**DeepCode AI Fix: Fixing Security Vulnerabilities with Large Language Models**|Berkay Berabi et.al.|[2402.13291v2](http://arxiv.org/abs/2402.13291v2)|null|
 |**2023-09-15**|**Silent Vulnerability-fixing Commit Identification Based on Graph Neural Networks**|Hieu Dinh Vo et.al.|[2309.08225v1](http://arxiv.org/abs/2309.08225v1)|null|
 |**2023-09-15**|**REEF: A Framework for Collecting Real-World Vulnerabilities and Fixes**|Chaozheng Wang et.al.|[2309.08115v1](http://arxiv.org/abs/2309.08115v1)|**[link](https://github.com/ase-reef/reef-data)**|
