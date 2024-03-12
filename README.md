@@ -4,6 +4,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-11**|**ACFIX: Guiding LLMs with Mined Common RBAC Practices for Context-Aware Repair of Access Control Vulnerabilities in Smart Contracts**|Lyuye Zhang et.al.|[2403.06838v1](http://arxiv.org/abs/2403.06838v1)|null|
 |**2024-02-02**|**Large Language Model as Synthesizer: Fusing Diverse Inputs for Better Automatic Vulnerability Repair**|Xin Zhou et.al.|[2401.15459v2](http://arxiv.org/abs/2401.15459v2)|null|
 |**2024-02-08**|**ReposVul: A Repository-Level High-Quality Vulnerability Dataset**|Xinchen Wang et.al.|[2401.13169v2](http://arxiv.org/abs/2401.13169v2)|null|
 |**2024-01-30**|**Code Security Vulnerability Repair Using Reinforcement Learning with Large Language Models**|Nafis Tanveer Islam et.al.|[2401.07031v2](http://arxiv.org/abs/2401.07031v2)|null|
@@ -70,6 +71,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-11**|**Poisoning Programs by Un-Repairing Code: Security Concerns of AI-generated Code**|Cristina Improta et.al.|[2403.06675v1](http://arxiv.org/abs/2403.06675v1)|null|
 |**2024-01-30**|**Code Security Vulnerability Repair Using Reinforcement Learning with Large Language Models**|Nafis Tanveer Islam et.al.|[2401.07031v2](http://arxiv.org/abs/2401.07031v2)|null|
 |**2023-09-06**|**Empirical Review of Smart Contract and DeFi Security: Vulnerability Detection and Automated Repair**|Peng Qian et.al.|[2309.02391v2](http://arxiv.org/abs/2309.02391v2)|null|
 |**2022-09-16**|**On the acceptance by code reviewers of candidate security patches suggested by Automated Program Repair tools**|Aurora Papotti et.al.|[2209.07211v2](http://arxiv.org/abs/2209.07211v2)|null|
