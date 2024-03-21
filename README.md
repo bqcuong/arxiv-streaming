@@ -4,6 +4,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-19**|**A Study of Vulnerability Repair in JavaScript Programs with Large Language Models**|Tan Khang Le et.al.|[2403.13193v1](http://arxiv.org/abs/2403.13193v1)|null|
 |**2024-03-18**|**ACFIX: Guiding LLMs with Mined Common RBAC Practices for Context-Aware Repair of Access Control Vulnerabilities in Smart Contracts**|Lyuye Zhang et.al.|[2403.06838v2](http://arxiv.org/abs/2403.06838v2)|null|
 |**2024-03-12**|**Multi-LLM Collaboration + Data-Centric Innovation = 2x Better Vulnerability Repair**|Xin Zhou et.al.|[2401.15459v3](http://arxiv.org/abs/2401.15459v3)|null|
 |**2024-02-08**|**ReposVul: A Repository-Level High-Quality Vulnerability Dataset**|Xinchen Wang et.al.|[2401.13169v2](http://arxiv.org/abs/2401.13169v2)|null|
