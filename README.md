@@ -76,6 +76,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-09**|**Secure Storage using Maximally Recoverable Locally Repairable Codes**|Tim Janz et.al.|[2405.06098v1](http://arxiv.org/abs/2405.06098v1)|null|
 |**2024-03-11**|**Poisoning Programs by Un-Repairing Code: Security Concerns of AI-generated Code**|Cristina Improta et.al.|[2403.06675v1](http://arxiv.org/abs/2403.06675v1)|null|
 |**2024-01-30**|**Code Security Vulnerability Repair Using Reinforcement Learning with Large Language Models**|Nafis Tanveer Islam et.al.|[2401.07031v2](http://arxiv.org/abs/2401.07031v2)|null|
 |**2023-09-06**|**Empirical Review of Smart Contract and DeFi Security: Vulnerability Detection and Automated Repair**|Peng Qian et.al.|[2309.02391v2](http://arxiv.org/abs/2309.02391v2)|null|
