@@ -4,6 +4,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-24**|**A Case Study of LLM for Automated Vulnerability Repair: Assessing Impact of Reasoning and Patch Validation Feedback**|Ummay Kulsum et.al.|[2405.15690v1](http://arxiv.org/abs/2405.15690v1)|null|
 |**2024-05-08**|**NAVRepair: Node-type Aware C/C++ Code Vulnerability Repair**|Ruoke Wang et.al.|[2405.04994v1](http://arxiv.org/abs/2405.04994v1)|null|
 |**2024-04-06**|**Large Language Model for Vulnerability Detection and Repair: Literature Review and the Road Ahead**|Xin Zhou et.al.|[2404.02525v2](http://arxiv.org/abs/2404.02525v2)|null|
 |**2024-03-19**|**A Study of Vulnerability Repair in JavaScript Programs with Large Language Models**|Tan Khang Le et.al.|[2403.13193v1](http://arxiv.org/abs/2403.13193v1)|null|
@@ -60,6 +61,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-24**|**A Case Study of LLM for Automated Vulnerability Repair: Assessing Impact of Reasoning and Patch Validation Feedback**|Ummay Kulsum et.al.|[2405.15690v1](http://arxiv.org/abs/2405.15690v1)|null|
 |**2024-04-27**|**How the Training Procedure Impacts the Performance of Deep Learning-based Vulnerability Patching**|Antonio Mastropaolo et.al.|[2404.17896v1](http://arxiv.org/abs/2404.17896v1)|**[link](https://github.com/antonio-mastropaolo/dl-training-vuln-patching)**|
 |**2024-02-22**|**Mudjacking: Patching Backdoor Vulnerabilities in Foundation Models**|Hongbin Liu et.al.|[2402.14977v1](http://arxiv.org/abs/2402.14977v1)|null|
 |**2023-10-04**|**Identifying Vulnerability Patches by Comprehending Code Commits with Comprehensive Change Contexts**|Tianyu Chen et.al.|[2310.02530v1](http://arxiv.org/abs/2310.02530v1)|null|
