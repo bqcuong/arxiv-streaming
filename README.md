@@ -1,4 +1,4 @@
-## Updated on 2024.06.05
+## Updated on 2024.06.06
 
 ## vulnerability+repair
 
