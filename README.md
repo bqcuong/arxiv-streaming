@@ -64,7 +64,7 @@
 |**2024-05-24**|**A Case Study of LLM for Automated Vulnerability Repair: Assessing Impact of Reasoning and Patch Validation Feedback**|Ummay Kulsum et.al.|[2405.15690v1](http://arxiv.org/abs/2405.15690v1)|null|
 |**2024-04-27**|**How the Training Procedure Impacts the Performance of Deep Learning-based Vulnerability Patching**|Antonio Mastropaolo et.al.|[2404.17896v1](http://arxiv.org/abs/2404.17896v1)|**[link](https://github.com/antonio-mastropaolo/dl-training-vuln-patching)**|
 |**2024-02-22**|**Mudjacking: Patching Backdoor Vulnerabilities in Foundation Models**|Hongbin Liu et.al.|[2402.14977v1](http://arxiv.org/abs/2402.14977v1)|null|
-|**2023-10-04**|**Identifying Vulnerability Patches by Comprehending Code Commits with Comprehensive Change Contexts**|Tianyu Chen et.al.|[2310.02530v1](http://arxiv.org/abs/2310.02530v1)|null|
+|**2024-06-09**|**CompVPD: Iteratively Identifying Vulnerability Patches Based on Human Validation Results with a Precise Context**|Tianyu Chen et.al.|[2310.02530v2](http://arxiv.org/abs/2310.02530v2)|null|
 |**2023-09-30**|**Tracking Patches for Open Source Software Vulnerabilities**|Congying Xu et.al.|[2112.02240v2](http://arxiv.org/abs/2112.02240v2)|null|
 |**2022-07-04**|**Elysium: Context-Aware Bytecode-Level Patching to Automatically Heal Vulnerable Smart Contracts**|Christof Ferreira Torres et.al.|[2108.10071v3](http://arxiv.org/abs/2108.10071v3)|**[link](https://github.com/christoftorres/elysium)**|
 |**2021-04-22**|**Patch Shortcuts: Interpretable Proxy Models Efficiently Find Black-Box Vulnerabilities**|Julia Rosenzweig et.al.|[2104.11691v1](http://arxiv.org/abs/2104.11691v1)|null|
