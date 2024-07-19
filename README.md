@@ -1,4 +1,4 @@
-## Updated on 2024.07.18
+## Updated on 2024.07.19
 
 ## vulnerability+repair
 
@@ -127,7 +127,7 @@
 |**2024-02-09**|**Anomaly Unveiled: Securing Image Classification against Adversarial Patch Attacks**|Nandish Chattopadhyay et.al.|[2402.06249v1](http://arxiv.org/abs/2402.06249v1)|null|
 |**2023-12-13**|**BinGo: Identifying Security Patches in Binary Code with Graph Representation Learning**|Xu He et.al.|[2312.07921v1](http://arxiv.org/abs/2312.07921v1)|null|
 |**2023-12-12**|**Just-in-Time Security Patch Detection -- LLM At the Rescue for Data Augmentation**|Xunzhu Tang et.al.|[2312.01241v2](http://arxiv.org/abs/2312.01241v2)|null|
-|**2024-02-19**|**Can LLMs Patch Security Issues?**|Kamel Alrashedy et.al.|[2312.00024v3](http://arxiv.org/abs/2312.00024v3)|**[link](https://github.com/kamel773/llm-code-refine)**|
+|**2024-07-18**|**Can LLMs Patch Security Issues?**|Kamel Alrashedy et.al.|[2312.00024v4](http://arxiv.org/abs/2312.00024v4)|**[link](https://github.com/kamel773/llm-code-refine)**|
 |**2023-11-02**|**VFCFinder: Seamlessly Pairing Security Advisories and Patches**|Trevor Dunlap et.al.|[2311.01532v1](http://arxiv.org/abs/2311.01532v1)|**[link](https://github.com/s3c2/vfcfinder)**|
 |**2023-08-29**|**Multilevel Semantic Embedding of Software Patches: A Fine-to-Coarse Grained Approach Towards Security Patch Detection**|Xunzhu Tang et.al.|[2308.15233v1](http://arxiv.org/abs/2308.15233v1)|null|
 |**2023-08-09**|**Enhancing Mobile Privacy and Security: A Face Skin Patch-Based Anti-Spoofing Approach**|Qiushi Guo et.al.|[2308.04798v1](http://arxiv.org/abs/2308.04798v1)|null|
