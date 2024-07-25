@@ -62,6 +62,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-24**|**PatchFinder: A Two-Phase Approach to Security Patch Tracing for Disclosed Vulnerabilities in Open-Source Software**|Kaixuan Li et.al.|[2407.17065v1](http://arxiv.org/abs/2407.17065v1)|null|
 |**2024-05-24**|**A Case Study of LLM for Automated Vulnerability Repair: Assessing Impact of Reasoning and Patch Validation Feedback**|Ummay Kulsum et.al.|[2405.15690v1](http://arxiv.org/abs/2405.15690v1)|null|
 |**2024-04-27**|**How the Training Procedure Impacts the Performance of Deep Learning-based Vulnerability Patching**|Antonio Mastropaolo et.al.|[2404.17896v1](http://arxiv.org/abs/2404.17896v1)|**[link](https://github.com/antonio-mastropaolo/dl-training-vuln-patching)**|
 |**2024-02-22**|**Mudjacking: Patching Backdoor Vulnerabilities in Foundation Models**|Hongbin Liu et.al.|[2402.14977v1](http://arxiv.org/abs/2402.14977v1)|null|
@@ -124,6 +125,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-24**|**PatchFinder: A Two-Phase Approach to Security Patch Tracing for Disclosed Vulnerabilities in Open-Source Software**|Kaixuan Li et.al.|[2407.17065v1](http://arxiv.org/abs/2407.17065v1)|null|
 |**2024-02-09**|**Anomaly Unveiled: Securing Image Classification against Adversarial Patch Attacks**|Nandish Chattopadhyay et.al.|[2402.06249v1](http://arxiv.org/abs/2402.06249v1)|null|
 |**2023-12-13**|**BinGo: Identifying Security Patches in Binary Code with Graph Representation Learning**|Xu He et.al.|[2312.07921v1](http://arxiv.org/abs/2312.07921v1)|null|
 |**2023-12-12**|**Just-in-Time Security Patch Detection -- LLM At the Rescue for Data Augmentation**|Xunzhu Tang et.al.|[2312.01241v2](http://arxiv.org/abs/2312.01241v2)|null|
