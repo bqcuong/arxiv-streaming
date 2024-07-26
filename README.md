@@ -1,4 +1,4 @@
-## Updated on 2024.07.25
+## Updated on 2024.07.26
 
 ## vulnerability+repair
 
@@ -49,9 +49,9 @@
 |**2022-05-17**|**On the Use of Refactoring in Security Vulnerability Fixes: An Exploratory Study on Maven Libraries**|Ayano Ikegami et.al.|[2205.08116v1](http://arxiv.org/abs/2205.08116v1)|null|
 |**2021-07-19**|**CVEfixes: Automated Collection of Vulnerabilities and Their Fixes from Open-Source Software**|Guru Prasad Bhandari et.al.|[2107.08760v1](http://arxiv.org/abs/2107.08760v1)|**[link](https://github.com/secureIT-project/CVEfixes)**|
 |**2021-09-12**|**Fixing Vulnerabilities Potentially Hinders Maintainability**|Sofia Reis et.al.|[2106.03271v2](http://arxiv.org/abs/2106.03271v2)|**[link](https://github.com/TQRG/maintainable-security)**|
-|**2023-05-10**|**Automated Mapping of Vulnerability Advisories onto their Fix Commits in Open Source Repositories**|Daan Hommersom et.al.|[2103.13375v2](http://arxiv.org/abs/2103.13375v2)|null|
+|**2023-05-10**|**Automated Mapping of Vulnerability Advisories onto their Fix Commits in Open Source Repositories**|Daan Hommersom et.al.|[2103.13375v2](http://arxiv.org/abs/2103.13375v2)|**[link](https://github.com/sap/project-kb)**|
 |**2021-01-06**|**sGUARD: Towards Fixing Vulnerable Smart Contracts Automatically**|Tai D. Nguyen et.al.|[2101.01917v1](http://arxiv.org/abs/2101.01917v1)|null|
-|**2022-03-22**|**SeqTrans: Automatic Vulnerability Fix via Sequence to Sequence Learning**|Jianlei Chi et.al.|[2010.10805v3](http://arxiv.org/abs/2010.10805v3)|**[link](https://github.com/chijianlei/seqtrans)**|
+|**2022-03-22**|**SeqTrans: Automatic Vulnerability Fix via Sequence to Sequence Learning**|Jianlei Chi et.al.|[2010.10805v3](http://arxiv.org/abs/2010.10805v3)|**[link](https://github.com/SAP/vulnerability-assessment-kb)**|
 |**2020-08-05**|**Randomized Last-Level Caches Are Still Vulnerable to Cache Side-Channel Attacks! But We Can Fix It**|Wei Song et.al.|[2008.01957v1](http://arxiv.org/abs/2008.01957v1)|null|
 |**2020-08-17**|**InSpectre: Breaking and Fixing Microarchitectural Vulnerabilities by Formal Analysis**|Roberto Guanciale et.al.|[1911.00868v2](http://arxiv.org/abs/1911.00868v2)|null|
 |**2021-03-31**|**Lags in the Release, Adoption, and Propagation of npm Vulnerability Fixes**|Bodin Chinthanet et.al.|[1907.03407v5](http://arxiv.org/abs/1907.03407v5)|**[link](https://github.com/NAIST-SE/Vulnerability-Fix-Lags-Release-Adoption-Propagation)**|
@@ -108,7 +108,7 @@
 |**2023-02-02**|**Fixing Hardware Security Bugs with Large Language Models**|Baleegh Ahmad et.al.|[2302.01215v1](http://arxiv.org/abs/2302.01215v1)|null|
 |**2022-05-17**|**On the Use of Refactoring in Security Vulnerability Fixes: An Exploratory Study on Maven Libraries**|Ayano Ikegami et.al.|[2205.08116v1](http://arxiv.org/abs/2205.08116v1)|null|
 |**2022-08-15**|**Examining Zero-Shot Vulnerability Repair with Large Language Models**|Hammond Pearce et.al.|[2112.02125v3](http://arxiv.org/abs/2112.02125v3)|null|
-|**2021-05-07**|**Detecting Security Fixes in Open-Source Repositories using Static Code Analyzers**|Therese Fehrer et.al.|[2105.03346v1](http://arxiv.org/abs/2105.03346v1)|**[link](https://github.com/dardin88/fse_2021)**|
+|**2021-05-07**|**Detecting Security Fixes in Open-Source Repositories using Static Code Analyzers**|Therese Fehrer et.al.|[2105.03346v1](http://arxiv.org/abs/2105.03346v1)|**[link](https://github.com/sap/project-kb)**|
 |**2021-02-13**|**BPFContain: Fixing the Soft Underbelly of Container Security**|William Findlay et.al.|[2102.06972v1](http://arxiv.org/abs/2102.06972v1)|**[link](https://github.com/willfindlay/bpfcontain-rs)**|
 |**2020-12-15**|**A Quantitative Study of Security Bug Fixes of GitHub Repositories**|Daito Nakano et.al.|[2012.08053v1](http://arxiv.org/abs/2012.08053v1)|null|
 |**2020-09-21**|**Physical-Layer Security for Two-Hop Air-to-Underwater Communication Systems With Fixed-Gain Amplify-and-Forward Relaying**|Yi Lou et.al.|[2009.09550v1](http://arxiv.org/abs/2009.09550v1)|null|
