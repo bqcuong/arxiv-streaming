@@ -81,6 +81,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-01**|**Enhancing Source Code Security with LLMs: Demystifying The Challenges and Generating Reliable Repairs**|Nafis Tanveer Islam et.al.|[2409.00571v1](http://arxiv.org/abs/2409.00571v1)|null|
 |**2024-05-09**|**Secure Storage using Maximally Recoverable Locally Repairable Codes**|Tim Janz et.al.|[2405.06098v1](http://arxiv.org/abs/2405.06098v1)|null|
 |**2024-03-11**|**Poisoning Programs by Un-Repairing Code: Security Concerns of AI-generated Code**|Cristina Improta et.al.|[2403.06675v1](http://arxiv.org/abs/2403.06675v1)|null|
 |**2024-01-30**|**Code Security Vulnerability Repair Using Reinforcement Learning with Large Language Models**|Nafis Tanveer Islam et.al.|[2401.07031v2](http://arxiv.org/abs/2401.07031v2)|null|
