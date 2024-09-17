@@ -4,6 +4,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-15**|**ContractTinker: LLM-Empowered Vulnerability Repair for Real-World Smart Contracts**|Che Wang et.al.|[2409.09661v1](http://arxiv.org/abs/2409.09661v1)|null|
 |**2024-07-12**|**TAPFixer: Automatic Detection and Repair of Home Automation Vulnerabilities based on Negated-property Reasoning**|Yinbo Yu et.al.|[2407.09095v1](http://arxiv.org/abs/2407.09095v1)|**[link](https://github.com/q1utr5th/tapfixer)**|
 |**2024-05-24**|**A Case Study of LLM for Automated Vulnerability Repair: Assessing Impact of Reasoning and Patch Validation Feedback**|Ummay Kulsum et.al.|[2405.15690v1](http://arxiv.org/abs/2405.15690v1)|null|
 |**2024-05-08**|**NAVRepair: Node-type Aware C/C++ Code Vulnerability Repair**|Ruoke Wang et.al.|[2405.04994v1](http://arxiv.org/abs/2405.04994v1)|null|
