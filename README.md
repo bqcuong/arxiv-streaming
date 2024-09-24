@@ -4,7 +4,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-09-15**|**ContractTinker: LLM-Empowered Vulnerability Repair for Real-World Smart Contracts**|Che Wang et.al.|[2409.09661v1](http://arxiv.org/abs/2409.09661v1)|null|
+|**2024-09-15**|**ContractTinker: LLM-Empowered Vulnerability Repair for Real-World Smart Contracts**|Che Wang et.al.|[2409.09661v1](http://arxiv.org/abs/2409.09661v1)|**[link](https://github.com/CheWang09/LLM4SMAPR)**|
 |**2024-07-12**|**TAPFixer: Automatic Detection and Repair of Home Automation Vulnerabilities based on Negated-property Reasoning**|Yinbo Yu et.al.|[2407.09095v1](http://arxiv.org/abs/2407.09095v1)|**[link](https://github.com/q1utr5th/tapfixer)**|
 |**2024-05-24**|**A Case Study of LLM for Automated Vulnerability Repair: Assessing Impact of Reasoning and Patch Validation Feedback**|Ummay Kulsum et.al.|[2405.15690v1](http://arxiv.org/abs/2405.15690v1)|null|
 |**2024-05-08**|**NAVRepair: Node-type Aware C/C++ Code Vulnerability Repair**|Ruoke Wang et.al.|[2405.04994v1](http://arxiv.org/abs/2405.04994v1)|null|
@@ -34,7 +34,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-09-13**|**Learning Graph-based Patch Representations for Identifying and Assessing Silent Vulnerability Fixes**|Mei Han et.al.|[2409.08512v1](http://arxiv.org/abs/2409.08512v1)|null|
+|**2024-09-13**|**Learning Graph-based Patch Representations for Identifying and Assessing Silent Vulnerability Fixes**|Mei Han et.al.|[2409.08512v1](http://arxiv.org/abs/2409.08512v1)|**[link](https://github.com/han-mei/grape)**|
 |**2024-09-09**|**JavaVFC: Java Vulnerability Fixing Commits from Open-source Software**|Tan Bui et.al.|[2409.05576v1](http://arxiv.org/abs/2409.05576v1)|null|
 |**2024-03-12**|**Fixing Smart Contract Vulnerabilities: A Comparative Analysis of Literature and Developer's Practices**|Francesco Salzano et.al.|[2403.07458v1](http://arxiv.org/abs/2403.07458v1)|null|
 |**2024-02-27**|**Chain-of-Thought Prompting of Large Language Models for Discovering and Fixing Software Vulnerabilities**|Yu Nong et.al.|[2402.17230v1](http://arxiv.org/abs/2402.17230v1)|null|
@@ -66,7 +66,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-09-16**|**VulnLLMEval: A Framework for Evaluating Large Language Models in Software Vulnerability Detection and Patching**|Arastoo Zibaeirad et.al.|[2409.10756v1](http://arxiv.org/abs/2409.10756v1)|null|
-|**2024-09-13**|**Learning Graph-based Patch Representations for Identifying and Assessing Silent Vulnerability Fixes**|Mei Han et.al.|[2409.08512v1](http://arxiv.org/abs/2409.08512v1)|null|
+|**2024-09-13**|**Learning Graph-based Patch Representations for Identifying and Assessing Silent Vulnerability Fixes**|Mei Han et.al.|[2409.08512v1](http://arxiv.org/abs/2409.08512v1)|**[link](https://github.com/han-mei/grape)**|
 |**2024-08-24**|**Automated Software Vulnerability Patching using Large Language Models**|Yu Nong et.al.|[2408.13597v1](http://arxiv.org/abs/2408.13597v1)|null|
 |**2024-07-24**|**PatchFinder: A Two-Phase Approach to Security Patch Tracing for Disclosed Vulnerabilities in Open-Source Software**|Kaixuan Li et.al.|[2407.17065v1](http://arxiv.org/abs/2407.17065v1)|null|
 |**2024-05-24**|**A Case Study of LLM for Automated Vulnerability Repair: Assessing Impact of Reasoning and Patch Validation Feedback**|Ummay Kulsum et.al.|[2405.15690v1](http://arxiv.org/abs/2405.15690v1)|null|
