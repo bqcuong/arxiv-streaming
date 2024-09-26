@@ -34,6 +34,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-25**|**VFDelta: A Framework for Detecting Silent Vulnerability Fixes by Enhancing Code Change Learning**|Xu Yang et.al.|[2409.16606v1](http://arxiv.org/abs/2409.16606v1)|null|
 |**2024-09-13**|**Learning Graph-based Patch Representations for Identifying and Assessing Silent Vulnerability Fixes**|Mei Han et.al.|[2409.08512v1](http://arxiv.org/abs/2409.08512v1)|**[link](https://github.com/han-mei/grape)**|
 |**2024-09-09**|**JavaVFC: Java Vulnerability Fixing Commits from Open-source Software**|Tan Bui et.al.|[2409.05576v1](http://arxiv.org/abs/2409.05576v1)|null|
 |**2024-03-12**|**Fixing Smart Contract Vulnerabilities: A Comparative Analysis of Literature and Developer's Practices**|Francesco Salzano et.al.|[2403.07458v1](http://arxiv.org/abs/2403.07458v1)|null|
