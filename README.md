@@ -1,5 +1,3 @@
-## Updated on 2024.10.02
-
 ## vulnerability+repair
 
 |Publish Date|Title|Authors|PDF|Code|
