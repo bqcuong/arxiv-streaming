@@ -130,10 +130,10 @@ def json_to_md(filename,md_filename, use_title = True):
 
     # write data into README.md
     with open(md_filename,"a+") as f:
-        if use_title == True:
-            f.write("## Updated on " + DateNow + "\n\n")
-        else:
-            f.write("> Updated on " + DateNow + "\n\n")
+        #if use_title == True:
+        #    f.write("## Updated on " + DateNow + "\n\n")
+        #else:
+        #    f.write("> Updated on " + DateNow + "\n\n")
         
         for keyword in data.keys():
             day_content = data[keyword]
