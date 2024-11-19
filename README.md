@@ -67,6 +67,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-18**|**Improving Data Curation of Software Vulnerability Patches through Uncertainty Quantification**|Hui Chen et.al.|[2411.11659v1](http://arxiv.org/abs/2411.11659v1)|null|
 |**2024-09-16**|**VulnLLMEval: A Framework for Evaluating Large Language Models in Software Vulnerability Detection and Patching**|Arastoo Zibaeirad et.al.|[2409.10756v1](http://arxiv.org/abs/2409.10756v1)|null|
 |**2024-09-13**|**Learning Graph-based Patch Representations for Identifying and Assessing Silent Vulnerability Fixes**|Mei Han et.al.|[2409.08512v1](http://arxiv.org/abs/2409.08512v1)|**[link](https://github.com/han-mei/grape)**|
 |**2024-08-24**|**Automated Software Vulnerability Patching using Large Language Models**|Yu Nong et.al.|[2408.13597v1](http://arxiv.org/abs/2408.13597v1)|null|
@@ -111,6 +112,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2006-10-02**|**Secure Classical Bit Commitment using Fixed Capacity Communication Channels**|Adrian Kent et.al.|[quant-ph/9906103v7](http://arxiv.org/abs/quant-ph/9906103v7)|null|
+|**2024-11-18**|**Can Highlighting Help GitHub Maintainers Track Security Fixes?**|Xueqing Liu et.al.|[2411.11646v1](http://arxiv.org/abs/2411.11646v1)|null|
 |**2024-11-03**|**Fixing Security Vulnerabilities with AI in OSS-Fuzz**|Yuntong Zhang et.al.|[2411.03346v1](http://arxiv.org/abs/2411.03346v1)|null|
 |**2024-02-23**|**DeepCode AI Fix: Fixing Security Vulnerabilities with Large Language Models**|Berkay Berabi et.al.|[2402.13291v2](http://arxiv.org/abs/2402.13291v2)|null|
 |**2023-09-18**|**Securing Fixed Neural Network Steganography**|Zicong Luo et.al.|[2309.09700v1](http://arxiv.org/abs/2309.09700v1)|null|
@@ -135,6 +137,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-17**|**Patching FPGAs: The Security Implications of Bitstream Modifications**|Endres Puschner et.al.|[2411.11060v1](http://arxiv.org/abs/2411.11060v1)|null|
 |**2024-09-06**|**Secure Traffic Sign Recognition: An Attention-Enabled Universal Image Inpainting Mechanism against Light Patch Attacks**|Hangcheng Cao et.al.|[2409.04133v1](http://arxiv.org/abs/2409.04133v1)|null|
 |**2024-07-24**|**PatchFinder: A Two-Phase Approach to Security Patch Tracing for Disclosed Vulnerabilities in Open-Source Software**|Kaixuan Li et.al.|[2407.17065v1](http://arxiv.org/abs/2407.17065v1)|null|
 |**2024-02-09**|**Anomaly Unveiled: Securing Image Classification against Adversarial Patch Attacks**|Nandish Chattopadhyay et.al.|[2402.06249v1](http://arxiv.org/abs/2402.06249v1)|null|
