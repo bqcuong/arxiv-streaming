@@ -34,7 +34,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-11-03**|**Fixing Security Vulnerabilities with AI in OSS-Fuzz**|Yuntong Zhang et.al.|[2411.03346v1](http://arxiv.org/abs/2411.03346v1)|null|
+|**2024-11-21**|**Fixing Security Vulnerabilities with AI in OSS-Fuzz**|Yuntong Zhang et.al.|[2411.03346v2](http://arxiv.org/abs/2411.03346v2)|null|
 |**2024-09-25**|**VFDelta: A Framework for Detecting Silent Vulnerability Fixes by Enhancing Code Change Learning**|Xu Yang et.al.|[2409.16606v1](http://arxiv.org/abs/2409.16606v1)|null|
 |**2024-09-13**|**Learning Graph-based Patch Representations for Identifying and Assessing Silent Vulnerability Fixes**|Mei Han et.al.|[2409.08512v1](http://arxiv.org/abs/2409.08512v1)|**[link](https://github.com/han-mei/grape)**|
 |**2024-09-09**|**JavaVFC: Java Vulnerability Fixing Commits from Open-source Software**|Tan Bui et.al.|[2409.05576v1](http://arxiv.org/abs/2409.05576v1)|null|
@@ -113,7 +113,7 @@
 |---|---|---|---|---|
 |**2006-10-02**|**Secure Classical Bit Commitment using Fixed Capacity Communication Channels**|Adrian Kent et.al.|[quant-ph/9906103v7](http://arxiv.org/abs/quant-ph/9906103v7)|null|
 |**2024-11-18**|**Can Highlighting Help GitHub Maintainers Track Security Fixes?**|Xueqing Liu et.al.|[2411.11646v1](http://arxiv.org/abs/2411.11646v1)|null|
-|**2024-11-03**|**Fixing Security Vulnerabilities with AI in OSS-Fuzz**|Yuntong Zhang et.al.|[2411.03346v1](http://arxiv.org/abs/2411.03346v1)|null|
+|**2024-11-21**|**Fixing Security Vulnerabilities with AI in OSS-Fuzz**|Yuntong Zhang et.al.|[2411.03346v2](http://arxiv.org/abs/2411.03346v2)|null|
 |**2024-02-23**|**DeepCode AI Fix: Fixing Security Vulnerabilities with Large Language Models**|Berkay Berabi et.al.|[2402.13291v2](http://arxiv.org/abs/2402.13291v2)|null|
 |**2023-09-18**|**Securing Fixed Neural Network Steganography**|Zicong Luo et.al.|[2309.09700v1](http://arxiv.org/abs/2309.09700v1)|null|
 |**2024-04-02**|**How Effective Are Neural Networks for Fixing Security Vulnerabilities**|Yi Wu et.al.|[2305.18607v2](http://arxiv.org/abs/2305.18607v2)|**[link](https://github.com/lin-tan/llm-vul)**|
