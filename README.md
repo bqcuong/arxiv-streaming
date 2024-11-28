@@ -2,6 +2,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-27**|**There are More Fish in the Sea: Automated Vulnerability Repair via Binary Templates**|Bo Lin et.al.|[2411.18088v1](http://arxiv.org/abs/2411.18088v1)|null|
 |**2024-11-08**|**CRepair: CVAE-based Automatic Vulnerability Repair Technology**|Penghui Liu et.al.|[2411.05540v1](http://arxiv.org/abs/2411.05540v1)|null|
 |**2024-09-27**|**Code Vulnerability Repair with Large Language Model using Context-Aware Prompt Tuning**|Arshiya Khan et.al.|[2409.18395v1](http://arxiv.org/abs/2409.18395v1)|null|
 |**2024-09-15**|**ContractTinker: LLM-Empowered Vulnerability Repair for Real-World Smart Contracts**|Che Wang et.al.|[2409.09661v1](http://arxiv.org/abs/2409.09661v1)|**[link](https://github.com/CheWang09/LLM4SMAPR)**|
