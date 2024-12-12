@@ -139,6 +139,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-11**|**Repository-Level Graph Representation Learning for Enhanced Security Patch Detection**|Xin-Cheng Wen et.al.|[2412.08068v1](http://arxiv.org/abs/2412.08068v1)|null|
 |**2024-11-29**|**Enhancing Security in Third-Party Library Reuse -- Comprehensive Detection of 1-day Vulnerability through Code Patch Analysis**|Shangzhi Xu et.al.|[2411.19648v1](http://arxiv.org/abs/2411.19648v1)|null|
 |**2024-11-17**|**Patching FPGAs: The Security Implications of Bitstream Modifications**|Endres Puschner et.al.|[2411.11060v1](http://arxiv.org/abs/2411.11060v1)|null|
 |**2024-09-06**|**Secure Traffic Sign Recognition: An Attention-Enabled Universal Image Inpainting Mechanism against Light Patch Attacks**|Hangcheng Cao et.al.|[2409.04133v1](http://arxiv.org/abs/2409.04133v1)|null|
