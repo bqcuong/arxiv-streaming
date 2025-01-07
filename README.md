@@ -36,6 +36,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-05**|**Predicting IoT Device Vulnerability Fix Times with Survival and Failure Time Models**|Carlos A Rivera A et.al.|[2501.02520v1](http://arxiv.org/abs/2501.02520v1)|null|
 |**2024-11-21**|**Fixing Security Vulnerabilities with AI in OSS-Fuzz**|Yuntong Zhang et.al.|[2411.03346v2](http://arxiv.org/abs/2411.03346v2)|null|
 |**2024-09-25**|**VFDelta: A Framework for Detecting Silent Vulnerability Fixes by Enhancing Code Change Learning**|Xu Yang et.al.|[2409.16606v1](http://arxiv.org/abs/2409.16606v1)|null|
 |**2024-09-13**|**Learning Graph-based Patch Representations for Identifying and Assessing Silent Vulnerability Fixes**|Mei Han et.al.|[2409.08512v1](http://arxiv.org/abs/2409.08512v1)|**[link](https://github.com/han-mei/grape)**|
