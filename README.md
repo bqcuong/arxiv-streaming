@@ -74,6 +74,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-29**|**Fine-Grained 1-Day Vulnerability Detection in Binaries via Patch Code Localization**|Chaopeng Dong et.al.|[2501.17413v1](http://arxiv.org/abs/2501.17413v1)|null|
 |**2025-01-13**|**Evaluating Pre-Trained Models for Multi-Language Vulnerability Patching**|Zanis Ali Khan et.al.|[2501.07339v1](http://arxiv.org/abs/2501.07339v1)|null|
 |**2024-12-30**|**Similar but Patched Code Considered Harmful -- The Impact of Similar but Patched Code on Recurring Vulnerability Detection and How to Remove Them**|Zixuan Tan et.al.|[2412.20740v1](http://arxiv.org/abs/2412.20740v1)|null|
 |**2024-11-29**|**Enhancing Security in Third-Party Library Reuse -- Comprehensive Detection of 1-day Vulnerability through Code Patch Analysis**|Shangzhi Xu et.al.|[2411.19648v1](http://arxiv.org/abs/2411.19648v1)|null|
