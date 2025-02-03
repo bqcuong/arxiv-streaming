@@ -2,6 +2,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-31**|**SoK: Towards Effective Automated Vulnerability Repair**|Ying Li et.al.|[2501.18820v1](http://arxiv.org/abs/2501.18820v1)|null|
 |**2025-01-21**|**An Empirically-grounded tool for Automatic Prompt Linting and Repair: A Case Study on Bias, Vulnerability, and Optimization in Developer Prompts**|Dhia Elhaq Rzig et.al.|[2501.12521v1](http://arxiv.org/abs/2501.12521v1)|null|
 |**2025-01-07**|**LLM4CVE: Enabling Iterative Automated Vulnerability Repair with Large Language Models**|Mohamad Fakih et.al.|[2501.03446v1](http://arxiv.org/abs/2501.03446v1)|null|
 |**2025-01-10**|**Closing the Gap: A User Study on the Real-world Usefulness of AI-powered Vulnerability Detection & Repair in the IDE**|Benjamin Steenhoek et.al.|[2412.14306v2](http://arxiv.org/abs/2412.14306v2)|null|
