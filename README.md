@@ -2,6 +2,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-22**|**A Multi-Agent Framework for Automated Vulnerability Detection and Repair in Solidity and Move Smart Contracts**|Rabimba Karanjai et.al.|[2502.18515v1](http://arxiv.org/abs/2502.18515v1)|null|
 |**2025-01-31**|**SoK: Towards Effective Automated Vulnerability Repair**|Ying Li et.al.|[2501.18820v1](http://arxiv.org/abs/2501.18820v1)|null|
 |**2025-01-21**|**An Empirically-grounded tool for Automatic Prompt Linting and Repair: A Case Study on Bias, Vulnerability, and Optimization in Developer Prompts**|Dhia Elhaq Rzig et.al.|[2501.12521v1](http://arxiv.org/abs/2501.12521v1)|null|
 |**2025-01-07**|**LLM4CVE: Enabling Iterative Automated Vulnerability Repair with Large Language Models**|Mohamad Fakih et.al.|[2501.03446v1](http://arxiv.org/abs/2501.03446v1)|null|
@@ -125,6 +126,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2006-10-02**|**Secure Classical Bit Commitment using Fixed Capacity Communication Channels**|Adrian Kent et.al.|[quant-ph/9906103v7](http://arxiv.org/abs/quant-ph/9906103v7)|null|
+|**2025-02-26**|**Framework for asset-liability management with fixed-term securities**|Yevhen Havrylenko et.al.|[2502.19213v1](http://arxiv.org/abs/2502.19213v1)|null|
 |**2024-11-18**|**Can Highlighting Help GitHub Maintainers Track Security Fixes?**|Xueqing Liu et.al.|[2411.11646v1](http://arxiv.org/abs/2411.11646v1)|null|
 |**2024-11-21**|**Fixing Security Vulnerabilities with AI in OSS-Fuzz**|Yuntong Zhang et.al.|[2411.03346v2](http://arxiv.org/abs/2411.03346v2)|null|
 |**2024-02-23**|**DeepCode AI Fix: Fixing Security Vulnerabilities with Large Language Models**|Berkay Berabi et.al.|[2402.13291v2](http://arxiv.org/abs/2402.13291v2)|null|
