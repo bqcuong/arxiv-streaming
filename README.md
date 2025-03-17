@@ -40,6 +40,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-13**|**A Sentence-Level Approach to Understanding Software Vulnerability Fixes**|Amiao Gao et.al.|[2503.10877v1](http://arxiv.org/abs/2503.10877v1)|null|
 |**2025-01-24**|**Code Change Intention, Development Artifact and History Vulnerability: Putting Them Together for Vulnerability Fix Detection by LLM**|Xu Yang et.al.|[2501.14983v1](http://arxiv.org/abs/2501.14983v1)|null|
 |**2025-01-07**|**CommitShield: Tracking Vulnerability Introduction and Fix in Version Control Systems**|Zhaonan Wu et.al.|[2501.03626v1](http://arxiv.org/abs/2501.03626v1)|**[link](https://github.com/security-pride/commitshield)**|
 |**2025-01-05**|**Predicting IoT Device Vulnerability Fix Times with Survival and Failure Time Models**|Carlos A Rivera A et.al.|[2501.02520v1](http://arxiv.org/abs/2501.02520v1)|null|
