@@ -40,6 +40,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-29**|**Improving the Context Length and Efficiency of Code Retrieval for Tracing Security Vulnerability Fixes**|Xueqing Liu et.al.|[2503.22935v1](http://arxiv.org/abs/2503.22935v1)|null|
+|**2025-03-28**|**Chasing the Clock: How Fast Are Vulnerabilities Fixed in the Maven Ecosystem?**|Md Fazle Rabbi et.al.|[2503.22894v1](http://arxiv.org/abs/2503.22894v1)|null|
 |**2025-03-26**|**Fixseeker: An Empirical Driven Graph-based Approach for Detecting Silent Vulnerability Fixes in Open Source Software**|Yiran Cheng et.al.|[2503.20265v1](http://arxiv.org/abs/2503.20265v1)|**[link](https://github.com/veronica-l/fixseeker)**|
 |**2025-03-13**|**A Sentence-Level Approach to Understanding Software Vulnerability Fixes**|Amiao Gao et.al.|[2503.10877v1](http://arxiv.org/abs/2503.10877v1)|null|
 |**2025-01-24**|**Code Change Intention, Development Artifact and History Vulnerability: Putting Them Together for Vulnerability Fix Detection by LLM**|Xu Yang et.al.|[2501.14983v1](http://arxiv.org/abs/2501.14983v1)|null|
@@ -128,6 +130,8 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2006-10-02**|**Secure Classical Bit Commitment using Fixed Capacity Communication Channels**|Adrian Kent et.al.|[quant-ph/9906103v7](http://arxiv.org/abs/quant-ph/9906103v7)|null|
+|**2025-03-30**|**Fixing Outside the Box: Uncovering Tactics for Open-Source Security Issue Management**|Lyuye Zhang et.al.|[2503.23357v1](http://arxiv.org/abs/2503.23357v1)|null|
+|**2025-03-29**|**Improving the Context Length and Efficiency of Code Retrieval for Tracing Security Vulnerability Fixes**|Xueqing Liu et.al.|[2503.22935v1](http://arxiv.org/abs/2503.22935v1)|null|
 |**2025-02-26**|**Framework for asset-liability management with fixed-term securities**|Yevhen Havrylenko et.al.|[2502.19213v1](http://arxiv.org/abs/2502.19213v1)|null|
 |**2024-11-18**|**Can Highlighting Help GitHub Maintainers Track Security Fixes?**|Xueqing Liu et.al.|[2411.11646v1](http://arxiv.org/abs/2411.11646v1)|null|
 |**2024-11-21**|**Fixing Security Vulnerabilities with AI in OSS-Fuzz**|Yuntong Zhang et.al.|[2411.03346v2](http://arxiv.org/abs/2411.03346v2)|null|
