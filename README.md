@@ -44,7 +44,7 @@
 |---|---|---|---|---|
 |**2025-03-29**|**Improving the Context Length and Efficiency of Code Retrieval for Tracing Security Vulnerability Fixes**|Xueqing Liu et.al.|[2503.22935v1](http://arxiv.org/abs/2503.22935v1)|null|
 |**2025-03-28**|**Chasing the Clock: How Fast Are Vulnerabilities Fixed in the Maven Ecosystem?**|Md Fazle Rabbi et.al.|[2503.22894v1](http://arxiv.org/abs/2503.22894v1)|null|
-|**2025-03-26**|**Fixseeker: An Empirical Driven Graph-based Approach for Detecting Silent Vulnerability Fixes in Open Source Software**|Yiran Cheng et.al.|[2503.20265v1](http://arxiv.org/abs/2503.20265v1)|**[link](https://github.com/veronica-l/fixseeker)**|
+|**2025-03-26**|**Fixseeker: An Empirical Driven Graph-based Approach for Detecting Silent Vulnerability Fixes in Open Source Software**|Yiran Cheng et.al.|[2503.20265v1](http://arxiv.org/abs/2503.20265v1)|null|
 |**2025-03-13**|**A Sentence-Level Approach to Understanding Software Vulnerability Fixes**|Amiao Gao et.al.|[2503.10877v1](http://arxiv.org/abs/2503.10877v1)|null|
 |**2025-01-24**|**Code Change Intention, Development Artifact and History Vulnerability: Putting Them Together for Vulnerability Fix Detection by LLM**|Xu Yang et.al.|[2501.14983v1](http://arxiv.org/abs/2501.14983v1)|null|
 |**2025-01-07**|**CommitShield: Tracking Vulnerability Introduction and Fix in Version Control Systems**|Zhaonan Wu et.al.|[2501.03626v1](http://arxiv.org/abs/2501.03626v1)|**[link](https://github.com/security-pride/commitshield)**|
@@ -83,7 +83,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2025-05-07**|**AutoPatch: Multi-Agent Framework for Patching Real-World CVE Vulnerabilities**|Minjae Seo et.al.|[2505.04195v1](http://arxiv.org/abs/2505.04195v1)|null|
-|**2025-05-05**|**A Slicing-Based Approach for Detecting and Patching Vulnerable Code Clones**|Hakam Alomari et.al.|[2505.02349v1](http://arxiv.org/abs/2505.02349v1)|null|
+|**2025-05-05**|**A Slicing-Based Approach for Detecting and Patching Vulnerable Code Clones**|Hakam Alomari et.al.|[2505.02349v1](http://arxiv.org/abs/2505.02349v1)|**[link](https://github.com/alomarhw/srcvul)**|
 |**2025-02-16**|**VulRG: Multi-Level Explainable Vulnerability Patch Ranking for Complex Systems Using Graphs**|Yuning Jiang et.al.|[2502.11143v1](http://arxiv.org/abs/2502.11143v1)|null|
 |**2025-01-29**|**Fine-Grained 1-Day Vulnerability Detection in Binaries via Patch Code Localization**|Chaopeng Dong et.al.|[2501.17413v1](http://arxiv.org/abs/2501.17413v1)|null|
 |**2025-01-13**|**Evaluating Pre-Trained Models for Multi-Language Vulnerability Patching**|Zanis Ali Khan et.al.|[2501.07339v1](http://arxiv.org/abs/2501.07339v1)|null|
