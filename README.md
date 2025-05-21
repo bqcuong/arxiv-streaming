@@ -137,7 +137,7 @@
 |**2006-10-02**|**Secure Classical Bit Commitment using Fixed Capacity Communication Channels**|Adrian Kent et.al.|[quant-ph/9906103v7](http://arxiv.org/abs/quant-ph/9906103v7)|null|
 |**2025-03-30**|**Fixing Outside the Box: Uncovering Tactics for Open-Source Security Issue Management**|Lyuye Zhang et.al.|[2503.23357v1](http://arxiv.org/abs/2503.23357v1)|null|
 |**2025-03-29**|**Improving the Context Length and Efficiency of Code Retrieval for Tracing Security Vulnerability Fixes**|Xueqing Liu et.al.|[2503.22935v1](http://arxiv.org/abs/2503.22935v1)|null|
-|**2025-02-26**|**Framework for asset-liability management with fixed-term securities**|Yevhen Havrylenko et.al.|[2502.19213v1](http://arxiv.org/abs/2502.19213v1)|null|
+|**2025-05-19**|**Framework for asset-liability management with fixed-term securities**|Yevhen Havrylenko et.al.|[2502.19213v2](http://arxiv.org/abs/2502.19213v2)|null|
 |**2024-11-18**|**Can Highlighting Help GitHub Maintainers Track Security Fixes?**|Xueqing Liu et.al.|[2411.11646v1](http://arxiv.org/abs/2411.11646v1)|null|
 |**2024-11-21**|**Fixing Security Vulnerabilities with AI in OSS-Fuzz**|Yuntong Zhang et.al.|[2411.03346v2](http://arxiv.org/abs/2411.03346v2)|null|
 |**2024-02-23**|**DeepCode AI Fix: Fixing Security Vulnerabilities with Large Language Models**|Berkay Berabi et.al.|[2402.13291v2](http://arxiv.org/abs/2402.13291v2)|null|
