@@ -2,6 +2,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-05**|**A Multi-Dataset Evaluation of Models for Automated Vulnerability Repair**|Zanis Ali Khan et.al.|[2506.04987v1](http://arxiv.org/abs/2506.04987v1)|null|
 |**2025-05-12**|**Synthetic Code Surgery: Repairing Bugs and Vulnerabilities with LLMs and Synthetic Data**|David de-Fitero-Dominguez et.al.|[2505.07372v1](http://arxiv.org/abs/2505.07372v1)|null|
 |**2025-04-10**|**Agent That Debugs: Dynamic State-Guided Vulnerability Repair**|Zhengyao Liu et.al.|[2504.07634v1](http://arxiv.org/abs/2504.07634v1)|null|
 |**2025-04-09**|**Using ML filters to help automated vulnerability repairs: when it helps and when it doesn't**|Maria Camporese et.al.|[2504.07027v1](http://arxiv.org/abs/2504.07027v1)|null|
