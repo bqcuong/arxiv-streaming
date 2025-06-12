@@ -13,7 +13,7 @@
 |**2025-04-25**|**Closing the Gap: A User Study on the Real-world Usefulness of AI-powered Vulnerability Detection & Repair in the IDE**|Benjamin Steenhoek et.al.|[2412.14306v3](http://arxiv.org/abs/2412.14306v3)|null|
 |**2024-11-27**|**There are More Fish in the Sea: Automated Vulnerability Repair via Binary Templates**|Bo Lin et.al.|[2411.18088v1](http://arxiv.org/abs/2411.18088v1)|null|
 |**2024-11-08**|**CRepair: CVAE-based Automatic Vulnerability Repair Technology**|Penghui Liu et.al.|[2411.05540v1](http://arxiv.org/abs/2411.05540v1)|null|
-|**2024-09-27**|**Code Vulnerability Repair with Large Language Model using Context-Aware Prompt Tuning**|Arshiya Khan et.al.|[2409.18395v1](http://arxiv.org/abs/2409.18395v1)|null|
+|**2025-06-11**|**Code Vulnerability Repair with Large Language Model using Context-Aware Prompt Tuning**|Arshiya Khan et.al.|[2409.18395v2](http://arxiv.org/abs/2409.18395v2)|null|
 |**2024-09-15**|**ContractTinker: LLM-Empowered Vulnerability Repair for Real-World Smart Contracts**|Che Wang et.al.|[2409.09661v1](http://arxiv.org/abs/2409.09661v1)|**[link](https://github.com/CheWang09/LLM4SMAPR)**|
 |**2024-07-12**|**TAPFixer: Automatic Detection and Repair of Home Automation Vulnerabilities based on Negated-property Reasoning**|Yinbo Yu et.al.|[2407.09095v1](http://arxiv.org/abs/2407.09095v1)|**[link](https://github.com/q1utr5th/tapfixer)**|
 |**2024-05-24**|**A Case Study of LLM for Automated Vulnerability Repair: Assessing Impact of Reasoning and Patch Validation Feedback**|Ummay Kulsum et.al.|[2405.15690v1](http://arxiv.org/abs/2405.15690v1)|null|
@@ -84,7 +84,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-06-04**|**Mono: Is Your "Clean" Vulnerability Dataset Really Solvable? Exposing and Trapping Undecidable Patches and Beyond**|Zeyu Gao et.al.|[2506.03651v1](http://arxiv.org/abs/2506.03651v1)|**[link](https://github.com/vul337/mono)**|
+|**2025-06-11**|**Mono: Is Your "Clean" Vulnerability Dataset Really Solvable? Exposing and Trapping Undecidable Patches and Beyond**|Zeyu Gao et.al.|[2506.03651v2](http://arxiv.org/abs/2506.03651v2)|**[link](https://github.com/vul337/mono)**|
 |**2025-05-07**|**AutoPatch: Multi-Agent Framework for Patching Real-World CVE Vulnerabilities**|Minjae Seo et.al.|[2505.04195v1](http://arxiv.org/abs/2505.04195v1)|**[link](https://github.com/ai-llm-research/autopatch)**|
 |**2025-05-05**|**A Slicing-Based Approach for Detecting and Patching Vulnerable Code Clones**|Hakam Alomari et.al.|[2505.02349v1](http://arxiv.org/abs/2505.02349v1)|**[link](https://github.com/alomarhw/srcvul)**|
 |**2025-02-16**|**VulRG: Multi-Level Explainable Vulnerability Patch Ranking for Complex Systems Using Graphs**|Yuning Jiang et.al.|[2502.11143v1](http://arxiv.org/abs/2502.11143v1)|null|
