@@ -139,6 +139,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2006-10-02**|**Secure Classical Bit Commitment using Fixed Capacity Communication Channels**|Adrian Kent et.al.|[quant-ph/9906103v7](http://arxiv.org/abs/quant-ph/9906103v7)|null|
+|**2025-06-30**|**Are AI-Generated Fixes Secure? Analyzing LLM and Agent Patches on SWE-bench**|Amirali Sajadi et.al.|[2507.02976v1](http://arxiv.org/abs/2507.02976v1)|null|
 |**2025-06-28**|**Guiding AI to Fix Its Own Flaws: An Empirical Study on LLM-Driven Secure Code Generation**|Hao Yan et.al.|[2506.23034v1](http://arxiv.org/abs/2506.23034v1)|null|
 |**2025-03-30**|**Fixing Outside the Box: Uncovering Tactics for Open-Source Security Issue Management**|Lyuye Zhang et.al.|[2503.23357v1](http://arxiv.org/abs/2503.23357v1)|null|
 |**2025-05-31**|**Improving the Context Length and Efficiency of Code Retrieval for Tracing Security Vulnerability Fixes**|Xueqing Liu et.al.|[2503.22935v2](http://arxiv.org/abs/2503.22935v2)|null|
@@ -168,6 +169,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-30**|**Are AI-Generated Fixes Secure? Analyzing LLM and Agent Patches on SWE-bench**|Amirali Sajadi et.al.|[2507.02976v1](http://arxiv.org/abs/2507.02976v1)|null|
 |**2025-05-11**|**Federated Learning with LoRA Optimized DeiT and Multiscale Patch Embedding for Secure Eye Disease Recognition**|Md. Naimur Asif Borno et.al.|[2505.06982v1](http://arxiv.org/abs/2505.06982v1)|null|
 |**2024-12-11**|**Repository-Level Graph Representation Learning for Enhanced Security Patch Detection**|Xin-Cheng Wen et.al.|[2412.08068v1](http://arxiv.org/abs/2412.08068v1)|**[link](https://github.com/Xin-Cheng-Wen/RepoSPD)**|
 |**2024-11-29**|**Enhancing Security in Third-Party Library Reuse -- Comprehensive Detection of 1-day Vulnerability through Code Patch Analysis**|Shangzhi Xu et.al.|[2411.19648v1](http://arxiv.org/abs/2411.19648v1)|null|
