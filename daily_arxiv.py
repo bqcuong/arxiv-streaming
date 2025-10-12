@@ -31,7 +31,9 @@ def get_daily_papers(topic,query, max_results=2):
     # output 
     content = dict() 
     
-    search_engine = arxiv.Search(
+    client = arxiv.Client()
+
+    search = arxiv.Search(
         query = query,
         max_results = max_results,
         sort_by = arxiv.SortCriterion.SubmittedDate
@@ -39,7 +41,7 @@ def get_daily_papers(topic,query, max_results=2):
 
     cnt = 0
 
-    for result in search_engine.results():
+    for result in client.results(search):
 
         paper_id            = result.get_short_id()
         paper_title         = result.title
@@ -78,6 +80,8 @@ def get_daily_papers(topic,query, max_results=2):
                 content[paper_key] = f"|**{update_time}**|**{paper_title}**|{paper_first_author} et.al.|[{paper_id}]({paper_url})|null|\n"
 
         except Exception as e:
+            # Errors happen while dealing with paperswithcode API, mark source column as null
+            content[paper_key] = f"|**{update_time}**|**{paper_title}**|{paper_first_author} et.al.|[{paper_id}]({paper_url})|null|\n"
             print(f"exception: {e} with id: {paper_key}")
 
     data = {topic:content}
