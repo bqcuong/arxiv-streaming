@@ -2,6 +2,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-07**|**Vul-R2: A Reasoning LLM for Automated Vulnerability Repair**|Xin-Cheng Wen et.al.|[2510.05480v1](http://arxiv.org/abs/2510.05480v1)|null|
+|**2025-10-01**|**Semantics-Aligned, Curriculum-Driven, and Reasoning-Enhanced Vulnerability Repair Framework**|Chengran Yang et.al.|[2510.01002v1](http://arxiv.org/abs/2510.01002v1)|null|
+|**2025-09-30**|**Red Teaming Program Repair Agents: When Correct Patches can Hide Vulnerabilities**|Simin Chen et.al.|[2509.25894v1](http://arxiv.org/abs/2509.25894v1)|null|
+|**2025-09-18**|**SecureFixAgent: A Hybrid LLM Agent for Automated Python Static Vulnerability Repair**|Jugal Gajjar et.al.|[2509.16275v1](http://arxiv.org/abs/2509.16275v1)|null|
+|**2025-09-03**|**VulnRepairEval: An Exploit-Based Evaluation Framework for Assessing Large Language Model Vulnerability Repair Capabilities**|Weizhe Wang et.al.|[2509.03331v1](http://arxiv.org/abs/2509.03331v1)|null|
+|**2025-08-22**|**LLM-GUARD: Large Language Model-Based Detection and Repair of Bugs and Security Vulnerabilities in C++ and Python**|Akshay Mhatre et.al.|[2508.16419v1](http://arxiv.org/abs/2508.16419v1)|null|
+|**2025-08-05**|**On the Evaluation of Large Language Models in Multilingual Vulnerability Repair**|Dong wang et.al.|[2508.03470v1](http://arxiv.org/abs/2508.03470v1)|null|
+|**2025-07-28**|**Repairing vulnerabilities without invisible hands. A differentiated replication study on LLMs**|Maria Camporese et.al.|[2507.20977v1](http://arxiv.org/abs/2507.20977v1)|null|
 |**2025-06-13**|**SoK: Automated Vulnerability Repair: Methods, Tools, and Assessments**|Yiwei Hu et.al.|[2506.11697v1](http://arxiv.org/abs/2506.11697v1)|null|
 |**2025-06-13**|**Identifying Helpful Context for LLM-based Vulnerability Repair: A Preliminary Study**|Gábor Antal et.al.|[2506.11561v1](http://arxiv.org/abs/2506.11561v1)|null|
 |**2025-06-05**|**A Multi-Dataset Evaluation of Models for Automated Vulnerability Repair**|Zanis Ali Khan et.al.|[2506.04987v1](http://arxiv.org/abs/2506.04987v1)|null|
@@ -46,12 +54,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-05-31**|**Improving the Context Length and Efficiency of Code Retrieval for Tracing Security Vulnerability Fixes**|Xueqing Liu et.al.|[2503.22935v2](http://arxiv.org/abs/2503.22935v2)|null|
+|**2025-09-09**|**PatchSeeker: Mapping NVD Records to their Vulnerability-fixing Commits with LLM Generated Commits and Embeddings**|Huu Hung Nguyen et.al.|[2509.07540v1](http://arxiv.org/abs/2509.07540v1)|null|
+|**2025-08-15**|**Fast and Accurate Silent Vulnerability Fix Retrieval**|Xueqing Liu et.al.|[2503.22935v3](http://arxiv.org/abs/2503.22935v3)|null|
 |**2025-03-28**|**Chasing the Clock: How Fast Are Vulnerabilities Fixed in the Maven Ecosystem?**|Md Fazle Rabbi et.al.|[2503.22894v1](http://arxiv.org/abs/2503.22894v1)|null|
 |**2025-03-26**|**Fixseeker: An Empirical Driven Graph-based Approach for Detecting Silent Vulnerability Fixes in Open Source Software**|Yiran Cheng et.al.|[2503.20265v1](http://arxiv.org/abs/2503.20265v1)|null|
 |**2025-03-13**|**A Sentence-Level Approach to Understanding Software Vulnerability Fixes**|Amiao Gao et.al.|[2503.10877v1](http://arxiv.org/abs/2503.10877v1)|null|
 |**2025-01-24**|**Code Change Intention, Development Artifact and History Vulnerability: Putting Them Together for Vulnerability Fix Detection by LLM**|Xu Yang et.al.|[2501.14983v1](http://arxiv.org/abs/2501.14983v1)|null|
-|**2025-01-07**|**CommitShield: Tracking Vulnerability Introduction and Fix in Version Control Systems**|Zhaonan Wu et.al.|[2501.03626v1](http://arxiv.org/abs/2501.03626v1)|**[link](https://github.com/security-pride/commitshield)**|
+|**2025-01-07**|**CommitShield: Tracking Vulnerability Introduction and Fix in Version Control Systems**|Zhaonan Wu et.al.|[2501.03626v1](http://arxiv.org/abs/2501.03626v1)|null|
 |**2025-01-05**|**Predicting IoT Device Vulnerability Fix Times with Survival and Failure Time Models**|Carlos A Rivera A et.al.|[2501.02520v1](http://arxiv.org/abs/2501.02520v1)|null|
 |**2024-11-21**|**Fixing Security Vulnerabilities with AI in OSS-Fuzz**|Yuntong Zhang et.al.|[2411.03346v2](http://arxiv.org/abs/2411.03346v2)|null|
 |**2024-09-25**|**VFDelta: A Framework for Detecting Silent Vulnerability Fixes by Enhancing Code Change Learning**|Xu Yang et.al.|[2409.16606v1](http://arxiv.org/abs/2409.16606v1)|null|
@@ -61,7 +70,7 @@
 |**2024-02-27**|**Chain-of-Thought Prompting of Large Language Models for Discovering and Fixing Software Vulnerabilities**|Yu Nong et.al.|[2402.17230v1](http://arxiv.org/abs/2402.17230v1)|null|
 |**2024-02-23**|**DeepCode AI Fix: Fixing Security Vulnerabilities with Large Language Models**|Berkay Berabi et.al.|[2402.13291v2](http://arxiv.org/abs/2402.13291v2)|null|
 |**2023-09-15**|**Silent Vulnerability-fixing Commit Identification Based on Graph Neural Networks**|Hieu Dinh Vo et.al.|[2309.08225v1](http://arxiv.org/abs/2309.08225v1)|null|
-|**2023-09-15**|**REEF: A Framework for Collecting Real-World Vulnerabilities and Fixes**|Chaozheng Wang et.al.|[2309.08115v1](http://arxiv.org/abs/2309.08115v1)|**[link](https://github.com/ase-reef/reef-data)**|
+|**2023-09-15**|**REEF: A Framework for Collecting Real-World Vulnerabilities and Fixes**|Chaozheng Wang et.al.|[2309.08115v1](http://arxiv.org/abs/2309.08115v1)|null|
 |**2023-09-05**|**VFFINDER: A Graph-based Approach for Automated Silent Vulnerability-Fix Identification**|Son Nguyen et.al.|[2309.01971v1](http://arxiv.org/abs/2309.01971v1)|null|
 |**2023-08-20**|**Can Large Language Models Find And Fix Vulnerable Software?**|David Noever et.al.|[2308.10345v1](http://arxiv.org/abs/2308.10345v1)|null|
 |**2023-07-25**|**On the unreasonable vulnerability of transformers for image restoration -- and an easy fix**|Shashank Agnihotri et.al.|[2307.13856v1](http://arxiv.org/abs/2307.13856v1)|null|
@@ -86,21 +95,26 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-06-11**|**Mono: Is Your "Clean" Vulnerability Dataset Really Solvable? Exposing and Trapping Undecidable Patches and Beyond**|Zeyu Gao et.al.|[2506.03651v2](http://arxiv.org/abs/2506.03651v2)|**[link](https://github.com/vul337/mono)**|
-|**2025-05-07**|**AutoPatch: Multi-Agent Framework for Patching Real-World CVE Vulnerabilities**|Minjae Seo et.al.|[2505.04195v1](http://arxiv.org/abs/2505.04195v1)|**[link](https://github.com/ai-llm-research/autopatch)**|
-|**2025-05-05**|**A Slicing-Based Approach for Detecting and Patching Vulnerable Code Clones**|Hakam Alomari et.al.|[2505.02349v1](http://arxiv.org/abs/2505.02349v1)|**[link](https://github.com/alomarhw/srcvul)**|
-|**2025-02-16**|**VulRG: Multi-Level Explainable Vulnerability Patch Ranking for Complex Systems Using Graphs**|Yuning Jiang et.al.|[2502.11143v1](http://arxiv.org/abs/2502.11143v1)|**[link](https://github.com/Yuning-J/PatchRank)**|
+|**2025-09-30**|**Red Teaming Program Repair Agents: When Correct Patches can Hide Vulnerabilities**|Simin Chen et.al.|[2509.25894v1](http://arxiv.org/abs/2509.25894v1)|null|
+|**2025-09-28**|**Revisiting Vulnerability Patch Localization: An Empirical Study and LLM-Based Solution**|Haoran Xu et.al.|[2509.15777v2](http://arxiv.org/abs/2509.15777v2)|null|
+|**2025-09-16**|**Vulnerability Patching Across Software Products and Software Components: A Case Study of Red Hat's Product Portfolio**|Jukka Ruohonen et.al.|[2509.13117v1](http://arxiv.org/abs/2509.13117v1)|null|
+|**2025-09-12**|**Dynamic Vulnerability Patching for Heterogeneous Embedded Systems Using Stack Frame Reconstruction**|Ming Zhou et.al.|[2509.10213v1](http://arxiv.org/abs/2509.10213v1)|null|
+|**2025-09-08**|**All You Need Is A Fuzzing Brain: An LLM-Powered System for Automated Vulnerability Detection and Patching**|Ze Sheng et.al.|[2509.07225v1](http://arxiv.org/abs/2509.07225v1)|null|
+|**2025-06-11**|**Mono: Is Your "Clean" Vulnerability Dataset Really Solvable? Exposing and Trapping Undecidable Patches and Beyond**|Zeyu Gao et.al.|[2506.03651v2](http://arxiv.org/abs/2506.03651v2)|null|
+|**2025-05-07**|**AutoPatch: Multi-Agent Framework for Patching Real-World CVE Vulnerabilities**|Minjae Seo et.al.|[2505.04195v1](http://arxiv.org/abs/2505.04195v1)|null|
+|**2025-05-05**|**A Slicing-Based Approach for Detecting and Patching Vulnerable Code Clones**|Hakam Alomari et.al.|[2505.02349v1](http://arxiv.org/abs/2505.02349v1)|null|
+|**2025-02-16**|**VulRG: Multi-Level Explainable Vulnerability Patch Ranking for Complex Systems Using Graphs**|Yuning Jiang et.al.|[2502.11143v1](http://arxiv.org/abs/2502.11143v1)|null|
 |**2025-01-29**|**Fine-Grained 1-Day Vulnerability Detection in Binaries via Patch Code Localization**|Chaopeng Dong et.al.|[2501.17413v1](http://arxiv.org/abs/2501.17413v1)|null|
 |**2025-01-13**|**Evaluating Pre-Trained Models for Multi-Language Vulnerability Patching**|Zanis Ali Khan et.al.|[2501.07339v1](http://arxiv.org/abs/2501.07339v1)|null|
 |**2024-12-30**|**Similar but Patched Code Considered Harmful -- The Impact of Similar but Patched Code on Recurring Vulnerability Detection and How to Remove Them**|Zixuan Tan et.al.|[2412.20740v1](http://arxiv.org/abs/2412.20740v1)|null|
 |**2024-11-29**|**Enhancing Security in Third-Party Library Reuse -- Comprehensive Detection of 1-day Vulnerability through Code Patch Analysis**|Shangzhi Xu et.al.|[2411.19648v1](http://arxiv.org/abs/2411.19648v1)|null|
-|**2024-11-18**|**Improving Data Curation of Software Vulnerability Patches through Uncertainty Quantification**|Hui Chen et.al.|[2411.11659v1](http://arxiv.org/abs/2411.11659v1)|null|
+|**2025-09-19**|**Improving Data Curation of Software Vulnerability Patches through Uncertainty Quantification**|Hui Chen et.al.|[2411.11659v2](http://arxiv.org/abs/2411.11659v2)|null|
 |**2024-09-16**|**VulnLLMEval: A Framework for Evaluating Large Language Models in Software Vulnerability Detection and Patching**|Arastoo Zibaeirad et.al.|[2409.10756v1](http://arxiv.org/abs/2409.10756v1)|null|
 |**2024-09-13**|**Learning Graph-based Patch Representations for Identifying and Assessing Silent Vulnerability Fixes**|Mei Han et.al.|[2409.08512v1](http://arxiv.org/abs/2409.08512v1)|null|
 |**2025-04-02**|**APPATCH: Automated Adaptive Prompting Large Language Models for Real-World Software Vulnerability Patching**|Yu Nong et.al.|[2408.13597v2](http://arxiv.org/abs/2408.13597v2)|null|
 |**2024-07-24**|**PatchFinder: A Two-Phase Approach to Security Patch Tracing for Disclosed Vulnerabilities in Open-Source Software**|Kaixuan Li et.al.|[2407.17065v1](http://arxiv.org/abs/2407.17065v1)|null|
 |**2024-05-24**|**A Case Study of LLM for Automated Vulnerability Repair: Assessing Impact of Reasoning and Patch Validation Feedback**|Ummay Kulsum et.al.|[2405.15690v1](http://arxiv.org/abs/2405.15690v1)|null|
-|**2024-04-27**|**How the Training Procedure Impacts the Performance of Deep Learning-based Vulnerability Patching**|Antonio Mastropaolo et.al.|[2404.17896v1](http://arxiv.org/abs/2404.17896v1)|**[link](https://github.com/antonio-mastropaolo/dl-training-vuln-patching)**|
+|**2024-04-27**|**How the Training Procedure Impacts the Performance of Deep Learning-based Vulnerability Patching**|Antonio Mastropaolo et.al.|[2404.17896v1](http://arxiv.org/abs/2404.17896v1)|null|
 |**2024-02-22**|**Mudjacking: Patching Backdoor Vulnerabilities in Foundation Models**|Hongbin Liu et.al.|[2402.14977v1](http://arxiv.org/abs/2402.14977v1)|null|
 |**2024-06-09**|**CompVPD: Iteratively Identifying Vulnerability Patches Based on Human Validation Results with a Precise Context**|Tianyu Chen et.al.|[2310.02530v2](http://arxiv.org/abs/2310.02530v2)|null|
 |**2023-09-30**|**Tracking Patches for Open Source Software Vulnerabilities**|Congying Xu et.al.|[2112.02240v2](http://arxiv.org/abs/2112.02240v2)|null|
@@ -116,13 +130,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-09-04**|**Adversarial Bug Reports as a Security Risk in Language Model-Based Automated Program Repair**|Piotr Przymus et.al.|[2509.05372v1](http://arxiv.org/abs/2509.05372v1)|null|
+|**2025-08-22**|**LLM-GUARD: Large Language Model-Based Detection and Repair of Bugs and Security Vulnerabilities in C++ and Python**|Akshay Mhatre et.al.|[2508.16419v1](http://arxiv.org/abs/2508.16419v1)|null|
 |**2024-09-01**|**Enhancing Source Code Security with LLMs: Demystifying The Challenges and Generating Reliable Repairs**|Nafis Tanveer Islam et.al.|[2409.00571v1](http://arxiv.org/abs/2409.00571v1)|null|
 |**2024-05-09**|**Secure Storage using Maximally Recoverable Locally Repairable Codes**|Tim Janz et.al.|[2405.06098v1](http://arxiv.org/abs/2405.06098v1)|null|
 |**2024-03-11**|**Poisoning Programs by Un-Repairing Code: Security Concerns of AI-generated Code**|Cristina Improta et.al.|[2403.06675v1](http://arxiv.org/abs/2403.06675v1)|null|
 |**2024-01-30**|**Code Security Vulnerability Repair Using Reinforcement Learning with Large Language Models**|Nafis Tanveer Islam et.al.|[2401.07031v2](http://arxiv.org/abs/2401.07031v2)|null|
 |**2023-09-06**|**Empirical Review of Smart Contract and DeFi Security: Vulnerability Detection and Automated Repair**|Peng Qian et.al.|[2309.02391v2](http://arxiv.org/abs/2309.02391v2)|null|
 |**2022-09-16**|**On the acceptance by code reviewers of candidate security patches suggested by Automated Program Repair tools**|Aurora Papotti et.al.|[2209.07211v2](http://arxiv.org/abs/2209.07211v2)|null|
-|**2022-01-04**|**Neural Transfer Learning for Repairing Security Vulnerabilities in C Code**|Zimin Chen et.al.|[2104.08308v3](http://arxiv.org/abs/2104.08308v3)|**[link](https://github.com/SteveKommrusch/VRepair)**|
+|**2022-01-04**|**Neural Transfer Learning for Repairing Security Vulnerabilities in C Code**|Zimin Chen et.al.|[2104.08308v3](http://arxiv.org/abs/2104.08308v3)|null|
 |**2018-05-08**|**On Secure Exact-repair Regenerating Codes with a Single Pareto Optimal Point**|Fangwei Ye et.al.|[1805.02989v1](http://arxiv.org/abs/1805.02989v1)|null|
 |**2017-09-18**|**Introduction of Improved Repairing Locality into Secret Sharing Schemes with Perfect Security**|Yue Fu et.al.|[1709.05824v1](http://arxiv.org/abs/1709.05824v1)|null|
 |**2017-06-01**|**Generic Secure Repair for Distributed Storage**|Wentao Huang et.al.|[1706.00500v1](http://arxiv.org/abs/1706.00500v1)|null|
@@ -139,8 +155,9 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2006-10-02**|**Secure Classical Bit Commitment using Fixed Capacity Communication Channels**|Adrian Kent et.al.|[quant-ph/9906103v7](http://arxiv.org/abs/quant-ph/9906103v7)|null|
+|**2025-09-26**|**What Do They Fix? LLM-Aided Categorization of Security Patches for Critical Memory Bugs**|Xingyu Li et.al.|[2509.22796v1](http://arxiv.org/abs/2509.22796v1)|null|
 |**2025-07-08**|**Does Movable Antenna Present A Dual-edged Nature? From the Perspective of Physical Layer Security: A Joint Design of Fixed-position Antenna and Movable Antenna**|Kan Yu et.al.|[2507.05784v1](http://arxiv.org/abs/2507.05784v1)|null|
-|**2025-06-30**|**Are AI-Generated Fixes Secure? Analyzing LLM and Agent Patches on SWE-bench**|Amirali Sajadi et.al.|[2507.02976v1](http://arxiv.org/abs/2507.02976v1)|null|
+|**2025-07-24**|**Are AI-Generated Fixes Secure? Analyzing LLM and Agent Patches on SWE-bench**|Amirali Sajadi et.al.|[2507.02976v2](http://arxiv.org/abs/2507.02976v2)|null|
 |**2025-06-28**|**Guiding AI to Fix Its Own Flaws: An Empirical Study on LLM-Driven Secure Code Generation**|Hao Yan et.al.|[2506.23034v1](http://arxiv.org/abs/2506.23034v1)|null|
 |**2025-03-30**|**Fixing Outside the Box: Uncovering Tactics for Open-Source Security Issue Management**|Lyuye Zhang et.al.|[2503.23357v1](http://arxiv.org/abs/2503.23357v1)|null|
 |**2025-05-31**|**Improving the Context Length and Efficiency of Code Retrieval for Tracing Security Vulnerability Fixes**|Xueqing Liu et.al.|[2503.22935v2](http://arxiv.org/abs/2503.22935v2)|null|
@@ -149,12 +166,12 @@
 |**2024-11-21**|**Fixing Security Vulnerabilities with AI in OSS-Fuzz**|Yuntong Zhang et.al.|[2411.03346v2](http://arxiv.org/abs/2411.03346v2)|null|
 |**2024-02-23**|**DeepCode AI Fix: Fixing Security Vulnerabilities with Large Language Models**|Berkay Berabi et.al.|[2402.13291v2](http://arxiv.org/abs/2402.13291v2)|null|
 |**2023-09-18**|**Securing Fixed Neural Network Steganography**|Zicong Luo et.al.|[2309.09700v1](http://arxiv.org/abs/2309.09700v1)|null|
-|**2024-04-02**|**How Effective Are Neural Networks for Fixing Security Vulnerabilities**|Yi Wu et.al.|[2305.18607v2](http://arxiv.org/abs/2305.18607v2)|**[link](https://github.com/lin-tan/llm-vul)**|
+|**2024-04-02**|**How Effective Are Neural Networks for Fixing Security Vulnerabilities**|Yi Wu et.al.|[2305.18607v2](http://arxiv.org/abs/2305.18607v2)|null|
 |**2023-02-02**|**Fixing Hardware Security Bugs with Large Language Models**|Baleegh Ahmad et.al.|[2302.01215v1](http://arxiv.org/abs/2302.01215v1)|null|
 |**2022-05-17**|**On the Use of Refactoring in Security Vulnerability Fixes: An Exploratory Study on Maven Libraries**|Ayano Ikegami et.al.|[2205.08116v1](http://arxiv.org/abs/2205.08116v1)|null|
 |**2022-08-15**|**Examining Zero-Shot Vulnerability Repair with Large Language Models**|Hammond Pearce et.al.|[2112.02125v3](http://arxiv.org/abs/2112.02125v3)|null|
-|**2021-05-07**|**Detecting Security Fixes in Open-Source Repositories using Static Code Analyzers**|Therese Fehrer et.al.|[2105.03346v1](http://arxiv.org/abs/2105.03346v1)|**[link](https://github.com/sap/project-kb)**|
-|**2021-02-13**|**BPFContain: Fixing the Soft Underbelly of Container Security**|William Findlay et.al.|[2102.06972v1](http://arxiv.org/abs/2102.06972v1)|**[link](https://github.com/willfindlay/bpfcontain-rs)**|
+|**2021-05-07**|**Detecting Security Fixes in Open-Source Repositories using Static Code Analyzers**|Therese Fehrer et.al.|[2105.03346v1](http://arxiv.org/abs/2105.03346v1)|null|
+|**2021-02-13**|**BPFContain: Fixing the Soft Underbelly of Container Security**|William Findlay et.al.|[2102.06972v1](http://arxiv.org/abs/2102.06972v1)|null|
 |**2020-12-15**|**A Quantitative Study of Security Bug Fixes of GitHub Repositories**|Daito Nakano et.al.|[2012.08053v1](http://arxiv.org/abs/2012.08053v1)|null|
 |**2020-09-21**|**Physical-Layer Security for Two-Hop Air-to-Underwater Communication Systems With Fixed-Gain Amplify-and-Forward Relaying**|Yi Lou et.al.|[2009.09550v1](http://arxiv.org/abs/2009.09550v1)|null|
 |**2019-10-30**|**Breaking and (Partially) Fixing Provably Secure Onion Routing**|Christiane Kuhn et.al.|[1910.13772v1](http://arxiv.org/abs/1910.13772v1)|null|
@@ -170,9 +187,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-06-30**|**Are AI-Generated Fixes Secure? Analyzing LLM and Agent Patches on SWE-bench**|Amirali Sajadi et.al.|[2507.02976v1](http://arxiv.org/abs/2507.02976v1)|null|
+|**2025-09-26**|**What Do They Fix? LLM-Aided Categorization of Security Patches for Critical Memory Bugs**|Xingyu Li et.al.|[2509.22796v1](http://arxiv.org/abs/2509.22796v1)|null|
+|**2025-09-12**|**Securing LLM-Generated Embedded Firmware through AI Agent-Driven Validation and Patching**|Seyed Moein Abtahi et.al.|[2509.09970v1](http://arxiv.org/abs/2509.09970v1)|null|
+|**2025-09-07**|**Empirical Study of Code Large Language Models for Binary Security Patch Detection**|Qingyuan Li et.al.|[2509.06052v1](http://arxiv.org/abs/2509.06052v1)|null|
+|**2025-07-24**|**Are AI-Generated Fixes Secure? Analyzing LLM and Agent Patches on SWE-bench**|Amirali Sajadi et.al.|[2507.02976v2](http://arxiv.org/abs/2507.02976v2)|null|
+|**2025-09-11**|**AdvReal: Physical Adversarial Patch Generation Framework for Security Evaluation of Object Detection Systems**|Yuanhao Huang et.al.|[2505.16402v2](http://arxiv.org/abs/2505.16402v2)|null|
 |**2025-05-11**|**Federated Learning with LoRA Optimized DeiT and Multiscale Patch Embedding for Secure Eye Disease Recognition**|Md. Naimur Asif Borno et.al.|[2505.06982v1](http://arxiv.org/abs/2505.06982v1)|null|
-|**2024-12-11**|**Repository-Level Graph Representation Learning for Enhanced Security Patch Detection**|Xin-Cheng Wen et.al.|[2412.08068v1](http://arxiv.org/abs/2412.08068v1)|**[link](https://github.com/Xin-Cheng-Wen/RepoSPD)**|
+|**2024-12-11**|**Repository-Level Graph Representation Learning for Enhanced Security Patch Detection**|Xin-Cheng Wen et.al.|[2412.08068v1](http://arxiv.org/abs/2412.08068v1)|null|
 |**2024-11-29**|**Enhancing Security in Third-Party Library Reuse -- Comprehensive Detection of 1-day Vulnerability through Code Patch Analysis**|Shangzhi Xu et.al.|[2411.19648v1](http://arxiv.org/abs/2411.19648v1)|null|
 |**2024-11-17**|**Patching FPGAs: The Security Implications of Bitstream Modifications**|Endres Puschner et.al.|[2411.11060v1](http://arxiv.org/abs/2411.11060v1)|null|
 |**2024-09-06**|**Secure Traffic Sign Recognition: An Attention-Enabled Universal Image Inpainting Mechanism against Light Patch Attacks**|Hangcheng Cao et.al.|[2409.04133v1](http://arxiv.org/abs/2409.04133v1)|null|
@@ -180,11 +201,11 @@
 |**2024-02-09**|**Anomaly Unveiled: Securing Image Classification against Adversarial Patch Attacks**|Nandish Chattopadhyay et.al.|[2402.06249v1](http://arxiv.org/abs/2402.06249v1)|null|
 |**2023-12-13**|**BinGo: Identifying Security Patches in Binary Code with Graph Representation Learning**|Xu He et.al.|[2312.07921v1](http://arxiv.org/abs/2312.07921v1)|null|
 |**2024-11-25**|**Just-in-Time Detection of Silent Security Patches**|Xunzhu Tang et.al.|[2312.01241v3](http://arxiv.org/abs/2312.01241v3)|null|
-|**2024-10-16**|**Can LLMs Patch Security Issues?**|Kamel Alrashedy et.al.|[2312.00024v5](http://arxiv.org/abs/2312.00024v5)|**[link](https://github.com/kamel773/llm-code-refine)**|
-|**2023-11-02**|**VFCFinder: Seamlessly Pairing Security Advisories and Patches**|Trevor Dunlap et.al.|[2311.01532v1](http://arxiv.org/abs/2311.01532v1)|**[link](https://github.com/s3c2/vfcfinder)**|
+|**2024-10-16**|**Can LLMs Patch Security Issues?**|Kamel Alrashedy et.al.|[2312.00024v5](http://arxiv.org/abs/2312.00024v5)|null|
+|**2023-11-02**|**VFCFinder: Seamlessly Pairing Security Advisories and Patches**|Trevor Dunlap et.al.|[2311.01532v1](http://arxiv.org/abs/2311.01532v1)|null|
 |**2023-08-29**|**Multilevel Semantic Embedding of Software Patches: A Fine-to-Coarse Grained Approach Towards Security Patch Detection**|Xunzhu Tang et.al.|[2308.15233v1](http://arxiv.org/abs/2308.15233v1)|null|
 |**2023-08-09**|**Enhancing Mobile Privacy and Security: A Face Skin Patch-Based Anti-Spoofing Approach**|Qiushi Guo et.al.|[2308.04798v1](http://arxiv.org/abs/2308.04798v1)|null|
-|**2023-02-04**|**Detecting Security Patches via Behavioral Data in Code Repositories**|Nitzan Farhi et.al.|[2302.02112v1](http://arxiv.org/abs/2302.02112v1)|**[link](https://github.com/nitzanfarhi/SecurityPatchDetection)**|
+|**2023-02-04**|**Detecting Security Patches via Behavioral Data in Code Repositories**|Nitzan Farhi et.al.|[2302.02112v1](http://arxiv.org/abs/2302.02112v1)|null|
 |**2022-09-16**|**On the acceptance by code reviewers of candidate security patches suggested by Automated Program Repair tools**|Aurora Papotti et.al.|[2209.07211v2](http://arxiv.org/abs/2209.07211v2)|null|
 |**2022-09-04**|**An Empirical Study of Automation in Software Security Patch Management**|Nesara Dissanayake et.al.|[2209.01518v1](http://arxiv.org/abs/2209.01518v1)|null|
 |**2022-07-19**|**Enhancing Security Patch Identification by Capturing Structures in Commits**|Bozhi Wu et.al.|[2207.09022v1](http://arxiv.org/abs/2207.09022v1)|null|
