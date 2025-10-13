@@ -2,6 +2,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-10**|**Repairing Regex Vulnerabilities via Localization-Guided Instructions**|Sicheol Sung et.al.|[2510.09037v1](http://arxiv.org/abs/2510.09037v1)|null|
 |**2025-10-07**|**Vul-R2: A Reasoning LLM for Automated Vulnerability Repair**|Xin-Cheng Wen et.al.|[2510.05480v1](http://arxiv.org/abs/2510.05480v1)|null|
 |**2025-10-01**|**Semantics-Aligned, Curriculum-Driven, and Reasoning-Enhanced Vulnerability Repair Framework**|Chengran Yang et.al.|[2510.01002v1](http://arxiv.org/abs/2510.01002v1)|null|
 |**2025-09-30**|**Red Teaming Program Repair Agents: When Correct Patches can Hide Vulnerabilities**|Simin Chen et.al.|[2509.25894v1](http://arxiv.org/abs/2509.25894v1)|null|
