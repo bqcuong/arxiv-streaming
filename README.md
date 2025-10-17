@@ -96,6 +96,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-10-16**|**Match & Mend: Minimally Invasive Local Reassembly for Patching N-day Vulnerabilities in ARM Binaries**|Sebastian Jänich et.al.|[2510.14384v1](http://arxiv.org/abs/2510.14384v1)|null|
 |**2025-09-30**|**Red Teaming Program Repair Agents: When Correct Patches can Hide Vulnerabilities**|Simin Chen et.al.|[2509.25894v1](http://arxiv.org/abs/2509.25894v1)|null|
 |**2025-09-28**|**Revisiting Vulnerability Patch Localization: An Empirical Study and LLM-Based Solution**|Haoran Xu et.al.|[2509.15777v2](http://arxiv.org/abs/2509.15777v2)|null|
 |**2025-09-16**|**Vulnerability Patching Across Software Products and Software Components: A Case Study of Red Hat's Product Portfolio**|Jukka Ruohonen et.al.|[2509.13117v1](http://arxiv.org/abs/2509.13117v1)|null|
