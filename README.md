@@ -159,6 +159,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2006-12-11**|**Secure Classical Bit Commitment using Fixed Capacity Communication Channels**|Adrian Kent et.al.|[quant-ph/9906103v7](http://arxiv.org/abs/quant-ph/9906103v7)|null|
+|**2025-11-18**|**Beyond Fixed and Dynamic Prompts: Embedded Jailbreak Templates for Advancing LLM Security**|Hajun Kim et.al.|[2511.14140v1](http://arxiv.org/abs/2511.14140v1)|null|
 |**2025-09-26**|**What Do They Fix? LLM-Aided Categorization of Security Patches for Critical Memory Bugs**|Xingyu Li et.al.|[2509.22796v1](http://arxiv.org/abs/2509.22796v1)|null|
 |**2025-07-08**|**Does Movable Antenna Present A Dual-edged Nature? From the Perspective of Physical Layer Security: A Joint Design of Fixed-position Antenna and Movable Antenna**|Kan Yu et.al.|[2507.05784v1](http://arxiv.org/abs/2507.05784v1)|null|
 |**2025-07-24**|**Are AI-Generated Fixes Secure? Analyzing LLM and Agent Patches on SWE-bench**|Amirali Sajadi et.al.|[2507.02976v2](http://arxiv.org/abs/2507.02976v2)|null|
