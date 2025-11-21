@@ -17,7 +17,7 @@
 |**2025-05-12**|**Synthetic Code Surgery: Repairing Bugs and Vulnerabilities with LLMs and Synthetic Data**|David de-Fitero-Dominguez et.al.|[2505.07372v1](http://arxiv.org/abs/2505.07372v1)|null|
 |**2025-04-10**|**Agent That Debugs: Dynamic State-Guided Vulnerability Repair**|Zhengyao Liu et.al.|[2504.07634v1](http://arxiv.org/abs/2504.07634v1)|null|
 |**2025-04-09**|**Using ML filters to help automated vulnerability repairs: when it helps and when it doesn't**|Maria Camporese et.al.|[2504.07027v1](http://arxiv.org/abs/2504.07027v1)|null|
-|**2025-02-22**|**A Multi-Agent Framework for Automated Vulnerability Detection and Repair in Solidity and Move Smart Contracts**|Rabimba Karanjai et.al.|[2502.18515v1](http://arxiv.org/abs/2502.18515v1)|null|
+|**2025-11-20**|**Securing Smart Contract Languages with a Unified Agentic Framework for Vulnerability Repair in Solidity and Move**|Rabimba Karanjai et.al.|[2502.18515v2](http://arxiv.org/abs/2502.18515v2)|null|
 |**2025-01-31**|**SoK: Towards Effective Automated Vulnerability Repair**|Ying Li et.al.|[2501.18820v1](http://arxiv.org/abs/2501.18820v1)|null|
 |**2025-01-21**|**An Empirically-grounded tool for Automatic Prompt Linting and Repair: A Case Study on Bias, Vulnerability, and Optimization in Developer Prompts**|Dhia Elhaq Rzig et.al.|[2501.12521v1](http://arxiv.org/abs/2501.12521v1)|null|
 |**2025-01-07**|**LLM4CVE: Enabling Iterative Automated Vulnerability Repair with Large Language Models**|Mohamad Fakih et.al.|[2501.03446v1](http://arxiv.org/abs/2501.03446v1)|null|
@@ -136,6 +136,7 @@
 |---|---|---|---|---|
 |**2025-09-04**|**Adversarial Bug Reports as a Security Risk in Language Model-Based Automated Program Repair**|Piotr Przymus et.al.|[2509.05372v1](http://arxiv.org/abs/2509.05372v1)|null|
 |**2025-08-22**|**LLM-GUARD: Large Language Model-Based Detection and Repair of Bugs and Security Vulnerabilities in C++ and Python**|Akshay Mhatre et.al.|[2508.16419v1](http://arxiv.org/abs/2508.16419v1)|null|
+|**2025-11-20**|**Securing Smart Contract Languages with a Unified Agentic Framework for Vulnerability Repair in Solidity and Move**|Rabimba Karanjai et.al.|[2502.18515v2](http://arxiv.org/abs/2502.18515v2)|null|
 |**2024-09-01**|**Enhancing Source Code Security with LLMs: Demystifying The Challenges and Generating Reliable Repairs**|Nafis Tanveer Islam et.al.|[2409.00571v1](http://arxiv.org/abs/2409.00571v1)|null|
 |**2024-05-09**|**Secure Storage using Maximally Recoverable Locally Repairable Codes**|Tim Janz et.al.|[2405.06098v1](http://arxiv.org/abs/2405.06098v1)|null|
 |**2024-03-11**|**Poisoning Programs by Un-Repairing Code: Security Concerns of AI-generated Code**|Cristina Improta et.al.|[2403.06675v1](http://arxiv.org/abs/2403.06675v1)|null|
