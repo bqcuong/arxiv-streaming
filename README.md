@@ -96,6 +96,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-11-28**|**Evaluating LLMs for One-Shot Patching of Real and Artificial Vulnerabilities**|Aayush Garg et.al.|[2511.23408v1](http://arxiv.org/abs/2511.23408v1)|null|
 |**2025-11-14**|**PATCHEVAL: A New Benchmark for Evaluating LLMs on Patching Real-World Vulnerabilities**|Zichao Wei et.al.|[2511.11019v1](http://arxiv.org/abs/2511.11019v1)|null|
 |**2025-11-09**|**HYDRA: A Hybrid Heuristic-Guided Deep Representation Architecture for Predicting Latent Zero-Day Vulnerabilities in Patched Functions**|Mohammad Farhad et.al.|[2511.06220v1](http://arxiv.org/abs/2511.06220v1)|null|
 |**2025-10-16**|**Match & Mend: Minimally Invasive Local Reassembly for Patching N-day Vulnerabilities in ARM Binaries**|Sebastian Jänich et.al.|[2510.14384v1](http://arxiv.org/abs/2510.14384v1)|null|
@@ -105,7 +106,7 @@
 |**2025-09-12**|**Dynamic Vulnerability Patching for Heterogeneous Embedded Systems Using Stack Frame Reconstruction**|Ming Zhou et.al.|[2509.10213v1](http://arxiv.org/abs/2509.10213v1)|null|
 |**2025-09-08**|**All You Need Is A Fuzzing Brain: An LLM-Powered System for Automated Vulnerability Detection and Patching**|Ze Sheng et.al.|[2509.07225v1](http://arxiv.org/abs/2509.07225v1)|null|
 |**2025-06-11**|**Mono: Is Your "Clean" Vulnerability Dataset Really Solvable? Exposing and Trapping Undecidable Patches and Beyond**|Zeyu Gao et.al.|[2506.03651v2](http://arxiv.org/abs/2506.03651v2)|null|
-|**2025-05-07**|**AutoPatch: Multi-Agent Framework for Patching Real-World CVE Vulnerabilities**|Minjae Seo et.al.|[2505.04195v1](http://arxiv.org/abs/2505.04195v1)|null|
+|**2025-11-28**|**AutoPatch: Multi-Agent Framework for Patching Real-World CVE Vulnerabilities**|Minjae Seo et.al.|[2505.04195v2](http://arxiv.org/abs/2505.04195v2)|null|
 |**2025-05-05**|**A Slicing-Based Approach for Detecting and Patching Vulnerable Code Clones**|Hakam Alomari et.al.|[2505.02349v1](http://arxiv.org/abs/2505.02349v1)|null|
 |**2025-02-16**|**VulRG: Multi-Level Explainable Vulnerability Patch Ranking for Complex Systems Using Graphs**|Yuning Jiang et.al.|[2502.11143v1](http://arxiv.org/abs/2502.11143v1)|null|
 |**2025-01-29**|**Fine-Grained 1-Day Vulnerability Detection in Binaries via Patch Code Localization**|Chaopeng Dong et.al.|[2501.17413v1](http://arxiv.org/abs/2501.17413v1)|null|
