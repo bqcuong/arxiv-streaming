@@ -55,6 +55,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-14**|**Diverse LLMs vs. Vulnerabilities: Who Detects and Fixes Them Better?**|Arastoo Zibaeirad et.al.|[2512.12536v1](http://arxiv.org/abs/2512.12536v1)|null|
 |**2025-09-09**|**PatchSeeker: Mapping NVD Records to their Vulnerability-fixing Commits with LLM Generated Commits and Embeddings**|Huu Hung Nguyen et.al.|[2509.07540v1](http://arxiv.org/abs/2509.07540v1)|null|
 |**2025-08-15**|**Fast and Accurate Silent Vulnerability Fix Retrieval**|Xueqing Liu et.al.|[2503.22935v3](http://arxiv.org/abs/2503.22935v3)|null|
 |**2025-03-28**|**Chasing the Clock: How Fast Are Vulnerabilities Fixed in the Maven Ecosystem?**|Md Fazle Rabbi et.al.|[2503.22894v1](http://arxiv.org/abs/2503.22894v1)|null|
