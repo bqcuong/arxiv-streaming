@@ -2,6 +2,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-12-23**|**Well Begun is Half Done: Location-Aware and Trace-Guided Iterative Automated Vulnerability Repair**|Zhenlei Ye et.al.|[2512.20203v1](http://arxiv.org/abs/2512.20203v1)|null|
 |**2025-10-10**|**Repairing Regex Vulnerabilities via Localization-Guided Instructions**|Sicheol Sung et.al.|[2510.09037v1](http://arxiv.org/abs/2510.09037v1)|null|
 |**2025-10-07**|**Vul-R2: A Reasoning LLM for Automated Vulnerability Repair**|Xin-Cheng Wen et.al.|[2510.05480v1](http://arxiv.org/abs/2510.05480v1)|null|
 |**2025-10-01**|**Semantics-Aligned, Curriculum-Driven, and Reasoning-Enhanced Vulnerability Repair Framework**|Chengran Yang et.al.|[2510.01002v1](http://arxiv.org/abs/2510.01002v1)|null|
