@@ -199,6 +199,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-09**|**StriderSPD: Structure-Guided Joint Representation Learning for Binary Security Patch Detection**|Qingyuan Li et.al.|[2601.05772v1](http://arxiv.org/abs/2601.05772v1)|null|
 |**2025-11-11**|**From LLMs to Agents: A Comparative Evaluation of LLMs and LLM-based Agents in Security Patch Detection**|Junxiao Han et.al.|[2511.08060v1](http://arxiv.org/abs/2511.08060v1)|null|
 |**2025-09-26**|**What Do They Fix? LLM-Aided Categorization of Security Patches for Critical Memory Bugs**|Xingyu Li et.al.|[2509.22796v1](http://arxiv.org/abs/2509.22796v1)|null|
 |**2025-09-12**|**Securing LLM-Generated Embedded Firmware through AI Agent-Driven Validation and Patching**|Seyed Moein Abtahi et.al.|[2509.09970v1](http://arxiv.org/abs/2509.09970v1)|null|
