@@ -12,7 +12,7 @@
 |**2025-09-03**|**VulnRepairEval: An Exploit-Based Evaluation Framework for Assessing Large Language Model Vulnerability Repair Capabilities**|Weizhe Wang et.al.|[2509.03331v1](http://arxiv.org/abs/2509.03331v1)|null|
 |**2025-08-22**|**LLM-GUARD: Large Language Model-Based Detection and Repair of Bugs and Security Vulnerabilities in C++ and Python**|Akshay Mhatre et.al.|[2508.16419v1](http://arxiv.org/abs/2508.16419v1)|null|
 |**2025-08-05**|**On the Evaluation of Large Language Models in Multilingual Vulnerability Repair**|Dong wang et.al.|[2508.03470v1](http://arxiv.org/abs/2508.03470v1)|null|
-|**2025-07-28**|**Repairing vulnerabilities without invisible hands. A differentiated replication study on LLMs**|Maria Camporese et.al.|[2507.20977v1](http://arxiv.org/abs/2507.20977v1)|null|
+|**2026-01-14**|**Repairing vulnerabilities without invisible hands. A differentiated replication study on LLMs**|Maria Camporese et.al.|[2507.20977v2](http://arxiv.org/abs/2507.20977v2)|null|
 |**2025-06-13**|**SoK: Automated Vulnerability Repair: Methods, Tools, and Assessments**|Yiwei Hu et.al.|[2506.11697v1](http://arxiv.org/abs/2506.11697v1)|null|
 |**2025-06-13**|**Identifying Helpful Context for LLM-based Vulnerability Repair: A Preliminary Study**|Gábor Antal et.al.|[2506.11561v1](http://arxiv.org/abs/2506.11561v1)|null|
 |**2025-06-05**|**A Multi-Dataset Evaluation of Models for Automated Vulnerability Repair**|Zanis Ali Khan et.al.|[2506.04987v1](http://arxiv.org/abs/2506.04987v1)|null|
