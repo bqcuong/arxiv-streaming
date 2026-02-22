@@ -2,6 +2,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-01-24**|**PatchIsland: Orchestration of LLM Agents for Continuous Vulnerability Repair**|Wonyoung Kim et.al.|[2601.17471v1](http://arxiv.org/abs/2601.17471v1)|null|
 |**2025-12-27**|**Rethinking the Capability of Fine-Tuned Language Models for Automated Vulnerability Repair**|Woorim Han et.al.|[2512.22633v1](http://arxiv.org/abs/2512.22633v1)|null|
 |**2025-12-23**|**Well Begun is Half Done: Location-Aware and Trace-Guided Iterative Automated Vulnerability Repair**|Zhenlei Ye et.al.|[2512.20203v1](http://arxiv.org/abs/2512.20203v1)|null|
 |**2025-10-10**|**Repairing Regex Vulnerabilities via Localization-Guided Instructions**|Sicheol Sung et.al.|[2510.09037v1](http://arxiv.org/abs/2510.09037v1)|null|
@@ -57,6 +58,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-02-13**|**Favia: Forensic Agent for Vulnerability-fix Identification and Analysis**|André Storhaug et.al.|[2602.12500v1](http://arxiv.org/abs/2602.12500v1)|null|
 |**2025-12-14**|**Diverse LLMs vs. Vulnerabilities: Who Detects and Fixes Them Better?**|Arastoo Zibaeirad et.al.|[2512.12536v1](http://arxiv.org/abs/2512.12536v1)|null|
 |**2025-09-09**|**PatchSeeker: Mapping NVD Records to their Vulnerability-fixing Commits with LLM Generated Commits and Embeddings**|Huu Hung Nguyen et.al.|[2509.07540v1](http://arxiv.org/abs/2509.07540v1)|null|
 |**2025-08-15**|**Fast and Accurate Silent Vulnerability Fix Retrieval**|Xueqing Liu et.al.|[2503.22935v3](http://arxiv.org/abs/2503.22935v3)|null|
@@ -138,9 +140,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-09-04**|**Adversarial Bug Reports as a Security Risk in Language Model-Based Automated Program Repair**|Piotr Przymus et.al.|[2509.05372v1](http://arxiv.org/abs/2509.05372v1)|null|
+|**2026-01-26**|**Adversarial Bug Reports as a Security Risk in Language Model-Based Automated Program Repair**|Piotr Przymus et.al.|[2509.05372v2](http://arxiv.org/abs/2509.05372v2)|null|
 |**2025-08-22**|**LLM-GUARD: Large Language Model-Based Detection and Repair of Bugs and Security Vulnerabilities in C++ and Python**|Akshay Mhatre et.al.|[2508.16419v1](http://arxiv.org/abs/2508.16419v1)|null|
 |**2025-12-29**|**How Safe Are AI-Generated Patches? A Large-scale Study on Security Risks in LLM and Agentic Automated Program Repair on SWE-bench**|Amirali Sajadi et.al.|[2507.02976v3](http://arxiv.org/abs/2507.02976v3)|null|
+|**2026-02-17**|**Secure Coding with AI -- From Detection to Repair**|Vladislav Belozerov et.al.|[2504.20814v2](http://arxiv.org/abs/2504.20814v2)|null|
 |**2025-11-20**|**Securing Smart Contract Languages with a Unified Agentic Framework for Vulnerability Repair in Solidity and Move**|Rabimba Karanjai et.al.|[2502.18515v2](http://arxiv.org/abs/2502.18515v2)|null|
 |**2024-09-01**|**Enhancing Source Code Security with LLMs: Demystifying The Challenges and Generating Reliable Repairs**|Nafis Tanveer Islam et.al.|[2409.00571v1](http://arxiv.org/abs/2409.00571v1)|null|
 |**2024-05-09**|**Secure Storage using Maximally Recoverable Locally Repairable Codes**|Tim Janz et.al.|[2405.06098v1](http://arxiv.org/abs/2405.06098v1)|null|
