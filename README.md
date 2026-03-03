@@ -140,6 +140,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-01**|**Detect Repair Verify for Securing LLM Generated Code: A Multi-Language Empirical Study**|Cheng Cheng et.al.|[2603.00897v1](http://arxiv.org/abs/2603.00897v1)|null|
 |**2026-01-26**|**Adversarial Bug Reports as a Security Risk in Language Model-Based Automated Program Repair**|Piotr Przymus et.al.|[2509.05372v2](http://arxiv.org/abs/2509.05372v2)|null|
 |**2025-08-22**|**LLM-GUARD: Large Language Model-Based Detection and Repair of Bugs and Security Vulnerabilities in C++ and Python**|Akshay Mhatre et.al.|[2508.16419v1](http://arxiv.org/abs/2508.16419v1)|null|
 |**2025-12-29**|**How Safe Are AI-Generated Patches? A Large-scale Study on Security Risks in LLM and Agentic Automated Program Repair on SWE-bench**|Amirali Sajadi et.al.|[2507.02976v3](http://arxiv.org/abs/2507.02976v3)|null|
