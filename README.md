@@ -101,6 +101,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-05**|**Beyond the Patch: Exploring Vulnerabilities of Visuomotor Policies via Viewpoint-Consistent 3D Adversarial Object**|Chanmi Lee et.al.|[2603.04913v1](http://arxiv.org/abs/2603.04913v1)|null|
 |**2025-11-28**|**Evaluating LLMs for One-Shot Patching of Real and Artificial Vulnerabilities**|Aayush Garg et.al.|[2511.23408v1](http://arxiv.org/abs/2511.23408v1)|null|
 |**2025-11-14**|**PATCHEVAL: A New Benchmark for Evaluating LLMs on Patching Real-World Vulnerabilities**|Zichao Wei et.al.|[2511.11019v1](http://arxiv.org/abs/2511.11019v1)|null|
 |**2025-11-09**|**HYDRA: A Hybrid Heuristic-Guided Deep Representation Architecture for Predicting Latent Zero-Day Vulnerabilities in Patched Functions**|Mohammad Farhad et.al.|[2511.06220v1](http://arxiv.org/abs/2511.06220v1)|null|
