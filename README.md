@@ -2,6 +2,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-06**|**Patch Validation in Automated Vulnerability Repair**|Zheng Yu et.al.|[2603.06858v1](http://arxiv.org/abs/2603.06858v1)|null|
 |**2026-01-24**|**PatchIsland: Orchestration of LLM Agents for Continuous Vulnerability Repair**|Wonyoung Kim et.al.|[2601.17471v1](http://arxiv.org/abs/2601.17471v1)|null|
 |**2025-12-27**|**Rethinking the Capability of Fine-Tuned Language Models for Automated Vulnerability Repair**|Woorim Han et.al.|[2512.22633v1](http://arxiv.org/abs/2512.22633v1)|null|
 |**2025-12-23**|**Well Begun is Half Done: Location-Aware and Trace-Guided Iterative Automated Vulnerability Repair**|Zhenlei Ye et.al.|[2512.20203v1](http://arxiv.org/abs/2512.20203v1)|null|
@@ -101,6 +102,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-06**|**Patch Validation in Automated Vulnerability Repair**|Zheng Yu et.al.|[2603.06858v1](http://arxiv.org/abs/2603.06858v1)|null|
 |**2026-03-05**|**Beyond the Patch: Exploring Vulnerabilities of Visuomotor Policies via Viewpoint-Consistent 3D Adversarial Object**|Chanmi Lee et.al.|[2603.04913v1](http://arxiv.org/abs/2603.04913v1)|null|
 |**2025-11-28**|**Evaluating LLMs for One-Shot Patching of Real and Artificial Vulnerabilities**|Aayush Garg et.al.|[2511.23408v1](http://arxiv.org/abs/2511.23408v1)|null|
 |**2025-11-14**|**PATCHEVAL: A New Benchmark for Evaluating LLMs on Patching Real-World Vulnerabilities**|Zichao Wei et.al.|[2511.11019v1](http://arxiv.org/abs/2511.11019v1)|null|
