@@ -206,6 +206,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-03-10**|**Why LLMs Fail: A Failure Analysis and Partial Success Measurement for Automated Security Patch Generation**|Amir Al-Maamari et.al.|[2603.10072v1](http://arxiv.org/abs/2603.10072v1)|null|
 |**2026-01-09**|**StriderSPD: Structure-Guided Joint Representation Learning for Binary Security Patch Detection**|Qingyuan Li et.al.|[2601.05772v1](http://arxiv.org/abs/2601.05772v1)|null|
 |**2025-11-11**|**From LLMs to Agents: A Comparative Evaluation of LLMs and LLM-based Agents in Security Patch Detection**|Junxiao Han et.al.|[2511.08060v1](http://arxiv.org/abs/2511.08060v1)|null|
 |**2025-09-26**|**What Do They Fix? LLM-Aided Categorization of Security Patches for Critical Memory Bugs**|Xingyu Li et.al.|[2509.22796v1](http://arxiv.org/abs/2509.22796v1)|null|
