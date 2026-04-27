@@ -2,13 +2,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2026-03-06**|**Patch Validation in Automated Vulnerability Repair**|Zheng Yu et.al.|[2603.06858v1](http://arxiv.org/abs/2603.06858v1)|null|
+|**2026-04-19**|**SynthFix: Adaptive Neuro-Symbolic Code Vulnerability Repair**|Yifan Zhang et.al.|[2604.17184v1](http://arxiv.org/abs/2604.17184v1)|null|
+|**2026-04-23**|**LogicEval: A Systematic Framework for Evaluating Automated Repair Techniques for Logical Vulnerabilities in Real-World Software**|Syed Md Mukit Rashid et.al.|[2604.12994v2](http://arxiv.org/abs/2604.12994v2)|null|
+|**2026-03-20**|**Patch Validation in Automated Vulnerability Repair**|Zheng Yu et.al.|[2603.06858v2](http://arxiv.org/abs/2603.06858v2)|null|
 |**2026-01-24**|**PatchIsland: Orchestration of LLM Agents for Continuous Vulnerability Repair**|Wonyoung Kim et.al.|[2601.17471v1](http://arxiv.org/abs/2601.17471v1)|null|
 |**2025-12-27**|**Rethinking the Capability of Fine-Tuned Language Models for Automated Vulnerability Repair**|Woorim Han et.al.|[2512.22633v1](http://arxiv.org/abs/2512.22633v1)|null|
 |**2025-12-23**|**Well Begun is Half Done: Location-Aware and Trace-Guided Iterative Automated Vulnerability Repair**|Zhenlei Ye et.al.|[2512.20203v1](http://arxiv.org/abs/2512.20203v1)|null|
 |**2025-10-10**|**Repairing Regex Vulnerabilities via Localization-Guided Instructions**|Sicheol Sung et.al.|[2510.09037v1](http://arxiv.org/abs/2510.09037v1)|null|
 |**2025-10-07**|**Vul-R2: A Reasoning LLM for Automated Vulnerability Repair**|Xin-Cheng Wen et.al.|[2510.05480v1](http://arxiv.org/abs/2510.05480v1)|null|
-|**2025-10-01**|**Semantics-Aligned, Curriculum-Driven, and Reasoning-Enhanced Vulnerability Repair Framework**|Chengran Yang et.al.|[2510.01002v1](http://arxiv.org/abs/2510.01002v1)|null|
+|**2026-03-18**|**Semantics-Aligned, Curriculum-Driven, and Reasoning-Enhanced Vulnerability Repair Framework**|Chengran Yang et.al.|[2510.01002v2](http://arxiv.org/abs/2510.01002v2)|null|
 |**2025-09-30**|**Red Teaming Program Repair Agents: When Correct Patches can Hide Vulnerabilities**|Simin Chen et.al.|[2509.25894v1](http://arxiv.org/abs/2509.25894v1)|null|
 |**2025-09-18**|**SecureFixAgent: A Hybrid LLM Agent for Automated Python Static Vulnerability Repair**|Jugal Gajjar et.al.|[2509.16275v1](http://arxiv.org/abs/2509.16275v1)|null|
 |**2025-09-03**|**VulnRepairEval: An Exploit-Based Evaluation Framework for Assessing Large Language Model Vulnerability Repair Capabilities**|Weizhe Wang et.al.|[2509.03331v1](http://arxiv.org/abs/2509.03331v1)|null|
@@ -102,11 +104,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2026-03-06**|**Patch Validation in Automated Vulnerability Repair**|Zheng Yu et.al.|[2603.06858v1](http://arxiv.org/abs/2603.06858v1)|null|
+|**2026-04-21**|**EvoPatch-IoT: Evolution-Aware Cross-Architecture Vulnerability Retrieval and Patch-State Profiling for BusyBox-Based IoT Firmware**|Yinhao Xiao et.al.|[2604.19496v1](http://arxiv.org/abs/2604.19496v1)|null|
+|**2026-04-03**|**Revealing Physical-World Semantic Vulnerabilities: Universal Adversarial Patches for Infrared Vision-Language Models**|Chengyin Hu et.al.|[2604.03117v1](http://arxiv.org/abs/2604.03117v1)|null|
+|**2026-03-18**|**Revisiting Vulnerability Patch Identification on Data in the Wild**|Ivana Clairine Irsan et.al.|[2603.17266v1](http://arxiv.org/abs/2603.17266v1)|null|
+|**2026-03-20**|**Patch Validation in Automated Vulnerability Repair**|Zheng Yu et.al.|[2603.06858v2](http://arxiv.org/abs/2603.06858v2)|null|
 |**2026-03-05**|**Beyond the Patch: Exploring Vulnerabilities of Visuomotor Policies via Viewpoint-Consistent 3D Adversarial Object**|Chanmi Lee et.al.|[2603.04913v1](http://arxiv.org/abs/2603.04913v1)|null|
 |**2025-11-28**|**Evaluating LLMs for One-Shot Patching of Real and Artificial Vulnerabilities**|Aayush Garg et.al.|[2511.23408v1](http://arxiv.org/abs/2511.23408v1)|null|
 |**2025-11-14**|**PATCHEVAL: A New Benchmark for Evaluating LLMs on Patching Real-World Vulnerabilities**|Zichao Wei et.al.|[2511.11019v1](http://arxiv.org/abs/2511.11019v1)|null|
-|**2025-11-09**|**HYDRA: A Hybrid Heuristic-Guided Deep Representation Architecture for Predicting Latent Zero-Day Vulnerabilities in Patched Functions**|Mohammad Farhad et.al.|[2511.06220v1](http://arxiv.org/abs/2511.06220v1)|null|
+|**2026-04-13**|**HYDRA: A Hybrid Heuristic-Guided Deep Representation Architecture for Predicting Latent Zero-Day Vulnerabilities in Patched Functions**|Mohammad Farhad et.al.|[2511.06220v2](http://arxiv.org/abs/2511.06220v2)|null|
 |**2025-10-16**|**Match & Mend: Minimally Invasive Local Reassembly for Patching N-day Vulnerabilities in ARM Binaries**|Sebastian Jänich et.al.|[2510.14384v1](http://arxiv.org/abs/2510.14384v1)|null|
 |**2025-09-30**|**Red Teaming Program Repair Agents: When Correct Patches can Hide Vulnerabilities**|Simin Chen et.al.|[2509.25894v1](http://arxiv.org/abs/2509.25894v1)|null|
 |**2025-09-28**|**Revisiting Vulnerability Patch Localization: An Empirical Study and LLM-Based Solution**|Haoran Xu et.al.|[2509.15777v2](http://arxiv.org/abs/2509.15777v2)|null|
