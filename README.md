@@ -3,7 +3,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2026-05-05**|**Root-Cause-Driven Automated Vulnerability Repair**|Hulin Wang et.al.|[2605.04251v1](http://arxiv.org/abs/2605.04251v1)|null|
-|**2026-05-03**|**VulKey: Automated Vulnerability Repair Guided by Domain-Specific Repair Patterns**|Jia Li et.al.|[2605.01769v1](http://arxiv.org/abs/2605.01769v1)|null|
+|**2026-05-07**|**VulKey: Automated Vulnerability Repair Guided by Domain-Specific Repair Patterns**|Jia Li et.al.|[2605.01769v2](http://arxiv.org/abs/2605.01769v2)|null|
 |**2026-04-19**|**SynthFix: Adaptive Neuro-Symbolic Code Vulnerability Repair**|Yifan Zhang et.al.|[2604.17184v1](http://arxiv.org/abs/2604.17184v1)|null|
 |**2026-04-23**|**LogicEval: A Systematic Framework for Evaluating Automated Repair Techniques for Logical Vulnerabilities in Real-World Software**|Syed Md Mukit Rashid et.al.|[2604.12994v2](http://arxiv.org/abs/2604.12994v2)|null|
 |**2026-03-20**|**Patch Validation in Automated Vulnerability Repair**|Zheng Yu et.al.|[2603.06858v2](http://arxiv.org/abs/2603.06858v2)|null|
@@ -106,6 +106,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-07**|**Patch2Vuln: Agentic Reconstruction of Vulnerabilities from Linux Distribution Binary Patches**|Isaac David et.al.|[2605.06601v1](http://arxiv.org/abs/2605.06601v1)|null|
 |**2026-04-21**|**EvoPatch-IoT: Evolution-Aware Cross-Architecture Vulnerability Retrieval and Patch-State Profiling for BusyBox-Based IoT Firmware**|Yinhao Xiao et.al.|[2604.19496v1](http://arxiv.org/abs/2604.19496v1)|null|
 |**2026-04-03**|**Revealing Physical-World Semantic Vulnerabilities: Universal Adversarial Patches for Infrared Vision-Language Models**|Chengyin Hu et.al.|[2604.03117v1](http://arxiv.org/abs/2604.03117v1)|null|
 |**2026-03-18**|**Revisiting Vulnerability Patch Identification on Data in the Wild**|Ivana Clairine Irsan et.al.|[2603.17266v1](http://arxiv.org/abs/2603.17266v1)|null|
