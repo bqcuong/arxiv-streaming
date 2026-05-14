@@ -63,6 +63,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-13**|**Code-Centric Detection of Vulnerability-Fixing Commits: A Unified Benchmark and Empirical Study**|Nils Loose et.al.|[2605.13138v1](http://arxiv.org/abs/2605.13138v1)|null|
 |**2026-02-13**|**Favia: Forensic Agent for Vulnerability-fix Identification and Analysis**|André Storhaug et.al.|[2602.12500v1](http://arxiv.org/abs/2602.12500v1)|null|
 |**2025-12-14**|**Diverse LLMs vs. Vulnerabilities: Who Detects and Fixes Them Better?**|Arastoo Zibaeirad et.al.|[2512.12536v1](http://arxiv.org/abs/2512.12536v1)|null|
 |**2025-09-09**|**PatchSeeker: Mapping NVD Records to their Vulnerability-fixing Commits with LLM Generated Commits and Embeddings**|Huu Hung Nguyen et.al.|[2509.07540v1](http://arxiv.org/abs/2509.07540v1)|null|
