@@ -2,6 +2,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-17**|**ContraFix: Agentic Vulnerability Repair via Differential Runtime Evidence and Skill Reuse**|Simiao Liu et.al.|[2605.17450v1](http://arxiv.org/abs/2605.17450v1)|null|
+|**2026-05-17**|**MemRepair: Hierarchical Memory for Agentic Repository-Level Vulnerability Repair**|Simiao Liu et.al.|[2605.17444v1](http://arxiv.org/abs/2605.17444v1)|null|
 |**2026-05-05**|**Root-Cause-Driven Automated Vulnerability Repair**|Hulin Wang et.al.|[2605.04251v1](http://arxiv.org/abs/2605.04251v1)|null|
 |**2026-05-07**|**VulKey: Automated Vulnerability Repair Guided by Domain-Specific Repair Patterns**|Jia Li et.al.|[2605.01769v2](http://arxiv.org/abs/2605.01769v2)|null|
 |**2026-04-19**|**SynthFix: Adaptive Neuro-Symbolic Code Vulnerability Repair**|Yifan Zhang et.al.|[2604.17184v1](http://arxiv.org/abs/2604.17184v1)|null|
@@ -67,6 +69,7 @@
 |**2026-02-13**|**Favia: Forensic Agent for Vulnerability-fix Identification and Analysis**|André Storhaug et.al.|[2602.12500v1](http://arxiv.org/abs/2602.12500v1)|null|
 |**2025-12-14**|**Diverse LLMs vs. Vulnerabilities: Who Detects and Fixes Them Better?**|Arastoo Zibaeirad et.al.|[2512.12536v1](http://arxiv.org/abs/2512.12536v1)|null|
 |**2025-09-09**|**PatchSeeker: Mapping NVD Records to their Vulnerability-fixing Commits with LLM Generated Commits and Embeddings**|Huu Hung Nguyen et.al.|[2509.07540v1](http://arxiv.org/abs/2509.07540v1)|null|
+|**2026-05-18**|**Mapping NVD Records to Their Vulnerability-fixing Commits: How Hard is It?**|Huu Hung Nguyen et.al.|[2506.09702v2](http://arxiv.org/abs/2506.09702v2)|null|
 |**2025-08-15**|**Fast and Accurate Silent Vulnerability Fix Retrieval**|Xueqing Liu et.al.|[2503.22935v3](http://arxiv.org/abs/2503.22935v3)|null|
 |**2025-03-28**|**Chasing the Clock: How Fast Are Vulnerabilities Fixed in the Maven Ecosystem?**|Md Fazle Rabbi et.al.|[2503.22894v1](http://arxiv.org/abs/2503.22894v1)|null|
 |**2025-03-26**|**Fixseeker: An Empirical Driven Graph-based Approach for Detecting Silent Vulnerability Fixes in Open Source Software**|Yiran Cheng et.al.|[2503.20265v1](http://arxiv.org/abs/2503.20265v1)|null|
