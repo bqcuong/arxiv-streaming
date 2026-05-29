@@ -2,6 +2,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-28**|**EvoRepair: Enhancing Vulnerability Repair Agents Through Experience-Based Self-Evolution**|Haichuan Hu et.al.|[2605.30105v1](http://arxiv.org/abs/2605.30105v1)|null|
+|**2026-05-27**|**Towards Demystifying and Repairing LLM-in-the-Loop Vulnerabilities**|Yujie Ma et.al.|[2605.28893v1](http://arxiv.org/abs/2605.28893v1)|null|
 |**2026-05-17**|**ContraFix: Agentic Vulnerability Repair via Differential Runtime Evidence and Skill Reuse**|Simiao Liu et.al.|[2605.17450v1](http://arxiv.org/abs/2605.17450v1)|null|
 |**2026-05-17**|**MemRepair: Hierarchical Memory for Agentic Repository-Level Vulnerability Repair**|Simiao Liu et.al.|[2605.17444v1](http://arxiv.org/abs/2605.17444v1)|null|
 |**2026-05-05**|**Root-Cause-Driven Automated Vulnerability Repair**|Hulin Wang et.al.|[2605.04251v1](http://arxiv.org/abs/2605.04251v1)|null|
@@ -65,6 +67,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-28**|**How Reliable Are AI Attackers Against a Fixed Vulnerable Target? A 400-Run Empirical Study of LLM Penetration Testing Consistency**|Galip Tolga Erdem et.al.|[2605.30096v1](http://arxiv.org/abs/2605.30096v1)|null|
 |**2026-05-13**|**Code-Centric Detection of Vulnerability-Fixing Commits: A Unified Benchmark and Empirical Study**|Nils Loose et.al.|[2605.13138v1](http://arxiv.org/abs/2605.13138v1)|null|
 |**2026-02-13**|**Favia: Forensic Agent for Vulnerability-fix Identification and Analysis**|André Storhaug et.al.|[2602.12500v1](http://arxiv.org/abs/2602.12500v1)|null|
 |**2025-12-14**|**Diverse LLMs vs. Vulnerabilities: Who Detects and Fixes Them Better?**|Arastoo Zibaeirad et.al.|[2512.12536v1](http://arxiv.org/abs/2512.12536v1)|null|
