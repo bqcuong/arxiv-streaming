@@ -221,6 +221,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-07**|**AI Code Sandboxes: A Comparative Security Study. Part 1 of 2 -- Engine-Level Properties (Attack Surface, Leakage, Stackability, CVE History, Patch Cadence, Fuzzing)**|George Andronchik et.al.|[2606.08433v1](http://arxiv.org/abs/2606.08433v1)|null|
 |**2026-03-10**|**Why LLMs Fail: A Failure Analysis and Partial Success Measurement for Automated Security Patch Generation**|Amir Al-Maamari et.al.|[2603.10072v1](http://arxiv.org/abs/2603.10072v1)|null|
 |**2026-01-09**|**StriderSPD: Structure-Guided Joint Representation Learning for Binary Security Patch Detection**|Qingyuan Li et.al.|[2601.05772v1](http://arxiv.org/abs/2601.05772v1)|null|
 |**2025-11-11**|**From LLMs to Agents: A Comparative Evaluation of LLMs and LLM-based Agents in Security Patch Detection**|Junxiao Han et.al.|[2511.08060v1](http://arxiv.org/abs/2511.08060v1)|null|
