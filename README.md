@@ -221,6 +221,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-09**|**MPC-Patch-Bench: Security-Aware LLM Code Patch for Multi-Party Computation**|Yukuan Zhang et.al.|[2606.11416v1](http://arxiv.org/abs/2606.11416v1)|null|
 |**2026-06-07**|**AI Code Sandboxes: A Comparative Security Study. Part 1 of 2 -- Engine-Level Properties (Attack Surface, Leakage, Stackability, CVE History, Patch Cadence, Fuzzing)**|George Andronchik et.al.|[2606.08433v1](http://arxiv.org/abs/2606.08433v1)|null|
 |**2026-03-10**|**Why LLMs Fail: A Failure Analysis and Partial Success Measurement for Automated Security Patch Generation**|Amir Al-Maamari et.al.|[2603.10072v1](http://arxiv.org/abs/2603.10072v1)|null|
 |**2026-01-09**|**StriderSPD: Structure-Guided Joint Representation Learning for Binary Security Patch Detection**|Qingyuan Li et.al.|[2601.05772v1](http://arxiv.org/abs/2601.05772v1)|null|
