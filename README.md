@@ -2,6 +2,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-21**|**RAVEN: Agentic RAG for Automated Vulnerability Repair**|Varun Gadey et.al.|[2606.22647v1](http://arxiv.org/abs/2606.22647v1)|null|
 |**2026-05-28**|**EvoRepair: Enhancing Vulnerability Repair Agents Through Experience-Based Self-Evolution**|Haichuan Hu et.al.|[2605.30105v1](http://arxiv.org/abs/2605.30105v1)|null|
 |**2026-05-27**|**Towards Demystifying and Repairing LLM-in-the-Loop Vulnerabilities**|Yujie Ma et.al.|[2605.28893v1](http://arxiv.org/abs/2605.28893v1)|null|
 |**2026-05-17**|**ContraFix: Agentic Vulnerability Repair via Differential Runtime Evidence and Skill Reuse**|Simiao Liu et.al.|[2605.17450v1](http://arxiv.org/abs/2605.17450v1)|null|
