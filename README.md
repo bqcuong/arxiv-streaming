@@ -114,6 +114,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-24**|**Helpful or Harmful? Evaluating LLM-Assisted Vulnerability Patching via a Human Study**|Giulian Biolo et.al.|[2606.25973v1](http://arxiv.org/abs/2606.25973v1)|null|
+|**2026-06-24**|**Automated Detection of Configuration-Specific Security Vulnerabilities via Patch Analysis**|Felipe de Sant'Anna Paixão et.al.|[2606.25863v1](http://arxiv.org/abs/2606.25863v1)|null|
 |**2026-05-07**|**Patch2Vuln: Agentic Reconstruction of Vulnerabilities from Linux Distribution Binary Patches**|Isaac David et.al.|[2605.06601v1](http://arxiv.org/abs/2605.06601v1)|null|
 |**2026-04-21**|**EvoPatch-IoT: Evolution-Aware Cross-Architecture Vulnerability Retrieval and Patch-State Profiling for BusyBox-Based IoT Firmware**|Yinhao Xiao et.al.|[2604.19496v1](http://arxiv.org/abs/2604.19496v1)|null|
 |**2026-04-03**|**Revealing Physical-World Semantic Vulnerabilities: Universal Adversarial Patches for Infrared Vision-Language Models**|Chengyin Hu et.al.|[2604.03117v1](http://arxiv.org/abs/2604.03117v1)|null|
@@ -223,6 +225,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-06-24**|**Automated Detection of Configuration-Specific Security Vulnerabilities via Patch Analysis**|Felipe de Sant'Anna Paixão et.al.|[2606.25863v1](http://arxiv.org/abs/2606.25863v1)|null|
 |**2026-06-09**|**MPC-Patch-Bench: Security-Aware LLM Code Patch for Multi-Party Computation**|Yukuan Zhang et.al.|[2606.11416v1](http://arxiv.org/abs/2606.11416v1)|null|
 |**2026-06-07**|**AI Code Sandboxes: A Comparative Security Study. Part 1 of 2 -- Engine-Level Properties (Attack Surface, Leakage, Stackability, CVE History, Patch Cadence, Fuzzing)**|George Andronchik et.al.|[2606.08433v1](http://arxiv.org/abs/2606.08433v1)|null|
 |**2026-03-10**|**Why LLMs Fail: A Failure Analysis and Partial Success Measurement for Automated Security Patch Generation**|Amir Al-Maamari et.al.|[2603.10072v1](http://arxiv.org/abs/2603.10072v1)|null|
