@@ -8,7 +8,7 @@
 |**2026-05-17**|**ContraFix: Agentic Vulnerability Repair via Differential Runtime Evidence and Skill Reuse**|Simiao Liu et.al.|[2605.17450v1](http://arxiv.org/abs/2605.17450v1)|null|
 |**2026-05-17**|**MemRepair: Hierarchical Memory for Agentic Repository-Level Vulnerability Repair**|Simiao Liu et.al.|[2605.17444v1](http://arxiv.org/abs/2605.17444v1)|null|
 |**2026-05-05**|**Root-Cause-Driven Automated Vulnerability Repair**|Hulin Wang et.al.|[2605.04251v1](http://arxiv.org/abs/2605.04251v1)|null|
-|**2026-05-07**|**VulKey: Automated Vulnerability Repair Guided by Domain-Specific Repair Patterns**|Jia Li et.al.|[2605.01769v2](http://arxiv.org/abs/2605.01769v2)|null|
+|**2026-06-27**|**VulKey: Automated Vulnerability Repair Guided by Domain-Specific Repair Patterns**|Jia Li et.al.|[2605.01769v3](http://arxiv.org/abs/2605.01769v3)|null|
 |**2026-04-19**|**SynthFix: Adaptive Neuro-Symbolic Code Vulnerability Repair**|Yifan Zhang et.al.|[2604.17184v1](http://arxiv.org/abs/2604.17184v1)|null|
 |**2026-04-23**|**LogicEval: A Systematic Framework for Evaluating Automated Repair Techniques for Logical Vulnerabilities in Real-World Software**|Syed Md Mukit Rashid et.al.|[2604.12994v2](http://arxiv.org/abs/2604.12994v2)|null|
 |**2026-03-20**|**Patch Validation in Automated Vulnerability Repair**|Zheng Yu et.al.|[2603.06858v2](http://arxiv.org/abs/2603.06858v2)|null|
