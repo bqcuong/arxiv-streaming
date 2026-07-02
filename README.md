@@ -2,6 +2,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-01**|**Knowledge-Enhanced Agentic Vulnerability Repair**|Sicong Cao et.al.|[2607.00820v1](http://arxiv.org/abs/2607.00820v1)|null|
 |**2026-06-21**|**RAVEN: Agentic RAG for Automated Vulnerability Repair**|Varun Gadey et.al.|[2606.22647v1](http://arxiv.org/abs/2606.22647v1)|null|
 |**2026-05-28**|**EvoRepair: Enhancing Vulnerability Repair Agents Through Experience-Based Self-Evolution**|Haichuan Hu et.al.|[2605.30105v1](http://arxiv.org/abs/2605.30105v1)|null|
 |**2026-05-27**|**Towards Demystifying and Repairing LLM-in-the-Loop Vulnerabilities**|Yujie Ma et.al.|[2605.28893v1](http://arxiv.org/abs/2605.28893v1)|null|
@@ -125,7 +126,7 @@
 |**2025-11-28**|**Evaluating LLMs for One-Shot Patching of Real and Artificial Vulnerabilities**|Aayush Garg et.al.|[2511.23408v1](http://arxiv.org/abs/2511.23408v1)|null|
 |**2025-11-14**|**PATCHEVAL: A New Benchmark for Evaluating LLMs on Patching Real-World Vulnerabilities**|Zichao Wei et.al.|[2511.11019v1](http://arxiv.org/abs/2511.11019v1)|null|
 |**2026-04-13**|**HYDRA: A Hybrid Heuristic-Guided Deep Representation Architecture for Predicting Latent Zero-Day Vulnerabilities in Patched Functions**|Mohammad Farhad et.al.|[2511.06220v2](http://arxiv.org/abs/2511.06220v2)|null|
-|**2025-10-16**|**Match & Mend: Minimally Invasive Local Reassembly for Patching N-day Vulnerabilities in ARM Binaries**|Sebastian Jänich et.al.|[2510.14384v1](http://arxiv.org/abs/2510.14384v1)|null|
+|**2026-07-01**|**Match & Mend: Minimally Invasive Local Reassembly for Patching N-day Vulnerabilities in ARM Binaries**|Sebastian Jänich et.al.|[2510.14384v2](http://arxiv.org/abs/2510.14384v2)|null|
 |**2025-09-30**|**Red Teaming Program Repair Agents: When Correct Patches can Hide Vulnerabilities**|Simin Chen et.al.|[2509.25894v1](http://arxiv.org/abs/2509.25894v1)|null|
 |**2025-09-28**|**Revisiting Vulnerability Patch Localization: An Empirical Study and LLM-Based Solution**|Haoran Xu et.al.|[2509.15777v2](http://arxiv.org/abs/2509.15777v2)|null|
 |**2025-09-16**|**Vulnerability Patching Across Software Products and Software Components: A Case Study of Red Hat's Product Portfolio**|Jukka Ruohonen et.al.|[2509.13117v1](http://arxiv.org/abs/2509.13117v1)|null|
