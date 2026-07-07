@@ -5,12 +5,12 @@
 |**2026-07-01**|**Knowledge-Enhanced Agentic Vulnerability Repair**|Sicong Cao et.al.|[2607.00820v1](http://arxiv.org/abs/2607.00820v1)|null|
 |**2026-06-21**|**RAVEN: Agentic RAG for Automated Vulnerability Repair**|Varun Gadey et.al.|[2606.22647v1](http://arxiv.org/abs/2606.22647v1)|null|
 |**2026-05-28**|**EvoRepair: Enhancing Vulnerability Repair Agents Through Experience-Based Self-Evolution**|Haichuan Hu et.al.|[2605.30105v1](http://arxiv.org/abs/2605.30105v1)|null|
-|**2026-05-27**|**Towards Demystifying and Repairing LLM-in-the-Loop Vulnerabilities**|Yujie Ma et.al.|[2605.28893v1](http://arxiv.org/abs/2605.28893v1)|null|
+|**2026-07-03**|**Towards Demystifying and Repairing LLM-in-the-Loop Vulnerabilities**|Yujie Ma et.al.|[2605.28893v2](http://arxiv.org/abs/2605.28893v2)|null|
 |**2026-07-01**|**ContraFix: Skill-Enhanced Contrastive Runtime Analysis for Vulnerability Repair**|Simiao Liu et.al.|[2605.17450v2](http://arxiv.org/abs/2605.17450v2)|null|
 |**2026-05-17**|**MemRepair: Hierarchical Memory for Agentic Repository-Level Vulnerability Repair**|Simiao Liu et.al.|[2605.17444v1](http://arxiv.org/abs/2605.17444v1)|null|
 |**2026-05-05**|**Root-Cause-Driven Automated Vulnerability Repair**|Hulin Wang et.al.|[2605.04251v1](http://arxiv.org/abs/2605.04251v1)|null|
 |**2026-06-27**|**VulKey: Automated Vulnerability Repair Guided by Domain-Specific Repair Patterns**|Jia Li et.al.|[2605.01769v3](http://arxiv.org/abs/2605.01769v3)|null|
-|**2026-04-19**|**SynthFix: Adaptive Neuro-Symbolic Code Vulnerability Repair**|Yifan Zhang et.al.|[2604.17184v1](http://arxiv.org/abs/2604.17184v1)|null|
+|**2026-07-02**|**SynthFix: Adaptive Neuro-Symbolic Code Vulnerability Repair**|Yifan Zhang et.al.|[2604.17184v2](http://arxiv.org/abs/2604.17184v2)|null|
 |**2026-04-23**|**LogicEval: A Systematic Framework for Evaluating Automated Repair Techniques for Logical Vulnerabilities in Real-World Software**|Syed Md Mukit Rashid et.al.|[2604.12994v2](http://arxiv.org/abs/2604.12994v2)|null|
 |**2026-03-20**|**Patch Validation in Automated Vulnerability Repair**|Zheng Yu et.al.|[2603.06858v2](http://arxiv.org/abs/2603.06858v2)|null|
 |**2026-01-24**|**PatchIsland: Orchestration of LLM Agents for Continuous Vulnerability Repair**|Wonyoung Kim et.al.|[2601.17471v1](http://arxiv.org/abs/2601.17471v1)|null|
@@ -162,6 +162,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-05**|**Conductance-Repair Evidence Graphs for Prospective Security Retrieval**|Faruk Alpay et.al.|[2607.04070v1](http://arxiv.org/abs/2607.04070v1)|null|
 |**2026-03-01**|**Detect Repair Verify for Securing LLM Generated Code: A Multi-Language Empirical Study**|Cheng Cheng et.al.|[2603.00897v1](http://arxiv.org/abs/2603.00897v1)|null|
 |**2026-01-26**|**Adversarial Bug Reports as a Security Risk in Language Model-Based Automated Program Repair**|Piotr Przymus et.al.|[2509.05372v2](http://arxiv.org/abs/2509.05372v2)|null|
 |**2025-08-22**|**LLM-GUARD: Large Language Model-Based Detection and Repair of Bugs and Security Vulnerabilities in C++ and Python**|Akshay Mhatre et.al.|[2508.16419v1](http://arxiv.org/abs/2508.16419v1)|null|
