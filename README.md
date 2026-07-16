@@ -14,7 +14,7 @@
 |**2026-04-23**|**LogicEval: A Systematic Framework for Evaluating Automated Repair Techniques for Logical Vulnerabilities in Real-World Software**|Syed Md Mukit Rashid et.al.|[2604.12994v2](http://arxiv.org/abs/2604.12994v2)|null|
 |**2026-03-20**|**Patch Validation in Automated Vulnerability Repair**|Zheng Yu et.al.|[2603.06858v2](http://arxiv.org/abs/2603.06858v2)|null|
 |**2026-01-24**|**PatchIsland: Orchestration of LLM Agents for Continuous Vulnerability Repair**|Wonyoung Kim et.al.|[2601.17471v1](http://arxiv.org/abs/2601.17471v1)|null|
-|**2025-12-27**|**Rethinking the Capability of Fine-Tuned Language Models for Automated Vulnerability Repair**|Woorim Han et.al.|[2512.22633v1](http://arxiv.org/abs/2512.22633v1)|null|
+|**2026-07-15**|**Rethinking the Capability of Fine-Tuned Language Models for Automated Vulnerability Repair**|Woorim Han et.al.|[2512.22633v2](http://arxiv.org/abs/2512.22633v2)|null|
 |**2025-12-23**|**Well Begun is Half Done: Location-Aware and Trace-Guided Iterative Automated Vulnerability Repair**|Zhenlei Ye et.al.|[2512.20203v1](http://arxiv.org/abs/2512.20203v1)|null|
 |**2025-10-10**|**Repairing Regex Vulnerabilities via Localization-Guided Instructions**|Sicheol Sung et.al.|[2510.09037v1](http://arxiv.org/abs/2510.09037v1)|null|
 |**2025-10-07**|**Vul-R2: A Reasoning LLM for Automated Vulnerability Repair**|Xin-Cheng Wen et.al.|[2510.05480v1](http://arxiv.org/abs/2510.05480v1)|null|
@@ -69,6 +69,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-14**|**Why Not Fix It Once and for All? An Empirical Study of Multiple Patches for Vulnerability Fixes in Open-Source Software**|Weiliang Qi et.al.|[2607.13206v1](http://arxiv.org/abs/2607.13206v1)|null|
 |**2026-05-28**|**How Reliable Are AI Attackers Against a Fixed Vulnerable Target? A 400-Run Empirical Study of LLM Penetration Testing Consistency**|Galip Tolga Erdem et.al.|[2605.30096v1](http://arxiv.org/abs/2605.30096v1)|null|
 |**2026-05-13**|**Code-Centric Detection of Vulnerability-Fixing Commits: A Unified Benchmark and Empirical Study**|Nils Loose et.al.|[2605.13138v1](http://arxiv.org/abs/2605.13138v1)|null|
 |**2026-02-13**|**Favia: Forensic Agent for Vulnerability-fix Identification and Analysis**|André Storhaug et.al.|[2602.12500v1](http://arxiv.org/abs/2602.12500v1)|null|
@@ -115,6 +116,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-14**|**Why Not Fix It Once and for All? An Empirical Study of Multiple Patches for Vulnerability Fixes in Open-Source Software**|Weiliang Qi et.al.|[2607.13206v1](http://arxiv.org/abs/2607.13206v1)|null|
 |**2026-06-24**|**Helpful or Harmful? Evaluating LLM-Assisted Vulnerability Patching via a Human Study**|Giulian Biolo et.al.|[2606.25973v1](http://arxiv.org/abs/2606.25973v1)|null|
 |**2026-06-24**|**Automated Detection of Configuration-Specific Security Vulnerabilities via Patch Analysis**|Felipe de Sant'Anna Paixão et.al.|[2606.25863v1](http://arxiv.org/abs/2606.25863v1)|null|
 |**2026-05-07**|**Patch2Vuln: Agentic Reconstruction of Vulnerabilities from Linux Distribution Binary Patches**|Isaac David et.al.|[2605.06601v1](http://arxiv.org/abs/2605.06601v1)|null|
