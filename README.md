@@ -13,7 +13,7 @@
 |**2026-07-02**|**SynthFix: Adaptive Neuro-Symbolic Code Vulnerability Repair**|Yifan Zhang et.al.|[2604.17184v2](http://arxiv.org/abs/2604.17184v2)|null|
 |**2026-04-23**|**LogicEval: A Systematic Framework for Evaluating Automated Repair Techniques for Logical Vulnerabilities in Real-World Software**|Syed Md Mukit Rashid et.al.|[2604.12994v2](http://arxiv.org/abs/2604.12994v2)|null|
 |**2026-03-20**|**Patch Validation in Automated Vulnerability Repair**|Zheng Yu et.al.|[2603.06858v2](http://arxiv.org/abs/2603.06858v2)|null|
-|**2026-01-24**|**PatchIsland: Orchestration of LLM Agents for Continuous Vulnerability Repair**|Wonyoung Kim et.al.|[2601.17471v1](http://arxiv.org/abs/2601.17471v1)|null|
+|**2026-07-16**|**PatchIsland: Orchestration of LLM Agents for Continuous Vulnerability Repair**|Wonyoung Kim et.al.|[2601.17471v2](http://arxiv.org/abs/2601.17471v2)|null|
 |**2026-07-15**|**Rethinking the Capability of Fine-Tuned Language Models for Automated Vulnerability Repair**|Woorim Han et.al.|[2512.22633v2](http://arxiv.org/abs/2512.22633v2)|null|
 |**2025-12-23**|**Well Begun is Half Done: Location-Aware and Trace-Guided Iterative Automated Vulnerability Repair**|Zhenlei Ye et.al.|[2512.20203v1](http://arxiv.org/abs/2512.20203v1)|null|
 |**2025-10-10**|**Repairing Regex Vulnerabilities via Localization-Guided Instructions**|Sicheol Sung et.al.|[2510.09037v1](http://arxiv.org/abs/2510.09037v1)|null|
