@@ -121,7 +121,7 @@
 |**2026-06-24**|**Automated Detection of Configuration-Specific Security Vulnerabilities via Patch Analysis**|Felipe de Sant'Anna Paixão et.al.|[2606.25863v1](http://arxiv.org/abs/2606.25863v1)|null|
 |**2026-05-07**|**Patch2Vuln: Agentic Reconstruction of Vulnerabilities from Linux Distribution Binary Patches**|Isaac David et.al.|[2605.06601v1](http://arxiv.org/abs/2605.06601v1)|null|
 |**2026-04-21**|**EvoPatch-IoT: Evolution-Aware Cross-Architecture Vulnerability Retrieval and Patch-State Profiling for BusyBox-Based IoT Firmware**|Yinhao Xiao et.al.|[2604.19496v1](http://arxiv.org/abs/2604.19496v1)|null|
-|**2026-04-03**|**Revealing Physical-World Semantic Vulnerabilities: Universal Adversarial Patches for Infrared Vision-Language Models**|Chengyin Hu et.al.|[2604.03117v1](http://arxiv.org/abs/2604.03117v1)|null|
+|**2026-07-18**|**Revealing Physical-World Semantic Vulnerabilities: Universal Adversarial Patch for Infrared Vision-Language Models**|Chengyin Hu et.al.|[2604.03117v2](http://arxiv.org/abs/2604.03117v2)|null|
 |**2026-03-18**|**Revisiting Vulnerability Patch Identification on Data in the Wild**|Ivana Clairine Irsan et.al.|[2603.17266v1](http://arxiv.org/abs/2603.17266v1)|null|
 |**2026-03-20**|**Patch Validation in Automated Vulnerability Repair**|Zheng Yu et.al.|[2603.06858v2](http://arxiv.org/abs/2603.06858v2)|null|
 |**2026-03-05**|**Beyond the Patch: Exploring Vulnerabilities of Visuomotor Policies via Viewpoint-Consistent 3D Adversarial Object**|Chanmi Lee et.al.|[2603.04913v1](http://arxiv.org/abs/2603.04913v1)|null|
