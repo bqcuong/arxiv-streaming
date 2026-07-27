@@ -116,6 +116,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-24**|**PoCEvolve: Generating Proof-of-Concept Exploits from Security Patches with Vulnerability-Aware Prompt Evolution**|Duc Manh Tran et.al.|[2607.22076v1](http://arxiv.org/abs/2607.22076v1)|null|
 |**2026-07-14**|**Why Not Fix It Once and for All? An Empirical Study of Multiple Patches for Vulnerability Fixes in Open-Source Software**|Weiliang Qi et.al.|[2607.13206v1](http://arxiv.org/abs/2607.13206v1)|null|
 |**2026-06-24**|**Helpful or Harmful? Evaluating LLM-Assisted Vulnerability Patching via a Human Study**|Giulian Biolo et.al.|[2606.25973v1](http://arxiv.org/abs/2606.25973v1)|null|
 |**2026-06-24**|**Automated Detection of Configuration-Specific Security Vulnerabilities via Patch Analysis**|Felipe de Sant'Anna Paixão et.al.|[2606.25863v1](http://arxiv.org/abs/2606.25863v1)|null|
@@ -164,6 +165,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-21**|**Tool-Guided Retrieval-Augmented Repair for Securing LLM-Generated C Code**|Vidyut Sriram et.al.|[2607.21641v1](http://arxiv.org/abs/2607.21641v1)|null|
 |**2026-07-05**|**Conductance-Repair Evidence Graphs for Prospective Security Retrieval**|Faruk Alpay et.al.|[2607.04070v1](http://arxiv.org/abs/2607.04070v1)|null|
 |**2026-03-01**|**Detect Repair Verify for Securing LLM Generated Code: A Multi-Language Empirical Study**|Cheng Cheng et.al.|[2603.00897v1](http://arxiv.org/abs/2603.00897v1)|null|
 |**2026-01-26**|**Adversarial Bug Reports as a Security Risk in Language Model-Based Automated Program Repair**|Piotr Przymus et.al.|[2509.05372v2](http://arxiv.org/abs/2509.05372v2)|null|
@@ -229,6 +231,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-24**|**PoCEvolve: Generating Proof-of-Concept Exploits from Security Patches with Vulnerability-Aware Prompt Evolution**|Duc Manh Tran et.al.|[2607.22076v1](http://arxiv.org/abs/2607.22076v1)|null|
 |**2026-06-24**|**Automated Detection of Configuration-Specific Security Vulnerabilities via Patch Analysis**|Felipe de Sant'Anna Paixão et.al.|[2606.25863v1](http://arxiv.org/abs/2606.25863v1)|null|
 |**2026-06-09**|**MPC-Patch-Bench: Security-Aware LLM Code Patch for Multi-Party Computation**|Yukuan Zhang et.al.|[2606.11416v1](http://arxiv.org/abs/2606.11416v1)|null|
 |**2026-06-07**|**AI Code Sandboxes: A Comparative Security Study. Part 1 of 2 -- Engine-Level Properties (Attack Surface, Leakage, Stackability, CVE History, Patch Cadence, Fuzzing)**|George Andronchik et.al.|[2606.08433v1](http://arxiv.org/abs/2606.08433v1)|null|
