@@ -196,6 +196,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2006-12-11**|**Secure Classical Bit Commitment using Fixed Capacity Communication Channels**|Adrian Kent et.al.|[quant-ph/9906103v7](http://arxiv.org/abs/quant-ph/9906103v7)|null|
+|**2026-07-29**|**Secure Relay Low-Altitude Networks via Hybrid Fixed-Position and Rotatable Antenna Arrays**|Maolin Li et.al.|[2607.26531v1](http://arxiv.org/abs/2607.26531v1)|null|
 |**2026-06-17**|**Secure Coding Drift in LLM-Assisted Post-Quantum Cryptography Development: A Gamified Fix**|R. D. N. Shakya et.al.|[2606.19474v1](http://arxiv.org/abs/2606.19474v1)|null|
 |**2025-11-21**|**Characteristics, Root Causes, and Detection of Incomplete Security Bug Fixes in the Linux Kernel**|Qiang Liu et.al.|[2511.17799v1](http://arxiv.org/abs/2511.17799v1)|null|
 |**2025-11-18**|**Beyond Fixed and Dynamic Prompts: Embedded Jailbreak Templates for Advancing LLM Security**|Hajun Kim et.al.|[2511.14140v1](http://arxiv.org/abs/2511.14140v1)|null|
@@ -231,6 +232,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-07-29**|**FakeIDet3-DB: Refining Digital Attacks and Patch Extraction for Secure ID Benchmarking**|Muñoz-Haro Javier et.al.|[2607.26641v1](http://arxiv.org/abs/2607.26641v1)|null|
 |**2026-07-28**|**Does Runtime Topology Context Improve LLM-Generated Kubernetes Security Patches?**|Farooq Shaikh et.al.|[2607.25995v1](http://arxiv.org/abs/2607.25995v1)|null|
 |**2026-07-24**|**PoCEvolve: Generating Proof-of-Concept Exploits from Security Patches with Vulnerability-Aware Prompt Evolution**|Duc Manh Tran et.al.|[2607.22076v1](http://arxiv.org/abs/2607.22076v1)|null|
 |**2026-06-24**|**Automated Detection of Configuration-Specific Security Vulnerabilities via Patch Analysis**|Felipe de Sant'Anna Paixão et.al.|[2606.25863v1](http://arxiv.org/abs/2606.25863v1)|null|
