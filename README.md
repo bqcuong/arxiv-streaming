@@ -2,6 +2,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-01**|**Vul4Py: Benchmarking Automated Vulnerability Repair in Python with Paired Exploit and Functional Oracles**|Tan Bui et.al.|[2608.00692v1](http://arxiv.org/abs/2608.00692v1)|null|
 |**2026-07-31**|**AgenticRepair: Multi-Faceted Program Context Engineering for Agentic Vulnerability Repair**|Michael Fu et.al.|[2607.29422v1](http://arxiv.org/abs/2607.29422v1)|null|
 |**2026-07-01**|**Knowledge-Enhanced Agentic Vulnerability Repair**|Sicong Cao et.al.|[2607.00820v1](http://arxiv.org/abs/2607.00820v1)|null|
 |**2026-06-21**|**RAVEN: Agentic RAG for Automated Vulnerability Repair**|Varun Gadey et.al.|[2606.22647v1](http://arxiv.org/abs/2606.22647v1)|null|
@@ -197,7 +198,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2006-12-11**|**Secure Classical Bit Commitment using Fixed Capacity Communication Channels**|Adrian Kent et.al.|[quant-ph/9906103v7](http://arxiv.org/abs/quant-ph/9906103v7)|null|
-|**2026-07-29**|**Secure Relay Low-Altitude Networks via Hybrid Fixed-Position and Rotatable Antenna Arrays**|Maolin Li et.al.|[2607.26531v1](http://arxiv.org/abs/2607.26531v1)|null|
+|**2026-08-02**|**Secure Relay Low-Altitude Networks via Hybrid Fixed-Position and Rotatable Antenna Arrays**|Maolin Li et.al.|[2607.26531v2](http://arxiv.org/abs/2607.26531v2)|null|
 |**2026-06-17**|**Secure Coding Drift in LLM-Assisted Post-Quantum Cryptography Development: A Gamified Fix**|R. D. N. Shakya et.al.|[2606.19474v1](http://arxiv.org/abs/2606.19474v1)|null|
 |**2025-11-21**|**Characteristics, Root Causes, and Detection of Incomplete Security Bug Fixes in the Linux Kernel**|Qiang Liu et.al.|[2511.17799v1](http://arxiv.org/abs/2511.17799v1)|null|
 |**2025-11-18**|**Beyond Fixed and Dynamic Prompts: Embedded Jailbreak Templates for Advancing LLM Security**|Hajun Kim et.al.|[2511.14140v1](http://arxiv.org/abs/2511.14140v1)|null|
