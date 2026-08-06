@@ -2,6 +2,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-05**|**LLM-Assisted Detection and Repair of Hardware Security Vulnerabilities in Verilog Designs**|Ethen Santana et.al.|[2608.04907v1](http://arxiv.org/abs/2608.04907v1)|null|
 |**2026-08-01**|**Vul4Py: Benchmarking Automated Vulnerability Repair in Python with Paired Exploit and Functional Oracles**|Tan Bui et.al.|[2608.00692v1](http://arxiv.org/abs/2608.00692v1)|null|
 |**2026-07-31**|**AgenticRepair: Multi-Faceted Program Context Engineering for Agentic Vulnerability Repair**|Michael Fu et.al.|[2607.29422v1](http://arxiv.org/abs/2607.29422v1)|null|
 |**2026-07-01**|**Knowledge-Enhanced Agentic Vulnerability Repair**|Sicong Cao et.al.|[2607.00820v1](http://arxiv.org/abs/2607.00820v1)|null|
@@ -167,6 +168,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-05**|**LLM-Assisted Detection and Repair of Hardware Security Vulnerabilities in Verilog Designs**|Ethen Santana et.al.|[2608.04907v1](http://arxiv.org/abs/2608.04907v1)|null|
 |**2026-07-21**|**Tool-Guided Retrieval-Augmented Repair for Securing LLM-Generated C Code**|Vidyut Sriram et.al.|[2607.21641v1](http://arxiv.org/abs/2607.21641v1)|null|
 |**2026-07-05**|**Conductance-Repair Evidence Graphs for Prospective Security Retrieval**|Faruk Alpay et.al.|[2607.04070v1](http://arxiv.org/abs/2607.04070v1)|null|
 |**2026-03-01**|**Detect Repair Verify for Securing LLM Generated Code: A Multi-Language Empirical Study**|Cheng Cheng et.al.|[2603.00897v1](http://arxiv.org/abs/2603.00897v1)|null|
@@ -240,6 +242,7 @@
 |**2026-06-24**|**Automated Detection of Configuration-Specific Security Vulnerabilities via Patch Analysis**|Felipe de Sant'Anna Paixão et.al.|[2606.25863v1](http://arxiv.org/abs/2606.25863v1)|null|
 |**2026-06-09**|**MPC-Patch-Bench: Security-Aware LLM Code Patch for Multi-Party Computation**|Yukuan Zhang et.al.|[2606.11416v1](http://arxiv.org/abs/2606.11416v1)|null|
 |**2026-06-07**|**AI Code Sandboxes: A Comparative Security Study. Part 1 of 2 -- Engine-Level Properties (Attack Surface, Leakage, Stackability, CVE History, Patch Cadence, Fuzzing)**|George Andronchik et.al.|[2606.08433v1](http://arxiv.org/abs/2606.08433v1)|null|
+|**2026-08-04**|**A Comprehensive Evaluation of Code Language Models for Security Patch Detection**|Nils Loose et.al.|[2605.13138v2](http://arxiv.org/abs/2605.13138v2)|null|
 |**2026-03-10**|**Why LLMs Fail: A Failure Analysis and Partial Success Measurement for Automated Security Patch Generation**|Amir Al-Maamari et.al.|[2603.10072v1](http://arxiv.org/abs/2603.10072v1)|null|
 |**2026-01-09**|**StriderSPD: Structure-Guided Joint Representation Learning for Binary Security Patch Detection**|Qingyuan Li et.al.|[2601.05772v1](http://arxiv.org/abs/2601.05772v1)|null|
 |**2025-11-11**|**From LLMs to Agents: A Comparative Evaluation of LLMs and LLM-based Agents in Security Patch Detection**|Junxiao Han et.al.|[2511.08060v1](http://arxiv.org/abs/2511.08060v1)|null|
