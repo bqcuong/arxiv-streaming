@@ -168,6 +168,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-11**|**A Runtime Decentralized Attestation and Coordinated Repair Framework for Securing Automotive ECUs**|Josh Dafoe et.al.|[2608.11489v1](http://arxiv.org/abs/2608.11489v1)|null|
 |**2026-08-05**|**LLM-Assisted Detection and Repair of Hardware Security Vulnerabilities in Verilog Designs**|Ethen Santana et.al.|[2608.04907v1](http://arxiv.org/abs/2608.04907v1)|null|
 |**2026-07-21**|**Tool-Guided Retrieval-Augmented Repair for Securing LLM-Generated C Code**|Vidyut Sriram et.al.|[2607.21641v1](http://arxiv.org/abs/2607.21641v1)|null|
 |**2026-07-05**|**Conductance-Repair Evidence Graphs for Prospective Security Retrieval**|Faruk Alpay et.al.|[2607.04070v1](http://arxiv.org/abs/2607.04070v1)|null|
