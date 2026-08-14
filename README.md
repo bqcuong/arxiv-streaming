@@ -168,6 +168,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-08-13**|**Does Fixing Break Security? An Empirical Study of Security Degradation in Iterative LLM-Driven Infrastructure-as-Code Repair**|Benjamin Agyekum et.al.|[2608.13404v1](http://arxiv.org/abs/2608.13404v1)|null|
 |**2026-08-11**|**A Runtime Decentralized Attestation and Coordinated Repair Framework for Securing Automotive ECUs**|Josh Dafoe et.al.|[2608.11489v1](http://arxiv.org/abs/2608.11489v1)|null|
 |**2026-08-05**|**LLM-Assisted Detection and Repair of Hardware Security Vulnerabilities in Verilog Designs**|Ethen Santana et.al.|[2608.04907v1](http://arxiv.org/abs/2608.04907v1)|null|
 |**2026-07-21**|**Tool-Guided Retrieval-Augmented Repair for Securing LLM-Generated C Code**|Vidyut Sriram et.al.|[2607.21641v1](http://arxiv.org/abs/2607.21641v1)|null|
@@ -201,6 +202,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2006-12-11**|**Secure Classical Bit Commitment using Fixed Capacity Communication Channels**|Adrian Kent et.al.|[quant-ph/9906103v7](http://arxiv.org/abs/quant-ph/9906103v7)|null|
+|**2026-08-13**|**Does Fixing Break Security? An Empirical Study of Security Degradation in Iterative LLM-Driven Infrastructure-as-Code Repair**|Benjamin Agyekum et.al.|[2608.13404v1](http://arxiv.org/abs/2608.13404v1)|null|
 |**2026-08-02**|**Secure Relay Low-Altitude Networks via Hybrid Fixed-Position and Rotatable Antenna Arrays**|Maolin Li et.al.|[2607.26531v2](http://arxiv.org/abs/2607.26531v2)|null|
 |**2026-06-17**|**Secure Coding Drift in LLM-Assisted Post-Quantum Cryptography Development: A Gamified Fix**|R. D. N. Shakya et.al.|[2606.19474v1](http://arxiv.org/abs/2606.19474v1)|null|
 |**2025-11-21**|**Characteristics, Root Causes, and Detection of Incomplete Security Bug Fixes in the Linux Kernel**|Qiang Liu et.al.|[2511.17799v1](http://arxiv.org/abs/2511.17799v1)|null|
