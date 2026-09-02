@@ -241,7 +241,7 @@
 |---|---|---|---|---|
 |**2026-08-18**|**Benchmarking Automated Security Patch Backporting: How Far Are We?**|Jincheng Yang et.al.|[2608.17671v1](http://arxiv.org/abs/2608.17671v1)|null|
 |**2026-07-29**|**FakeIDet3-DB: Refining Digital Attacks and Patch Extraction for Secure ID Benchmarking**|Muñoz-Haro Javier et.al.|[2607.26641v1](http://arxiv.org/abs/2607.26641v1)|null|
-|**2026-07-28**|**Does Runtime Topology Context Improve LLM-Generated Kubernetes Security Patches?**|Farooq Shaikh et.al.|[2607.25995v1](http://arxiv.org/abs/2607.25995v1)|null|
+|**2026-08-31**|**Does Runtime Topology Context Improve LLM-Generated Kubernetes Security Patches?**|Farooq Shaikh et.al.|[2607.25995v2](http://arxiv.org/abs/2607.25995v2)|null|
 |**2026-07-24**|**PoCEvolve: Generating Proof-of-Concept Exploits from Security Patches with Vulnerability-Aware Prompt Evolution**|Duc Manh Tran et.al.|[2607.22076v1](http://arxiv.org/abs/2607.22076v1)|null|
 |**2026-06-24**|**Automated Detection of Configuration-Specific Security Vulnerabilities via Patch Analysis**|Felipe de Sant'Anna Paixão et.al.|[2606.25863v1](http://arxiv.org/abs/2606.25863v1)|null|
 |**2026-06-09**|**MPC-Patch-Bench: Security-Aware LLM Code Patch for Multi-Party Computation**|Yukuan Zhang et.al.|[2606.11416v1](http://arxiv.org/abs/2606.11416v1)|null|
