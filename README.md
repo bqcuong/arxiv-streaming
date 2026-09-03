@@ -168,6 +168,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-01**|**From Silicon to Boot Code: Extending Automated Program Repair to Firmware-Layer Security Workarounds**|Maisha Mastora et.al.|[2609.01769v1](http://arxiv.org/abs/2609.01769v1)|null|
 |**2026-08-14**|**Does Fixing Break Security? An Empirical Study of Security Degradation in Iterative LLM-Driven Infrastructure-as-Code Repair**|Benjamin Agyekum et.al.|[2608.13404v2](http://arxiv.org/abs/2608.13404v2)|null|
 |**2026-08-11**|**A Runtime Decentralized Attestation and Coordinated Repair Framework for Securing Automotive ECUs**|Josh Dafoe et.al.|[2608.11489v1](http://arxiv.org/abs/2608.11489v1)|null|
 |**2026-08-05**|**LLM-Assisted Detection and Repair of Hardware Security Vulnerabilities in Verilog Designs**|Ethen Santana et.al.|[2608.04907v1](http://arxiv.org/abs/2608.04907v1)|null|
