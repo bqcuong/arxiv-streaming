@@ -119,6 +119,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-03**|**PatchBench: Evaluating AI Agents for Vulnerability Patching**|Chihao Shen et.al.|[2609.04075v1](http://arxiv.org/abs/2609.04075v1)|null|
 |**2026-07-24**|**PoCEvolve: Generating Proof-of-Concept Exploits from Security Patches with Vulnerability-Aware Prompt Evolution**|Duc Manh Tran et.al.|[2607.22076v1](http://arxiv.org/abs/2607.22076v1)|null|
 |**2026-07-14**|**Why Not Fix It Once and for All? An Empirical Study of Multiple Patches for Vulnerability Fixes in Open-Source Software**|Weiliang Qi et.al.|[2607.13206v1](http://arxiv.org/abs/2607.13206v1)|null|
 |**2026-06-24**|**Helpful or Harmful? Evaluating LLM-Assisted Vulnerability Patching via a Human Study**|Giulian Biolo et.al.|[2606.25973v1](http://arxiv.org/abs/2606.25973v1)|null|
