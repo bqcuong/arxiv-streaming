@@ -212,7 +212,7 @@
 |**2025-09-26**|**What Do They Fix? LLM-Aided Categorization of Security Patches for Critical Memory Bugs**|Xingyu Li et.al.|[2509.22796v1](http://arxiv.org/abs/2509.22796v1)|null|
 |**2025-07-08**|**Does Movable Antenna Present A Dual-edged Nature? From the Perspective of Physical Layer Security: A Joint Design of Fixed-position Antenna and Movable Antenna**|Kan Yu et.al.|[2507.05784v1](http://arxiv.org/abs/2507.05784v1)|null|
 |**2025-07-24**|**Are AI-Generated Fixes Secure? Analyzing LLM and Agent Patches on SWE-bench**|Amirali Sajadi et.al.|[2507.02976v2](http://arxiv.org/abs/2507.02976v2)|null|
-|**2025-06-28**|**Guiding AI to Fix Its Own Flaws: An Empirical Study on LLM-Driven Secure Code Generation**|Hao Yan et.al.|[2506.23034v1](http://arxiv.org/abs/2506.23034v1)|null|
+|**2026-09-04**|**Guiding AI to Fix Its Own Flaws: An Empirical Study on LLM-Driven Secure Code Generation**|Hao Yan et.al.|[2506.23034v2](http://arxiv.org/abs/2506.23034v2)|null|
 |**2025-03-30**|**Fixing Outside the Box: Uncovering Tactics for Open-Source Security Issue Management**|Lyuye Zhang et.al.|[2503.23357v1](http://arxiv.org/abs/2503.23357v1)|null|
 |**2025-05-31**|**Improving the Context Length and Efficiency of Code Retrieval for Tracing Security Vulnerability Fixes**|Xueqing Liu et.al.|[2503.22935v2](http://arxiv.org/abs/2503.22935v2)|null|
 |**2025-05-19**|**Framework for asset-liability management with fixed-term securities**|Yevhen Havrylenko et.al.|[2502.19213v2](http://arxiv.org/abs/2502.19213v2)|null|
