@@ -2,6 +2,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-14**|**Adversarial Testing of Automated Program Repair Agents for Security Vulnerabilities**|Fares Trad et.al.|[2609.15963v1](http://arxiv.org/abs/2609.15963v1)|null|
 |**2026-08-05**|**LLM-Assisted Detection and Repair of Hardware Security Vulnerabilities in Verilog Designs**|Ethen Santana et.al.|[2608.04907v1](http://arxiv.org/abs/2608.04907v1)|null|
 |**2026-08-01**|**Vul4Py: Benchmarking Automated Vulnerability Repair in Python with Paired Exploit and Functional Oracles**|Tan Bui et.al.|[2608.00692v1](http://arxiv.org/abs/2608.00692v1)|null|
 |**2026-07-31**|**AgenticRepair: Multi-Faceted Program Context Engineering for Agentic Vulnerability Repair**|Michael Fu et.al.|[2607.29422v1](http://arxiv.org/abs/2607.29422v1)|null|
@@ -119,6 +120,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-12**|**SkillSecurer: Detecting and Patching Prompt-Injection Vulnerabilities in AI Agent Skills**|Donato Mecca et.al.|[2609.14079v1](http://arxiv.org/abs/2609.14079v1)|null|
 |**2026-09-07**|**One Is Not Enough: The Untold Story of Multiple Security Patches for One Vulnerability**|Fangyuan Zhang et.al.|[2609.07224v1](http://arxiv.org/abs/2609.07224v1)|null|
 |**2026-09-03**|**PatchBench: Evaluating AI Agents for Vulnerability Patching**|Chihao Shen et.al.|[2609.04075v1](http://arxiv.org/abs/2609.04075v1)|null|
 |**2026-07-24**|**PoCEvolve: Generating Proof-of-Concept Exploits from Security Patches with Vulnerability-Aware Prompt Evolution**|Duc Manh Tran et.al.|[2607.22076v1](http://arxiv.org/abs/2607.22076v1)|null|
@@ -170,6 +172,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-14**|**Adversarial Testing of Automated Program Repair Agents for Security Vulnerabilities**|Fares Trad et.al.|[2609.15963v1](http://arxiv.org/abs/2609.15963v1)|null|
 |**2026-09-01**|**From Silicon to Boot Code: Extending Automated Program Repair to Firmware-Layer Security Workarounds**|Maisha Mastora et.al.|[2609.01769v1](http://arxiv.org/abs/2609.01769v1)|null|
 |**2026-08-14**|**Does Fixing Break Security? An Empirical Study of Security Degradation in Iterative LLM-Driven Infrastructure-as-Code Repair**|Benjamin Agyekum et.al.|[2608.13404v2](http://arxiv.org/abs/2608.13404v2)|null|
 |**2026-08-11**|**A Runtime Decentralized Attestation and Coordinated Repair Framework for Securing Automotive ECUs**|Josh Dafoe et.al.|[2608.11489v1](http://arxiv.org/abs/2608.11489v1)|null|
