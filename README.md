@@ -209,7 +209,7 @@
 |---|---|---|---|---|
 |**2006-12-11**|**Secure Classical Bit Commitment using Fixed Capacity Communication Channels**|Adrian Kent et.al.|[quant-ph/9906103v7](http://arxiv.org/abs/quant-ph/9906103v7)|null|
 |**2026-08-14**|**Does Fixing Break Security? An Empirical Study of Security Degradation in Iterative LLM-Driven Infrastructure-as-Code Repair**|Benjamin Agyekum et.al.|[2608.13404v2](http://arxiv.org/abs/2608.13404v2)|null|
-|**2026-08-02**|**Secure Relay Low-Altitude Networks via Hybrid Fixed-Position and Rotatable Antenna Arrays**|Maolin Li et.al.|[2607.26531v2](http://arxiv.org/abs/2607.26531v2)|null|
+|**2026-09-16**|**Secure Relay Low-Altitude Networks via Hybrid Fixed-Position and Rotatable Antenna Arrays**|Maolin Li et.al.|[2607.26531v3](http://arxiv.org/abs/2607.26531v3)|null|
 |**2026-06-17**|**Secure Coding Drift in LLM-Assisted Post-Quantum Cryptography Development: A Gamified Fix**|R. D. N. Shakya et.al.|[2606.19474v1](http://arxiv.org/abs/2606.19474v1)|null|
 |**2025-11-21**|**Characteristics, Root Causes, and Detection of Incomplete Security Bug Fixes in the Linux Kernel**|Qiang Liu et.al.|[2511.17799v1](http://arxiv.org/abs/2511.17799v1)|null|
 |**2025-11-18**|**Beyond Fixed and Dynamic Prompts: Embedded Jailbreak Templates for Advancing LLM Security**|Hajun Kim et.al.|[2511.14140v1](http://arxiv.org/abs/2511.14140v1)|null|
