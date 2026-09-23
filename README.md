@@ -2,6 +2,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-22**|**Metrics Failure in LLM-Based Code Vulnerability Repair: An Empirical Study and a Change-Aware Screen**|Om Nepal et.al.|[2609.26749v1](http://arxiv.org/abs/2609.26749v1)|null|
 |**2026-09-14**|**Adversarial Testing of Automated Program Repair Agents for Security Vulnerabilities**|Fares Trad et.al.|[2609.15963v1](http://arxiv.org/abs/2609.15963v1)|null|
 |**2026-08-05**|**LLM-Assisted Detection and Repair of Hardware Security Vulnerabilities in Verilog Designs**|Ethen Santana et.al.|[2608.04907v1](http://arxiv.org/abs/2608.04907v1)|null|
 |**2026-08-01**|**Vul4Py: Benchmarking Automated Vulnerability Repair in Python with Paired Exploit and Functional Oracles**|Tan Bui et.al.|[2608.00692v1](http://arxiv.org/abs/2608.00692v1)|null|
