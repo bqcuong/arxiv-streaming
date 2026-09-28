@@ -214,7 +214,7 @@
 |**2026-06-17**|**Secure Coding Drift in LLM-Assisted Post-Quantum Cryptography Development: A Gamified Fix**|R. D. N. Shakya et.al.|[2606.19474v1](http://arxiv.org/abs/2606.19474v1)|null|
 |**2025-11-21**|**Characteristics, Root Causes, and Detection of Incomplete Security Bug Fixes in the Linux Kernel**|Qiang Liu et.al.|[2511.17799v1](http://arxiv.org/abs/2511.17799v1)|null|
 |**2025-11-18**|**Beyond Fixed and Dynamic Prompts: Embedded Jailbreak Templates for Advancing LLM Security**|Hajun Kim et.al.|[2511.14140v1](http://arxiv.org/abs/2511.14140v1)|null|
-|**2025-09-26**|**What Do They Fix? LLM-Aided Categorization of Security Patches for Critical Memory Bugs**|Xingyu Li et.al.|[2509.22796v1](http://arxiv.org/abs/2509.22796v1)|null|
+|**2026-09-25**|**What Do They Fix? LLM-Aided Categorization of Security Patches for Critical Memory Bugs**|Xingyu Li et.al.|[2509.22796v2](http://arxiv.org/abs/2509.22796v2)|null|
 |**2025-07-08**|**Does Movable Antenna Present A Dual-edged Nature? From the Perspective of Physical Layer Security: A Joint Design of Fixed-position Antenna and Movable Antenna**|Kan Yu et.al.|[2507.05784v1](http://arxiv.org/abs/2507.05784v1)|null|
 |**2025-07-24**|**Are AI-Generated Fixes Secure? Analyzing LLM and Agent Patches on SWE-bench**|Amirali Sajadi et.al.|[2507.02976v2](http://arxiv.org/abs/2507.02976v2)|null|
 |**2026-09-04**|**Guiding AI to Fix Its Own Flaws: An Empirical Study on LLM-Driven Secure Code Generation**|Hao Yan et.al.|[2506.23034v2](http://arxiv.org/abs/2506.23034v2)|null|
@@ -258,7 +258,7 @@
 |**2026-03-10**|**Why LLMs Fail: A Failure Analysis and Partial Success Measurement for Automated Security Patch Generation**|Amir Al-Maamari et.al.|[2603.10072v1](http://arxiv.org/abs/2603.10072v1)|null|
 |**2026-01-09**|**StriderSPD: Structure-Guided Joint Representation Learning for Binary Security Patch Detection**|Qingyuan Li et.al.|[2601.05772v1](http://arxiv.org/abs/2601.05772v1)|null|
 |**2025-11-11**|**From LLMs to Agents: A Comparative Evaluation of LLMs and LLM-based Agents in Security Patch Detection**|Junxiao Han et.al.|[2511.08060v1](http://arxiv.org/abs/2511.08060v1)|null|
-|**2025-09-26**|**What Do They Fix? LLM-Aided Categorization of Security Patches for Critical Memory Bugs**|Xingyu Li et.al.|[2509.22796v1](http://arxiv.org/abs/2509.22796v1)|null|
+|**2026-09-25**|**What Do They Fix? LLM-Aided Categorization of Security Patches for Critical Memory Bugs**|Xingyu Li et.al.|[2509.22796v2](http://arxiv.org/abs/2509.22796v2)|null|
 |**2025-09-12**|**Securing LLM-Generated Embedded Firmware through AI Agent-Driven Validation and Patching**|Seyed Moein Abtahi et.al.|[2509.09970v1](http://arxiv.org/abs/2509.09970v1)|null|
 |**2025-09-07**|**Empirical Study of Code Large Language Models for Binary Security Patch Detection**|Qingyuan Li et.al.|[2509.06052v1](http://arxiv.org/abs/2509.06052v1)|null|
 |**2025-12-29**|**How Safe Are AI-Generated Patches? A Large-scale Study on Security Risks in LLM and Agentic Automated Program Repair on SWE-bench**|Amirali Sajadi et.al.|[2507.02976v3](http://arxiv.org/abs/2507.02976v3)|null|
