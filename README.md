@@ -74,6 +74,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-29**|**A Function-level Dataset of Vulnerable and Fixed Source Code in JavaScript and TypeScript**|Tamás Viszkok et.al.|[2609.38012v1](http://arxiv.org/abs/2609.38012v1)|null|
 |**2026-07-14**|**Why Not Fix It Once and for All? An Empirical Study of Multiple Patches for Vulnerability Fixes in Open-Source Software**|Weiliang Qi et.al.|[2607.13206v1](http://arxiv.org/abs/2607.13206v1)|null|
 |**2026-05-28**|**How Reliable Are AI Attackers Against a Fixed Vulnerable Target? A 400-Run Empirical Study of LLM Penetration Testing Consistency**|Galip Tolga Erdem et.al.|[2605.30096v1](http://arxiv.org/abs/2605.30096v1)|null|
 |**2026-05-13**|**Code-Centric Detection of Vulnerability-Fixing Commits: A Unified Benchmark and Empirical Study**|Nils Loose et.al.|[2605.13138v1](http://arxiv.org/abs/2605.13138v1)|null|
@@ -121,6 +122,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-30**|**COMPASS: Predicting the Relationship of Multiple Patches for Vulnerabilities with LLMs**|Yi Song et.al.|[2609.39783v1](http://arxiv.org/abs/2609.39783v1)|null|
 |**2026-09-12**|**SkillSecurer: Detecting and Patching Prompt-Injection Vulnerabilities in AI Agent Skills**|Donato Mecca et.al.|[2609.14079v1](http://arxiv.org/abs/2609.14079v1)|null|
 |**2026-09-07**|**One Is Not Enough: The Untold Story of Multiple Security Patches for One Vulnerability**|Fangyuan Zhang et.al.|[2609.07224v1](http://arxiv.org/abs/2609.07224v1)|null|
 |**2026-09-03**|**PatchBench: Evaluating AI Agents for Vulnerability Patching**|Chihao Shen et.al.|[2609.04075v1](http://arxiv.org/abs/2609.04075v1)|null|
