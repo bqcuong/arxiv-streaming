@@ -123,6 +123,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-07**|**On the Reliability of LLM-Based Vulnerability Patching Benchmarks**|Dang K Le et.al.|[2610.10150v1](http://arxiv.org/abs/2610.10150v1)|null|
 |**2026-09-30**|**COMPASS: Predicting the Relationship of Multiple Patches for Vulnerabilities with LLMs**|Yi Song et.al.|[2609.39783v1](http://arxiv.org/abs/2609.39783v1)|null|
 |**2026-09-12**|**SkillSecurer: Detecting and Patching Prompt-Injection Vulnerabilities in AI Agent Skills**|Donato Mecca et.al.|[2609.14079v1](http://arxiv.org/abs/2609.14079v1)|null|
 |**2026-09-07**|**One Is Not Enough: The Untold Story of Multiple Security Patches for One Vulnerability**|Fangyuan Zhang et.al.|[2609.07224v1](http://arxiv.org/abs/2609.07224v1)|null|
