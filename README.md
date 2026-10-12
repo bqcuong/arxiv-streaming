@@ -2,6 +2,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-09**|**EviRepair: Evidence-Driven Agents for Reliable Vulnerability Repair**|Yilian Shi et.al.|[2610.13491v1](http://arxiv.org/abs/2610.13491v1)|null|
 |**2026-10-05**|**Where Did the Repair First Go Wrong? Localizing the Origins of Silent Failures in Agentic Vulnerability Repair**|Wenji Bai et.al.|[2610.06163v1](http://arxiv.org/abs/2610.06163v1)|null|
 |**2026-09-22**|**Metrics Failure in LLM-Based Code Vulnerability Repair: An Empirical Study and a Change-Aware Screen**|Om Nepal et.al.|[2609.26749v1](http://arxiv.org/abs/2609.26749v1)|null|
 |**2026-09-14**|**Adversarial Testing of Automated Program Repair Agents for Security Vulnerabilities**|Fares Trad et.al.|[2609.15963v1](http://arxiv.org/abs/2609.15963v1)|null|
