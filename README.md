@@ -2,6 +2,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-10**|**SecReason: Vulnerability Detection and In-Stream Self-Repair for LLM Code Generation**|Ruidong Han et.al.|[2610.14453v1](http://arxiv.org/abs/2610.14453v1)|null|
 |**2026-10-09**|**EviRepair: Evidence-Driven Agents for Reliable Vulnerability Repair**|Yilian Shi et.al.|[2610.13491v1](http://arxiv.org/abs/2610.13491v1)|null|
 |**2026-10-05**|**Where Did the Repair First Go Wrong? Localizing the Origins of Silent Failures in Agentic Vulnerability Repair**|Wenji Bai et.al.|[2610.06163v1](http://arxiv.org/abs/2610.06163v1)|null|
 |**2026-09-22**|**Metrics Failure in LLM-Based Code Vulnerability Repair: An Empirical Study and a Change-Aware Screen**|Om Nepal et.al.|[2609.26749v1](http://arxiv.org/abs/2609.26749v1)|null|
@@ -76,6 +77,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-12**|**VulnBump: A Benchmark for Fixing Vulnerable Dependencies in Real Projects While Keeping the Build and Tests Green**|Gabija Pasiunaite et.al.|[2610.17374v1](http://arxiv.org/abs/2610.17374v1)|null|
 |**2026-09-29**|**A Function-level Dataset of Vulnerable and Fixed Source Code in JavaScript and TypeScript**|Tamás Viszkok et.al.|[2609.38012v1](http://arxiv.org/abs/2609.38012v1)|null|
 |**2026-07-14**|**Why Not Fix It Once and for All? An Empirical Study of Multiple Patches for Vulnerability Fixes in Open-Source Software**|Weiliang Qi et.al.|[2607.13206v1](http://arxiv.org/abs/2607.13206v1)|null|
 |**2026-05-28**|**How Reliable Are AI Attackers Against a Fixed Vulnerable Target? A 400-Run Empirical Study of LLM Penetration Testing Consistency**|Galip Tolga Erdem et.al.|[2605.30096v1](http://arxiv.org/abs/2605.30096v1)|null|
