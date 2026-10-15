@@ -2,7 +2,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2026-10-10**|**SecReason: Vulnerability Detection and In-Stream Self-Repair for LLM Code Generation**|Ruidong Han et.al.|[2610.14453v1](http://arxiv.org/abs/2610.14453v1)|null|
+|**2026-10-14**|**P2Patch: Exploit-Guided Vulnerability Repair**|Mohsen Iranmanesh et.al.|[2610.20245v1](http://arxiv.org/abs/2610.20245v1)|null|
+|**2026-10-14**|**SecReason: Vulnerability Detection and In-Stream Self-Repair for LLM Code Generation**|Ruidong Han et.al.|[2610.14453v2](http://arxiv.org/abs/2610.14453v2)|null|
 |**2026-10-09**|**EviRepair: Evidence-Driven Agents for Reliable Vulnerability Repair**|Yilian Shi et.al.|[2610.13491v1](http://arxiv.org/abs/2610.13491v1)|null|
 |**2026-10-05**|**Where Did the Repair First Go Wrong? Localizing the Origins of Silent Failures in Agentic Vulnerability Repair**|Wenji Bai et.al.|[2610.06163v1](http://arxiv.org/abs/2610.06163v1)|null|
 |**2026-09-22**|**Metrics Failure in LLM-Based Code Vulnerability Repair: An Empirical Study and a Change-Aware Screen**|Om Nepal et.al.|[2609.26749v1](http://arxiv.org/abs/2609.26749v1)|null|
