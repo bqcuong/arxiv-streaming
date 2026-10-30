@@ -2,6 +2,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-29**|**ExploreRepair: Evidence-Specialized Agents for Vulnerability Repair under Information Constraints**|Duc Manh Tran et.al.|[2610.39899v1](http://arxiv.org/abs/2610.39899v1)|null|
 |**2026-10-23**|**DeepAVR: Deep Analysis via Multi-Agent Collaboration for Automated Vulnerability Repair**|Woorim Han et.al.|[2610.32345v1](http://arxiv.org/abs/2610.32345v1)|null|
 |**2026-10-14**|**P2Patch: Exploit-Guided Vulnerability Repair**|Mohsen Iranmanesh et.al.|[2610.20245v1](http://arxiv.org/abs/2610.20245v1)|null|
 |**2026-10-14**|**SecReason: Vulnerability Detection and In-Stream Self-Repair for LLM Code Generation**|Ruidong Han et.al.|[2610.14453v2](http://arxiv.org/abs/2610.14453v2)|null|
@@ -147,7 +148,7 @@
 |**2025-11-14**|**PATCHEVAL: A New Benchmark for Evaluating LLMs on Patching Real-World Vulnerabilities**|Zichao Wei et.al.|[2511.11019v1](http://arxiv.org/abs/2511.11019v1)|null|
 |**2026-04-13**|**HYDRA: A Hybrid Heuristic-Guided Deep Representation Architecture for Predicting Latent Zero-Day Vulnerabilities in Patched Functions**|Mohammad Farhad et.al.|[2511.06220v2](http://arxiv.org/abs/2511.06220v2)|null|
 |**2026-07-01**|**Match & Mend: Minimally Invasive Local Reassembly for Patching N-day Vulnerabilities in ARM Binaries**|Sebastian Jänich et.al.|[2510.14384v2](http://arxiv.org/abs/2510.14384v2)|null|
-|**2025-09-30**|**Red Teaming Program Repair Agents: When Correct Patches can Hide Vulnerabilities**|Simin Chen et.al.|[2509.25894v1](http://arxiv.org/abs/2509.25894v1)|null|
+|**2026-10-29**|**Red Teaming Program Repair Agents: When Correct Patches can Hide Vulnerabilities**|Simin Chen et.al.|[2509.25894v2](http://arxiv.org/abs/2509.25894v2)|null|
 |**2025-09-28**|**Revisiting Vulnerability Patch Localization: An Empirical Study and LLM-Based Solution**|Haoran Xu et.al.|[2509.15777v2](http://arxiv.org/abs/2509.15777v2)|null|
 |**2025-09-16**|**Vulnerability Patching Across Software Products and Software Components: A Case Study of Red Hat's Product Portfolio**|Jukka Ruohonen et.al.|[2509.13117v1](http://arxiv.org/abs/2509.13117v1)|null|
 |**2025-09-12**|**Dynamic Vulnerability Patching for Heterogeneous Embedded Systems Using Stack Frame Reconstruction**|Ming Zhou et.al.|[2509.10213v1](http://arxiv.org/abs/2509.10213v1)|null|
@@ -255,6 +256,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-28**|**DeepDiff: Neuro-Dynamic Regression-Freedom Checking for Security Patch Validation**|Laboni Sarker et.al.|[2610.39066v1](http://arxiv.org/abs/2610.39066v1)|null|
 |**2026-09-07**|**One Is Not Enough: The Untold Story of Multiple Security Patches for One Vulnerability**|Fangyuan Zhang et.al.|[2609.07224v1](http://arxiv.org/abs/2609.07224v1)|null|
 |**2026-08-18**|**Benchmarking Automated Security Patch Backporting: How Far Are We?**|Jincheng Yang et.al.|[2608.17671v1](http://arxiv.org/abs/2608.17671v1)|null|
 |**2026-09-19**|**FakeIDet3-DB: Refining Digital Attacks and Patch Extraction for Secure ID Benchmarking**|Javier Muñoz-Haro et.al.|[2607.26641v2](http://arxiv.org/abs/2607.26641v2)|null|
