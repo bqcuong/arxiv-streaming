@@ -193,7 +193,7 @@
 |**2026-03-01**|**Detect Repair Verify for Securing LLM Generated Code: A Multi-Language Empirical Study**|Cheng Cheng et.al.|[2603.00897v1](http://arxiv.org/abs/2603.00897v1)|null|
 |**2026-01-26**|**Adversarial Bug Reports as a Security Risk in Language Model-Based Automated Program Repair**|Piotr Przymus et.al.|[2509.05372v2](http://arxiv.org/abs/2509.05372v2)|null|
 |**2025-08-22**|**LLM-GUARD: Large Language Model-Based Detection and Repair of Bugs and Security Vulnerabilities in C++ and Python**|Akshay Mhatre et.al.|[2508.16419v1](http://arxiv.org/abs/2508.16419v1)|null|
-|**2025-12-29**|**How Safe Are AI-Generated Patches? A Large-scale Study on Security Risks in LLM and Agentic Automated Program Repair on SWE-bench**|Amirali Sajadi et.al.|[2507.02976v3](http://arxiv.org/abs/2507.02976v3)|null|
+|**2026-11-01**|**How Safe Are AI-Generated Patches? A Large-scale Study on Security Risks in LLM and Agentic Automated Program Repair on SWE-bench**|Amirali Sajadi et.al.|[2507.02976v4](http://arxiv.org/abs/2507.02976v4)|null|
 |**2026-02-17**|**Secure Coding with AI -- From Detection to Repair**|Vladislav Belozerov et.al.|[2504.20814v2](http://arxiv.org/abs/2504.20814v2)|null|
 |**2025-11-20**|**Securing Smart Contract Languages with a Unified Agentic Framework for Vulnerability Repair in Solidity and Move**|Rabimba Karanjai et.al.|[2502.18515v2](http://arxiv.org/abs/2502.18515v2)|null|
 |**2024-09-01**|**Enhancing Source Code Security with LLMs: Demystifying The Challenges and Generating Reliable Repairs**|Nafis Tanveer Islam et.al.|[2409.00571v1](http://arxiv.org/abs/2409.00571v1)|null|
@@ -272,7 +272,7 @@
 |**2026-09-25**|**What Do They Fix? LLM-Aided Categorization of Security Patches for Critical Memory Bugs**|Xingyu Li et.al.|[2509.22796v2](http://arxiv.org/abs/2509.22796v2)|null|
 |**2025-09-12**|**Securing LLM-Generated Embedded Firmware through AI Agent-Driven Validation and Patching**|Seyed Moein Abtahi et.al.|[2509.09970v1](http://arxiv.org/abs/2509.09970v1)|null|
 |**2025-09-07**|**Empirical Study of Code Large Language Models for Binary Security Patch Detection**|Qingyuan Li et.al.|[2509.06052v1](http://arxiv.org/abs/2509.06052v1)|null|
-|**2025-12-29**|**How Safe Are AI-Generated Patches? A Large-scale Study on Security Risks in LLM and Agentic Automated Program Repair on SWE-bench**|Amirali Sajadi et.al.|[2507.02976v3](http://arxiv.org/abs/2507.02976v3)|null|
+|**2026-11-01**|**How Safe Are AI-Generated Patches? A Large-scale Study on Security Risks in LLM and Agentic Automated Program Repair on SWE-bench**|Amirali Sajadi et.al.|[2507.02976v4](http://arxiv.org/abs/2507.02976v4)|null|
 |**2025-09-11**|**AdvReal: Physical Adversarial Patch Generation Framework for Security Evaluation of Object Detection Systems**|Yuanhao Huang et.al.|[2505.16402v2](http://arxiv.org/abs/2505.16402v2)|null|
 |**2025-05-11**|**Federated Learning with LoRA Optimized DeiT and Multiscale Patch Embedding for Secure Eye Disease Recognition**|Md. Naimur Asif Borno et.al.|[2505.06982v1](http://arxiv.org/abs/2505.06982v1)|null|
 |**2024-12-11**|**Repository-Level Graph Representation Learning for Enhanced Security Patch Detection**|Xin-Cheng Wen et.al.|[2412.08068v1](http://arxiv.org/abs/2412.08068v1)|null|
