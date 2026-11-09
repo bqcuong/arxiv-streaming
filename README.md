@@ -258,6 +258,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-06**|**Agents on the Patch Path: Mining AI-Associated Security Remediation in GitHub Security Advisories**|Claudio Segal et.al.|[2611.09808v1](http://arxiv.org/abs/2611.09808v1)|null|
 |**2026-10-28**|**DeepDiff: Neuro-Dynamic Regression-Freedom Checking for Security Patch Validation**|Laboni Sarker et.al.|[2610.39066v1](http://arxiv.org/abs/2610.39066v1)|null|
 |**2026-09-07**|**One Is Not Enough: The Untold Story of Multiple Security Patches for One Vulnerability**|Fangyuan Zhang et.al.|[2609.07224v1](http://arxiv.org/abs/2609.07224v1)|null|
 |**2026-08-18**|**Benchmarking Automated Security Patch Backporting: How Far Are We?**|Jincheng Yang et.al.|[2608.17671v1](http://arxiv.org/abs/2608.17671v1)|null|
