@@ -80,6 +80,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-15**|**Found, but Not Fixed : From Software Vulnerability Discovery to Fixes with Iterative LLM Pipelines**|Youssef Gamal et.al.|[2611.19719v1](http://arxiv.org/abs/2611.19719v1)|null|
 |**2026-10-12**|**VulnBump: A Benchmark for Fixing Vulnerable Dependencies in Real Projects While Keeping the Build and Tests Green**|Gabija Pasiunaite et.al.|[2610.17374v1](http://arxiv.org/abs/2610.17374v1)|null|
 |**2026-09-29**|**A Function-level Dataset of Vulnerable and Fixed Source Code in JavaScript and TypeScript**|Tamás Viszkok et.al.|[2609.38012v1](http://arxiv.org/abs/2609.38012v1)|null|
 |**2026-07-14**|**Why Not Fix It Once and for All? An Empirical Study of Multiple Patches for Vulnerability Fixes in Open-Source Software**|Weiliang Qi et.al.|[2607.13206v1](http://arxiv.org/abs/2607.13206v1)|null|
