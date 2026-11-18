@@ -80,6 +80,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-17**|**Exploited Before It Was Fixed? Vulnerability Timelines from Open, Machine-Readable Evidence**|Cédric Bonhomme et.al.|[2611.22479v1](http://arxiv.org/abs/2611.22479v1)|null|
 |**2026-11-15**|**Found, but Not Fixed : From Software Vulnerability Discovery to Fixes with Iterative LLM Pipelines**|Youssef Gamal et.al.|[2611.19719v1](http://arxiv.org/abs/2611.19719v1)|null|
 |**2026-10-12**|**VulnBump: A Benchmark for Fixing Vulnerable Dependencies in Real Projects While Keeping the Build and Tests Green**|Gabija Pasiunaite et.al.|[2610.17374v1](http://arxiv.org/abs/2610.17374v1)|null|
 |**2026-09-29**|**A Function-level Dataset of Vulnerable and Fixed Source Code in JavaScript and TypeScript**|Tamás Viszkok et.al.|[2609.38012v1](http://arxiv.org/abs/2609.38012v1)|null|
@@ -221,6 +222,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2006-12-11**|**Secure Classical Bit Commitment using Fixed Capacity Communication Channels**|Adrian Kent et.al.|[quant-ph/9906103v7](http://arxiv.org/abs/quant-ph/9906103v7)|null|
+|**2026-11-17**|**Missing Security-Fix Backporting for GitHub Actions Workflows**|Chengyan Ma et.al.|[2611.22519v1](http://arxiv.org/abs/2611.22519v1)|null|
 |**2026-11-02**|**Fixed Detectors, Moving Code: How Well Do Static Security Analyzers Hold Up over a Decade of C/C++ Evolution?**|Junhua Tang et.al.|[2611.03742v1](http://arxiv.org/abs/2611.03742v1)|null|
 |**2026-08-14**|**Does Fixing Break Security? An Empirical Study of Security Degradation in Iterative LLM-Driven Infrastructure-as-Code Repair**|Benjamin Agyekum et.al.|[2608.13404v2](http://arxiv.org/abs/2608.13404v2)|null|
 |**2026-09-16**|**Secure Relay Low-Altitude Networks via Hybrid Fixed-Position and Rotatable Antenna Arrays**|Maolin Li et.al.|[2607.26531v3](http://arxiv.org/abs/2607.26531v3)|null|
