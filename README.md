@@ -80,6 +80,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-18**|**Mitigating fix reversal: Counterfactual constraints for function-level vulnerability detection**|Yun Bian et.al.|[2611.24489v1](http://arxiv.org/abs/2611.24489v1)|null|
 |**2026-11-17**|**Exploited Before It Was Fixed? Vulnerability Timelines from Open, Machine-Readable Evidence**|Cédric Bonhomme et.al.|[2611.22479v1](http://arxiv.org/abs/2611.22479v1)|null|
 |**2026-11-15**|**Found, but Not Fixed : From Software Vulnerability Discovery to Fixes with Iterative LLM Pipelines**|Youssef Gamal et.al.|[2611.19719v1](http://arxiv.org/abs/2611.19719v1)|null|
 |**2026-10-12**|**VulnBump: A Benchmark for Fixing Vulnerable Dependencies in Real Projects While Keeping the Build and Tests Green**|Gabija Pasiunaite et.al.|[2610.17374v1](http://arxiv.org/abs/2610.17374v1)|null|
